@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>设置页</title>
+  <link rel="stylesheet" href="./options.css" type="text/css">
+  <script src="/src/js/jquery.min.js"></script>
+</head>
+
+<body>
+  <div class="content">
+    <h2><img src="../src/img/icons/a48.png" style="margin: -6px 10px;width:32px">设置</h2>
+    <hr>
+    <table class="settings">
+      <tr>
+        <td><label for="minWidth" class="title">图片最小宽度</label></td>
+        <td><input type="range" name="minWidth" id="min_width" min="100" max="1200" step="100" class="range" value="200">
+          <span id="minWidthValue">200</span> px</td>
+      </tr>
+      <tr>
+        <td><label for="minWidth" class="title">图片最小高度</label></td>
+        <td><input type="range" name="minHeight" id="min_height" min="100" max="1200" step="100" class="range" value="200">
+          <span id="minHeightValue">200</span> px</td>
+      </tr>
+      <tr>
+        <td><label for="minWidth" class="title">快捷键</label></td>
+        <td><input type="checkbox" checked id="hotkey" name="hotkey"> <label for="hotkey">开启</label>
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td style="line-height: 20px;padding-left: 4px">插件快捷键：Alt+`<br/>访问插件网站：Alt+2</td>
+      </tr>
+      <tr>
+        <td><label for="minWidth" class="title">反馈建议</label></td>
+        <td><a class="report" href="https://github.com/chrome-dollop/site-chrome-photo-masonry/issues" target="_blank">遇到 bug 或者有什么新想法？点击这里给我们提建议<a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><button class="save-button" id="save-button">保存</button></td>
+    </tr>
+  </table>
+  <div class="notify" id="notify">保存成功</div>
+</div>
+</div>
+<script type="text/javascript" src="./options.js"></script>
+</body>
+</html>

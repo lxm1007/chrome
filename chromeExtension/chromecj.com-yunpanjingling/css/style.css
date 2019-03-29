@@ -1,0 +1,94 @@
+/**
+ * Global
+ */
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    font-size: 14px;
+    color: #333;
+}
+
+/**
+ * Element UI
+ */
+.el-row {
+}
+
+/**
+ * App Container
+ */
+.app-container .common-block {
+    padding: 0 15px;
+}
+.app-container .common-block .header {
+    padding: 15px 0;
+    border-bottom: 1px solid #e6e6e6;
+}
+.app-container .common-block .header .center {
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 28px;
+    text-align: center;
+    overflow: hidden;
+}
+.app-container .common-block .header .right {
+    text-align: right;
+}
+.app-container .common-block .body {
+    padding: 15px 0;
+    border-bottom: 1px solid #e6e6e6;
+}
+.app-container .common-block .body > .el-row > .el-button {
+    margin-left: 0;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.app-container .common-block .body > .el-row {
+    margin-bottom: 15px;
+}
+.app-container .common-block .body > .el-row:last-child {
+    margin-bottom: 0;
+}
+.app-container .main-block {
+    width: 380px;
+}
+.app-container .main-block .bottom {
+    padding: 15px 0;
+}
+.app-container .main-block .bottom .el-switch__label {
+    color: #e6e6e6;
+}
+.app-container .main-block .bottom .el-switch__label * {
+    font-size: 12px;
+}
+.app-container .main-block .bottom .el-switch__label.is-active {
+    color: #999;
+}
+.app-container .main-block .bottom .right {
+    font-size: 12px;
+    color: #999;
+    line-height: 20px;
+    text-align: right;
+}
+.app-container .main-block .bottom .right a {
+    color: red;
+    text-decoration: none;
+}
+.app-container .login-block {
+    width: 380px;
+}
+.app-container .share-block {
+    width: 600px;
+}
+.app-container .share-block .share-agreement {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.app-container .share-block .body {
+    border-bottom: none;
+}
+.app-container .share-block .body .error,
+.app-container .share-block .body .loading {
+    color: #999;
+    line-height: 60px;
+    text-align: center;
+}

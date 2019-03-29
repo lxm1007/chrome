@@ -1,0 +1,994 @@
+{
+   "360_desc": {
+      "message": "Mesin pencari yang aman"
+   },
+   "360search": {
+      "message": "360"
+   },
+   "about": {
+      "message": "Tentang"
+   },
+   "about_us": {
+      "message": "Tentang kami"
+   },
+   "add": {
+      "message": "Tambahkan"
+   },
+   "add_city": {
+      "message": "Tambah Kota"
+   },
+   "add_search_engine": {
+      "message": "Tambahkan mesin telusur"
+   },
+   "added": {
+      "message": "Ditambahkan"
+   },
+   "alipay": {
+      "message": "Alipay"
+   },
+   "all": {
+      "message": "Semua"
+   },
+   "all_wallpaper": {
+      "message": "Semua gambar latar"
+   },
+   "all_wallpaper_sources": {
+      "message": "Semua gambar latar"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "Semua sumber gambar latar"
+   },
+   "animation": {
+      "message": "Animasi"
+   },
+   "animation_desc": {
+      "message": "Dapat memengaruhi kelancaran produk jika Anda menghidupkan animasinya"
+   },
+   "app": {
+      "message": "App"
+   },
+   "app_disabled_enable_first": {
+      "message": "Aplikasi ini terblok oleh Anda. Apakah Anda ingin memberi Infinity izin untuk mengaktifkannya terlebih dahulu?"
+   },
+   "appearance": {
+      "message": "Lihat"
+   },
+   "apple": {
+      "message": "Apple"
+   },
+   "auto_change_wallpaper": {
+      "message": "Ubah gambar latar secara otomatis"
+   },
+   "auto_sync_data": {
+      "message": "Sinkronkan data secara otomatis"
+   },
+   "auto_sync_data_desc": {
+      "message": "Setelah aktivasi, data akan otomatis disinkronkan dengan perubahan yang ada"
+   },
+   "background_color": {
+      "message": "Warna Latar Belakang"
+   },
+   "backup_confirm_content": {
+      "message": "Data lokal akan menimpa data cloud. Apakah saya tetap bisa melanjutkan?"
+   },
+   "backup_now": {
+      "message": "Cadangkan Sekarang"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "baidu_desc": {
+      "message": "Mesin pencari ini paling banyak digunakan oleh orang Tiongkok"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "Berfokus untuk mengumpulkan fotografi jenis non galeri yang gratis dan berkualitas tinggi"
+   },
+   "basic_user_account": {
+      "message": "Akun dasar"
+   },
+   "beijing": {
+      "message": "Beijing"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Bing adalah mesin pencari yang dikembangkan oleh Microsoft"
+   },
+   "bing_wallpaper": {
+      "message": "Perpustakaan gambar latar bing harian"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "Perpustakaan gambar latar bing harian"
+   },
+   "bookmarks": {
+      "message": "Penanda"
+   },
+   "can_not_delete_current_search_engine": {
+      "message": "Mesin pencari sekarang tidak dapat dihapus"
+   },
+   "can_you_give_us_a_five_star": {
+      "message": "Maukah Anda memberi kami lima bintang?"
+   },
+   "cancel": {
+      "message": "Batalkan"
+   },
+   "cancel_login": {
+      "message": "Batal Masuk"
+   },
+   "change_wallpaper_source": {
+      "message": "Ganti sumber gambar latar"
+   },
+   "choose_local_wallpaper": {
+      "message": "Pilih wallpaper lokal"
+   },
+   "chrome_apps": {
+      "message": "Aplikasi Chrome"
+   },
+   "chromes_store": {
+      "message": "Toko Web Chrome"
+   },
+   "clear_done": {
+      "message": "Data dibersihkan"
+   },
+   "clear_history": {
+      "message": "Bersihkan Riwayat"
+   },
+   "click_to_reload": {
+      "message": "Muat ulang"
+   },
+   "color": {
+      "message": "Warna"
+   },
+   "color_wallpaper": {
+      "message": "Gambar latar satu warna"
+   },
+   "column_count": {
+      "message": "hitungan kolom"
+   },
+   "confirm": {
+      "message": "Oke"
+   },
+   "confirm_donate": {
+      "message": "Saya ingin menyumbang"
+   },
+   "contact_us": {
+      "message": "Hubungi kami"
+   },
+   "copy": {
+      "message": "Salin"
+   },
+   "create_custom_search_engine": {
+      "message": "+ mesin telusur baru"
+   },
+   "custom": {
+      "message": "Sesuaikan"
+   },
+   "custom_icon": {
+      "message": "Ikon kustom"
+   },
+   "custom_layout": {
+      "message": "tata letak khusus"
+   },
+   "cut": {
+      "message": "Memotong"
+   },
+   "data_backup": {
+      "message": "Cadangan data"
+   },
+   "data_backup_failed": {
+      "message": "Pencadangan Gagal"
+   },
+   "data_backup_successed": {
+      "message": "Pencadangan Selesai"
+   },
+   "data_recovery": {
+      "message": "Pulihkan data"
+   },
+   "data_recovery_failed": {
+      "message": "Pemulihan data gagal"
+   },
+   "data_recovery_failed_because_never_backup": {
+      "message": "Pemulihan data gagal karena data belum Anda cadangkan"
+   },
+   "data_recovery_successed": {
+      "message": "Pemulihan data berhasil"
+   },
+   "default": {
+      "message": "Default"
+   },
+   "delete": {
+      "message": "Hapus"
+   },
+   "delete_folder_and_preserve_icons_confirm_content": {
+      "message": "Folder akan dihapus, ikon akan dipertahankan, oke?"
+   },
+   "delete_folder_confirm_content": {
+      "message": "Folder itu akan dihapus, oke?"
+   },
+   "digital_tech": {
+      "message": "Teknologi digital"
+   },
+   "disable": {
+      "message": "Non aktifkan"
+   },
+   "disabled": {
+      "message": "Nonaktif"
+   },
+   "discovery": {
+      "message": "Penemuan"
+   },
+   "display_text": {
+      "message": "Nama Layar"
+   },
+   "donate": {
+      "message": "Menyumbangkan"
+   },
+   "done": {
+      "message": "Selesai"
+   },
+   "download_wallpaper": {
+      "message": "Unduh wallpaper"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "DuckDuckGo berfokus untuk mengimpor konten dari situs-situs besar Web 2.0 selain menjadi mesin pencari tradisional Filosofi situs web ini adalah menghargai privasi penggunanya, berjanji untuk tidak memonitor atau mendokumentasikan konten pencarian pengguna"
+   },
+   "edit": {
+      "message": "Edit"
+   },
+   "edit_icon": {
+      "message": "Sunting ikon"
+   },
+   "education_and_recruit": {
+      "message": "Edukasi dan pekerjaan"
+   },
+   "elastic_slide_animation": {
+      "message": "Spring Animation"
+   },
+   "empty_folder": {
+      "message": "(Kosong)"
+   },
+   "enable": {
+      "message": "Aktifkan"
+   },
+   "enabled": {
+      "message": "Diaktifkan"
+   },
+   "engine_address_label": {
+      "message": "URL dengan “%s” di tempat kueri"
+   },
+   "engine_icon_label": {
+      "message": "Ikon"
+   },
+   "engine_label": {
+      "message": "Mesin telusur"
+   },
+   "enter_and_search": {
+      "message": "Masukkan dan cari... "
+   },
+   "extdesc": {
+      "message": "Ini mungkin adalah tabulasi baru paling ramah pengguna di peramban"
+   },
+   "extension": {
+      "message": "Kelola ekstensi"
+   },
+   "extname": {
+      "message": "Infinity New Tab (Pro)"
+   },
+   "facebook_group": {
+      "message": "Grup Facebook\n"
+   },
+   "feedback": {
+      "message": "umpan balik"
+   },
+   "file_migrate_btn": {
+      "message": "Pilih berkas cadangan lokal"
+   },
+   "file_migrate_desc": {
+      "message": "Jika Anda memilih untuk mentransfer melalui berkas cadangan, pastikan:"
+   },
+   "file_migrate_requirement": {
+      "message": "Anda telah mengekspor data dari versi lama"
+   },
+   "file_migrate_title": {
+      "message": "Rencana 2: transfer melalui berkas cadangan"
+   },
+   "filter": {
+      "message": "Pilih"
+   },
+   "finance": {
+      "message": "Keuangan"
+   },
+   "firefox_store": {
+      "message": "Toko add-on Firefox"
+   },
+   "folder": {
+      "message": "Folder"
+   },
+   "follow_us": {
+      "message": "Ikuti kami"
+   },
+   "font": {
+      "message": "Font"
+   },
+   "font_color": {
+      "message": "Warna Font"
+   },
+   "font_shadow": {
+      "message": "Bayangan huruf"
+   },
+   "font_size": {
+      "message": "Ukuran font"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "Banyak sekali foto bebas royalti, bebas digunakan dan diperbarui setiap hari"
+   },
+   "from": {
+      "message": "Dari$from$",
+      "placeholders": {
+         "from": {
+            "content": "$1"
+         }
+      }
+   },
+   "from_user": {
+      "message": "Dari pengguna:"
+   },
+   "game_and_entertainment": {
+      "message": "Permainan dan hiburan"
+   },
+   "gmail_notification": {
+      "message": "Notifikasi Gmail"
+   },
+   "gmail_notification_ring": {
+      "message": "Nada dering notifikasi Gmail"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "Google Search adalah mesin pencari yang dikembangkan oleh Google. Ini adalah mesin pencari terbesar dan paling berpengaruh di internet"
+   },
+   "have_feedback": {
+      "message": "Masukan"
+   },
+   "hide_search_btn": {
+      "message": "Sembunyikan tombol pencarian"
+   },
+   "hide_search_type": {
+      "message": "Sembunyikan kategori pencarian"
+   },
+   "hide_searcher": {
+      "message": "Sembunyikan kotak pencarian"
+   },
+   "history": {
+      "message": "Riwayat"
+   },
+   "hot_city": {
+      "message": "Kota-kota populer"
+   },
+   "hour": {
+      "message": "jam"
+   },
+   "humidity": {
+      "message": "kelembapan"
+   },
+   "icon": {
+      "message": "Ikon"
+   },
+   "icon_margin_x": {
+      "message": "Antara Kolom"
+   },
+   "icon_margin_y": {
+      "message": "spasi baris"
+   },
+   "icon_opacity": {
+      "message": "Transparansi ikon"
+   },
+   "icon_radius": {
+      "message": "Ikon dengan sudut melingkar"
+   },
+   "icon_shadow": {
+      "message": "Bayangan ikon"
+   },
+   "icon_size": {
+      "message": "ukuran ikon"
+   },
+   "images": {
+      "message": "Gambar"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Infinity Feature Anime Wallpaper"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "Perpustakaan wallpaper anime infinity berkualitas tinggi"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Infinity Landscape Wallpaper Unggulan"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "Perpustakaan wallpaper lanskap infinity berkualitas tinggi"
+   },
+   "information": {
+      "message": "Pesan"
+   },
+   "insert_img": {
+      "message": "Sisipkan Gambar"
+   },
+   "insert_link": {
+      "message": "Tambah Tautan"
+   },
+   "invite_you_to_try_vip": {
+      "message": "Anda kami undang untuk mencoba {{vip}} secara gratis"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "Foto gratis untuk sembarang penggunaan"
+   },
+   "last_update_at": {
+      "message": "Terakhir diperbarui $update$",
+      "placeholders": {
+         "update": {
+            "content": "$1"
+         }
+      }
+   },
+   "layout": {
+      "message": "Tata Letak"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "Sumber gambar latar HD gratis"
+   },
+   "life_style": {
+      "message": "Gaya hidup"
+   },
+   "local_wallpaper": {
+      "message": "Wallpaper lokal"
+   },
+   "login": {
+      "message": "Masuk"
+   },
+   "login_infinity": {
+      "message": "Masuk Ke Infinity"
+   },
+   "login_successed": {
+      "message": "Berhasil Masuk"
+   },
+   "login_tip": {
+      "message": "Langsung menikmati lebih banyak fasilitas"
+   },
+   "login_to_insert_image": {
+      "message": "Anda hanya dapat memasukkan gambar setelah log in"
+   },
+   "login_to_try_vip": {
+      "message": "Nikmati {{vip}} secara gratis setelah {{login: Log in}}"
+   },
+   "logining_to": {
+      "message": "Masuk"
+   },
+   "logout": {
+      "message": "Log keluar"
+   },
+   "london": {
+      "message": "London"
+   },
+   "main_zoom": {
+      "message": "Zoom Layar"
+   },
+   "maps": {
+      "message": "Peta"
+   },
+   "may_affect_performance": {
+      "message": "dapat mempengaruhi kinerja"
+   },
+   "migrate_basic_user_data": {
+      "message": "Gunakan akun dasar untuk mentransfer data"
+   },
+   "migrate_basic_user_data_successed": {
+      "message": "Transfer data selesai"
+   },
+   "migrate_desc": {
+      "message": "Jika Anda telah menggunakan Infinity New Tab versi dasar (ID：dbfmnekepjoapopniengjbcpnbljalfg), Anda dapat mentransfer data Anda ke laman ini. Jika Anda belum pernah menggunakan versi dasar, silakan abaikan laman ini. Anda dapat memilih salah satu dari metode berikut untuk mentransfer data Anda."
+   },
+   "migrate_failed": {
+      "message": "Transfer data gagal, silakan coba lagi"
+   },
+   "migrate_from_basic": {
+      "message": "Transfer data dari versi lama"
+   },
+   "migrate_from_basic_desc": {
+      "message": "Jika Anda pernah menggunakan Infinity New Tab dasar, klik pada \"transfer sekarang\" untuk mentransfer data Anda ke versi Pro"
+   },
+   "migrate_now": {
+      "message": "Transfer sekarang"
+   },
+   "migrate_successed": {
+      "message": "Transfer data berhasil, silakan tutup laman ini setelah mengeklik konfirmasi"
+   },
+   "migrate_title": {
+      "message": "Transfer data Anda"
+   },
+   "mini_mode": {
+      "message": "Gaya minimalis"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "Gunakan di situs web, tema, templat, proyek, bahan cetak, dan koran Anda. Ditambahkan video dan gambar latar baru setiap minggunya"
+   },
+   "mobile_device": {
+      "message": "Ponsel"
+   },
+   "more": {
+      "message": "Lainnya"
+   },
+   "music_and_video": {
+      "message": "Video Musik"
+   },
+   "must_five_star": {
+      "message": "Tentu akan saya beri lima bintang!"
+   },
+   "my": {
+      "message": "Saya"
+   },
+   "my_backup": {
+      "message": "Cadangan"
+   },
+   "my_backup_desc": {
+      "message": "Silakan Log in untuk menggunakan fungsi cadangan"
+   },
+   "name": {
+      "message": "Nama"
+   },
+   "need_your_support": {
+      "message": "Dukungan Anda adalah hadiah terbesar kami"
+   },
+   "news": {
+      "message": "Berita"
+   },
+   "newtab": {
+      "message": "Tab Baru"
+   },
+   "newyork": {
+      "message": "New York"
+   },
+   "next_wallpaper": {
+      "message": "Ganti ke gambar latar berikutnya"
+   },
+   "next_wallpaper_failed": {
+      "message": "Penggantian gambar latar gagal"
+   },
+   "next_wallpaper_successed": {
+      "message": "Penggantian gambar latar berhasil"
+   },
+   "no_custom_search_engine_added": {
+      "message": "Tidak ada mesin pencari terkustomisasi yang ditambahkan"
+   },
+   "no_description": {
+      "message": "Tidak Ada Deskripsi"
+   },
+   "no_extension_founded": {
+      "message": "Tidak ada ekstensi atau Aplikasi yang sesuai dengan kondisi"
+   },
+   "no_more": {
+      "message": "Tidak ada lagi"
+   },
+   "no_todo_added": {
+      "message": "Tidak ada yang perlu dilakukan saat ini, isi daftar kegiatan Anda, tambahkan dengan mengeklik enter"
+   },
+   "not_installed_any_chrome_apps": {
+      "message": "Anda belum memasang aplikasi Chrome apa pun"
+   },
+   "not_support": {
+      "message": "Versi Anda saat ini tidak mendukung aplikasi ini, silakan tingkatkan ke versi terbaru \"Infinity New Tab\""
+   },
+   "not_support_app": {
+      "message": "Saat ini peramban Anda tidak mendukung aplikasi ini"
+   },
+   "not_support_protocol": {
+      "message": "Saat ini peramban Anda tidak mendukung fungsi ini."
+   },
+   "notes": {
+      "message": "Catatan"
+   },
+   "nothing_founded": {
+      "message": "Tidak menemukan apa-apa"
+   },
+   "notification": {
+      "message": "Pemberitahuan"
+   },
+   "notifications_title": {
+      "message": "Pusat pesan"
+   },
+   "one_key_migrate_btn": {
+      "message": "Transfer satu klik"
+   },
+   "one_key_migrate_desc": {
+      "message": "Jika Anda menggunakan transfer satu klik, pastikan:"
+   },
+   "one_key_migrate_requirement": {
+      "message": "Di peramban ini terpasang versi lama"
+   },
+   "one_key_migrate_title": {
+      "message": "Rencana 1: transfer satu klik"
+   },
+   "opacity_slide_animation": {
+      "message": "Fade In"
+   },
+   "open": {
+      "message": "Membuka"
+   },
+   "open_all": {
+      "message": "Buka semua"
+   },
+   "open_auto_sync_failed": {
+      "message": "Gagal mengaktifkan sinkronisasi otomatis"
+   },
+   "open_bookmark_link_in_new_tab": {
+      "message": "Buka tautan ditandai di tabulasi baru"
+   },
+   "open_history_in_new_tab": {
+      "message": "Buka riwayat di tabulasi baru"
+   },
+   "open_search_result_in_new_tab": {
+      "message": "Buka hasil pencarian pihak ketiga di tabulasi baru"
+   },
+   "open_site_in_new_tab": {
+      "message": "Buka situs web di tabulasi baru"
+   },
+   "open_target": {
+      "message": "Cara membuka target"
+   },
+   "open_target_desc": {
+      "message": "Metode follow hanya berlaku untuk modul internal infinity"
+   },
+   "open_wrallpaper_library": {
+      "message": "Buka perpustakaan gambar latar"
+   },
+   "operate_error": {
+      "message": "Tindakan salah?"
+   },
+   "or_use_mobile_visit_site": {
+      "message": "Atau langsung kunjungi dengan peramban mobile"
+   },
+   "other": {
+      "message": "Lainnya"
+   },
+   "password": {
+      "message": "Sandi"
+   },
+   "paste": {
+      "message": "Tempel"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "Foto indah dan gratis yang tersedia untuk sembarang penggunaan"
+   },
+   "picture": {
+      "message": "Gambar"
+   },
+   "please_enter_city_name": {
+      "message": "Kota/Wilayah"
+   },
+   "popular": {
+      "message": "Populer"
+   },
+   "preset_layout": {
+      "message": "tata letak default"
+   },
+   "pressure": {
+      "message": "Tekanan"
+   },
+   "preview": {
+      "message": "Pratinjau"
+   },
+   "privacy_policy": {
+      "message": "Kebijakan Privasi"
+   },
+   "pure_color": {
+      "message": "Warna murni"
+   },
+   "qq_group": {
+      "message": "Grup QQ"
+   },
+   "random_wallpaper": {
+      "message": "Wallpaper acak"
+   },
+   "random_wallpaper_failed": {
+      "message": "Gagal mendapatkan gambar latar acak"
+   },
+   "random_wallpaper_successed": {
+      "message": "Gambar latar acak berhasil diganti"
+   },
+   "read": {
+      "message": "Baca"
+   },
+   "readed_notifications": {
+      "message": "Pesan lama"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "Banyak sekali foto HD yang tersedia untuk penggunaan pribadi dan komersial, 7 foto baru setiap minggunya"
+   },
+   "recently_added": {
+      "message": "Baru Ditambahkan"
+   },
+   "recommend_third_login": {
+      "message": "Log-in pihak ketiga direkomendasikan"
+   },
+   "recovery_confirm_content": {
+      "message": "Data awan akan menggantikan data lokal. Apakah Anda mengonfirmasi tindakan ini?"
+   },
+   "rename": {
+      "message": "Ganti nama"
+   },
+   "required": {
+      "message": "Diperlukan"
+   },
+   "reset": {
+      "message": "Setel ulang"
+   },
+   "reset_settings": {
+      "message": "Setel ulang setelan"
+   },
+   "reset_settings_desc": {
+      "message": "Memulihkan setelan ke default aslinya"
+   },
+   "reset_settings_now": {
+      "message": "Atur Ulang Pengaturan"
+   },
+   "reset_settings_success": {
+      "message": "Berhasil"
+   },
+   "revert": {
+      "message": "Urung"
+   },
+   "revert_successed": {
+      "message": "Pembatalan berhasil"
+   },
+   "row_count": {
+      "message": "jumlah baris"
+   },
+   "search": {
+      "message": "Cari"
+   },
+   "search_bookmarks": {
+      "message": "Cari bookmark"
+   },
+   "search_history_in_week": {
+      "message": "Cari riwayat dalam seminggu"
+   },
+   "search_site": {
+      "message": "Cari di Web"
+   },
+   "searcher": {
+      "message": "Kotak pencarian"
+   },
+   "searcher_opacity": {
+      "message": "Transparansi kotak pencarian"
+   },
+   "searcher_radius": {
+      "message": "Kotak pencarian bersudut melingkar"
+   },
+   "searcher_shadow": {
+      "message": "Bayangan kotak pencarian"
+   },
+   "searcher_size": {
+      "message": "Ukuran kotak pencarian"
+   },
+   "select_all": {
+      "message": "Pilih Semua"
+   },
+   "settings": {
+      "message": "Pengaturan"
+   },
+   "shanghai": {
+      "message": "Shanghai"
+   },
+   "sharable": {
+      "message": "Bagikan"
+   },
+   "share_desc": {
+      "message": "Infinity New Tab, ekstensi navigasi yang dipilih oleh jutaan orang, tabulasi baru paling ramah pengguna di peramban"
+   },
+   "share_to_friends": {
+      "message": "Bagikan"
+   },
+   "share_to_others": {
+      "message": "Berbagi dengan pengguna infinity lainnya"
+   },
+   "shopping_and_group_shopping": {
+      "message": "Belanja dan pembelian berkelompok"
+   },
+   "show_bookmark_sidebar": {
+      "message": "Tampilkan Penanda"
+   },
+   "show_gmail_unread_email_nums": {
+      "message": "Tampilkan jumlah email yang belum dibaca dari  Gmail pada ikon"
+   },
+   "show_random_wallpaper_btn": {
+      "message": "Tampilkan tombol untuk mengubah wallpaper secara acak di sudut kanan bawah"
+   },
+   "show_slide_btn": {
+      "message": "Tombol balik halaman"
+   },
+   "show_todos_nums": {
+      "message": "Tampilkan jumlah kegiatan pada ikon"
+   },
+   "show_top_site_sidebar": {
+      "message": "Tampilkan situs yang sering digunakan di atas"
+   },
+   "side_zoom": {
+      "message": "Perbesaran kolom samping"
+   },
+   "site_address": {
+      "message": "Lokasi situs web"
+   },
+   "site_icon": {
+      "message": "Ikon situs"
+   },
+   "site_name": {
+      "message": "Nama situs web"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "Tempat untuk mencari, memajang, dan berbagi foto"
+   },
+   "social_and_blog": {
+      "message": "Media sosial dan blog"
+   },
+   "sogou": {
+      "message": "Sogou"
+   },
+   "sogou_desc": {
+      "message": "Mesin pencari yang dapat mencari konten yang diposting oleh akun resmi Wechat"
+   },
+   "some_city_weathers_not_found": {
+      "message": "Cuaca untuk $city_names$tidak ditemukan",
+      "placeholders": {
+         "city_names": {
+            "content": "$1"
+         }
+      }
+   },
+   "sorry_net_not_good": {
+      "message": "Kesalahan jaringan"
+   },
+   "source": {
+      "message": "Sumber"
+   },
+   "sport_and_travel": {
+      "message": "Olahraga dan perjalanan"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "Menyediakan foto gratis untuk start-up, blogger, penerbit, situs web, desainer, pengembang, kreator dan lainnya"
+   },
+   "sydney": {
+      "message": "Sydney"
+   },
+   "tag": {
+      "message": "Label"
+   },
+   "target_chrome_app_not_installed": {
+      "message": "Anda belum memasang aplikasi Chrome ini"
+   },
+   "terms_of_use": {
+      "message": "Syarat Penggunaan"
+   },
+   "text": {
+      "message": "Teks"
+   },
+   "time_interval": {
+      "message": "Interval"
+   },
+   "to_top": {
+      "message": "Ke atas"
+   },
+   "todos": {
+      "message": "Untuk Dilakukan"
+   },
+   "tokyo": {
+      "message": "Tokyo"
+   },
+   "try_now": {
+      "message": "Coba sekarang"
+   },
+   "unfolder": {
+      "message": "unfolder"
+   },
+   "unread_notifications": {
+      "message": "Pesan Baru"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "Gambar latar berkualitas tinggi yang terkenal di dunia"
+   },
+   "untitled_note": {
+      "message": "Tanpa Judul"
+   },
+   "upload_img_failed": {
+      "message": "Unggah file gagal"
+   },
+   "use_auto_change_wallpaper_desc": {
+      "message": "Ganti wallpaper secara otomatis dari wallpaper perpustakaan"
+   },
+   "use_bing_wallpaper_desc": {
+      "message": "Gunakan gambar latar Bing harian"
+   },
+   "use_color_wallpaper_desc": {
+      "message": "Gunakan warna di latar belakang"
+   },
+   "use_local_wallpaper_desc": {
+      "message": "Pilih gambar dari komputer Anda untuk dijadikan gambar latar"
+   },
+   "use_mobile_scan_qrcode": {
+      "message": "Gunakan perangkat mobile untuk memindai kode QR"
+   },
+   "use_wallpaper_library_desc": {
+      "message": "Pilih gambar latar favorit Anda dari perpustakaan besar gambar awan"
+   },
+   "user_share": {
+      "message": "Dibagikan oleh pengguna lain"
+   },
+   "user_support": {
+      "message": "Dukungan"
+   },
+   "username_or_password_wrong": {
+      "message": "Nama pengguna atau kata sandi salah"
+   },
+   "videos": {
+      "message": "Video"
+   },
+   "wallpaper": {
+      "message": "Wallpaper"
+   },
+   "wallpaper_blur": {
+      "message": "Definisi gambar latar"
+   },
+   "wallpaper_desc": {
+      "message": "Anda hanya dapat memilih satu"
+   },
+   "wallpaper_library": {
+      "message": "Wallpaper"
+   },
+   "wallpaper_mask_concentration": {
+      "message": "Transparansi gambar latar"
+   },
+   "weather": {
+      "message": "Cuaca"
+   },
+   "weather_added": {
+      "message": "Anda sudah menambahkan kota ini"
+   },
+   "web": {
+      "message": "Web"
+   },
+   "weibo": {
+      "message": "Weibo"
+   },
+   "weixin": {
+      "message": "WeChat"
+   },
+   "what_need_to_do": {
+      "message": "Apa yang akan Anda lakukan?"
+   },
+   "wind": {
+      "message": "angin"
+   },
+   "yahoo": {
+      "message": "Yahoo"
+   },
+   "yahoo_desc": {
+      "message": "Yahoo Search adalah mesin pencari yang dioperasikan oleh Yahoo"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Yandex adalah salah satu portal layanan internet terpenting di Rusia"
+   },
+   "you_have_days_expired": {
+      "message": "Hak istimewa Anda akan berakhir dalam  $days$ hari",
+      "placeholders": {
+         "days": {
+            "content": "$1"
+         }
+      }
+   }
+}

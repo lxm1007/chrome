@@ -1,0 +1,45 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "name": "图流-SimpSee",
+  "version": "0.0.18",
+  "manifest_version": 2,
+  "description": "图片瀑布流展示, photo in masonry, SimpSee",
+  "homepage_url": "http://photo-masonry.aacc.in/",
+  "icons": {
+    "16": "src/img/icons/a16.png",
+    "48": "src/img/icons/a48.png",
+    "128": "src/img/icons/a128.png"
+  },
+  "browser_action": {
+    "default_icon": "src/img/icons/a48.png",
+    "default_title": "图流"
+  },
+  "background": {
+    "scripts": [
+      "src/js/jquery.min.js",
+      "app/background/background.js"
+    ]
+  },
+  "permissions": [
+    "storage",
+    "webRequest",
+    "notifications",
+    "*://*/*",
+    "activeTab",
+    "tabs"
+  ],
+  "options_page": "app/options/options.html",
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "src/js/jquery.min.js",
+        "app/inject/inject.js"
+      ]
+    }
+  ],
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+}

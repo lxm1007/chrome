@@ -1,0 +1,994 @@
+{
+   "360_desc": {
+      "message": "Безопасная поисковая система"
+   },
+   "360search": {
+      "message": "360"
+   },
+   "about": {
+      "message": "О программе"
+   },
+   "about_us": {
+      "message": "О нас"
+   },
+   "add": {
+      "message": "Добавить"
+   },
+   "add_city": {
+      "message": "Добавить город"
+   },
+   "add_search_engine": {
+      "message": "Добавить поисковую систему"
+   },
+   "added": {
+      "message": "Добавлено"
+   },
+   "alipay": {
+      "message": "Alipay"
+   },
+   "all": {
+      "message": "Все"
+   },
+   "all_wallpaper": {
+      "message": "Все фоны"
+   },
+   "all_wallpaper_sources": {
+      "message": "Все фоны"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "Все источники фонов"
+   },
+   "animation": {
+      "message": "Анимация"
+   },
+   "animation_desc": {
+      "message": "Может повлиять на беглость продукта, если вы включите анимацию"
+   },
+   "app": {
+      "message": "Программа"
+   },
+   "app_disabled_enable_first": {
+      "message": "Вы заблокировали это приложение. Хотите разрешить Infinity сначала активировать его?"
+   },
+   "appearance": {
+      "message": "Посмотреть"
+   },
+   "apple": {
+      "message": "Apple"
+   },
+   "auto_change_wallpaper": {
+      "message": "Менять фоны автоматически"
+   },
+   "auto_sync_data": {
+      "message": "Автоматическая синхронизация данных"
+   },
+   "auto_sync_data_desc": {
+      "message": "После активации данные будут автоматически синхронизированы при изменении"
+   },
+   "background_color": {
+      "message": "Цвет фона"
+   },
+   "backup_confirm_content": {
+      "message": "Локальные данные будут перезаписывать данные облака. Можно ли продолжить?"
+   },
+   "backup_now": {
+      "message": "Создать резервную копию сейчас"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "baidu_desc": {
+      "message": "Поисковая система, которая в основном используется в Китае"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "Упор на сбор бесплатных и высококачественных фотографий не из галерей"
+   },
+   "basic_user_account": {
+      "message": "Базовый аккаунт"
+   },
+   "beijing": {
+      "message": "Пекин"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Bing — это поисковая система, разработанная Microsoft"
+   },
+   "bing_wallpaper": {
+      "message": "Ежедневная библиотека фонов Bing"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "Ежедневная библиотека фонов Bing"
+   },
+   "bookmarks": {
+      "message": "Закладка"
+   },
+   "can_not_delete_current_search_engine": {
+      "message": "Текущая поисковая система не может быть удалена"
+   },
+   "can_you_give_us_a_five_star": {
+      "message": "Вы можете поставить нам пять звезд?"
+   },
+   "cancel": {
+      "message": "Отменить"
+   },
+   "cancel_login": {
+      "message": "Отменить вход"
+   },
+   "change_wallpaper_source": {
+      "message": "Изменить источник фонов"
+   },
+   "choose_local_wallpaper": {
+      "message": "Выберите локальный фон"
+   },
+   "chrome_apps": {
+      "message": "Приложения Chrome"
+   },
+   "chromes_store": {
+      "message": "Chrome Web Store"
+   },
+   "clear_done": {
+      "message": "Данные очищены"
+   },
+   "clear_history": {
+      "message": "Очистить историю"
+   },
+   "click_to_reload": {
+      "message": "Перезагрузить"
+   },
+   "color": {
+      "message": "Цвет"
+   },
+   "color_wallpaper": {
+      "message": "Одноцветный фон"
+   },
+   "column_count": {
+      "message": "количество столбцов"
+   },
+   "confirm": {
+      "message": "OK"
+   },
+   "confirm_donate": {
+      "message": "Я хочу отправить чаевые"
+   },
+   "contact_us": {
+      "message": "Контакты"
+   },
+   "copy": {
+      "message": "Копировать"
+   },
+   "create_custom_search_engine": {
+      "message": "Добавить систему"
+   },
+   "custom": {
+      "message": "Персонализированные"
+   },
+   "custom_icon": {
+      "message": "Пользовательская иконка"
+   },
+   "custom_layout": {
+      "message": "пользовательский макет"
+   },
+   "cut": {
+      "message": "Резать"
+   },
+   "data_backup": {
+      "message": "Резервная копия"
+   },
+   "data_backup_failed": {
+      "message": "Сбой резервного копирования"
+   },
+   "data_backup_successed": {
+      "message": "Копирование завершено"
+   },
+   "data_recovery": {
+      "message": "Восстановить данные"
+   },
+   "data_recovery_failed": {
+      "message": "Сбой при восстановлении данных"
+   },
+   "data_recovery_failed_because_never_backup": {
+      "message": "Данные не удалось восстановить, так как вы не сделали резервную копию"
+   },
+   "data_recovery_successed": {
+      "message": "Данные успешно восстановлены"
+   },
+   "default": {
+      "message": "По умолчанию"
+   },
+   "delete": {
+      "message": "Удалить"
+   },
+   "delete_folder_and_preserve_icons_confirm_content": {
+      "message": "Папка будет удалена, значок будет сохранен, ОК?"
+   },
+   "delete_folder_confirm_content": {
+      "message": "Папка будет удалена, ОК?"
+   },
+   "digital_tech": {
+      "message": "Цифровая технология"
+   },
+   "disable": {
+      "message": "дезактивировать"
+   },
+   "disabled": {
+      "message": "дезактивированный"
+   },
+   "discovery": {
+      "message": "Обнаружение"
+   },
+   "display_text": {
+      "message": "Имя монитора"
+   },
+   "donate": {
+      "message": "жертвовать"
+   },
+   "done": {
+      "message": "Готово"
+   },
+   "download_wallpaper": {
+      "message": "Скачать фон"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "DuckDuckGo сосредоточен на импорте содержимого из главных сайтов Web 2.0, кроме традиционных поисковых систем. Философия этого сайта — уважение конфиденциальности пользователей и обещание не отслеживать и не сохранять их поисковые запросы"
+   },
+   "edit": {
+      "message": "Изменить"
+   },
+   "edit_icon": {
+      "message": "Изменить иконки"
+   },
+   "education_and_recruit": {
+      "message": "Обучение и работа"
+   },
+   "elastic_slide_animation": {
+      "message": "Весенняя анимация"
+   },
+   "empty_folder": {
+      "message": "(Пусто)"
+   },
+   "enable": {
+      "message": "Включить"
+   },
+   "enabled": {
+      "message": "Включено"
+   },
+   "engine_address_label": {
+      "message": "Ссылка с параметром “%s” вместо запроса"
+   },
+   "engine_icon_label": {
+      "message": "Значок"
+   },
+   "engine_label": {
+      "message": "Поисковая система"
+   },
+   "enter_and_search": {
+      "message": "Ввести и искать... "
+   },
+   "extdesc": {
+      "message": "Возможно, самая удобная для пользователя новая вкладка для"
+   },
+   "extension": {
+      "message": "Управление расширениями"
+   },
+   "extname": {
+      "message": "Новая вкладка Infinity (про)"
+   },
+   "facebook_group": {
+      "message": "Группа \n Facebook"
+   },
+   "feedback": {
+      "message": "обратная связь"
+   },
+   "file_migrate_btn": {
+      "message": "Выберите локальную резервную копию"
+   },
+   "file_migrate_desc": {
+      "message": "Если вы выбрали перемещение с помощью резервной копии, то убедитесь, что:"
+   },
+   "file_migrate_requirement": {
+      "message": "Вы экспортировали данные из старой версии"
+   },
+   "file_migrate_title": {
+      "message": "План 2: перемещение с помощью резервной копии"
+   },
+   "filter": {
+      "message": "Выбрать"
+   },
+   "finance": {
+      "message": "финансовый"
+   },
+   "firefox_store": {
+      "message": "Магазин дополнений Firefox"
+   },
+   "folder": {
+      "message": "Папки"
+   },
+   "follow_us": {
+      "message": "Подписаться"
+   },
+   "font": {
+      "message": "Шрифт"
+   },
+   "font_color": {
+      "message": "Цвет шрифта"
+   },
+   "font_shadow": {
+      "message": "Тень шрифта"
+   },
+   "font_size": {
+      "message": "Размер шрифта"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "Большое количество фото, доступных бесплатно — свободное использование и ежедневные обновления"
+   },
+   "from": {
+      "message": "От$from$",
+      "placeholders": {
+         "from": {
+            "content": "$1"
+         }
+      }
+   },
+   "from_user": {
+      "message": "От пользователя:"
+   },
+   "game_and_entertainment": {
+      "message": "Игры и развлечения"
+   },
+   "gmail_notification": {
+      "message": "Уведомления Gmail"
+   },
+   "gmail_notification_ring": {
+      "message": "Рингтон уведомлений Gmail"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "Google Search — это поисковая система, разработанная Google. Это самая большая и влиятельная поисковая система в интернете"
+   },
+   "have_feedback": {
+      "message": "Отзыв"
+   },
+   "hide_search_btn": {
+      "message": "Скрыть кнопку поиска"
+   },
+   "hide_search_type": {
+      "message": "Скрыть поисковую категорию"
+   },
+   "hide_searcher": {
+      "message": "Скрыть поле поиска"
+   },
+   "history": {
+      "message": "История"
+   },
+   "hot_city": {
+      "message": "Популярные города"
+   },
+   "hour": {
+      "message": "ч"
+   },
+   "humidity": {
+      "message": "влажность"
+   },
+   "icon": {
+      "message": "Значок"
+   },
+   "icon_margin_x": {
+      "message": "Между столбцами"
+   },
+   "icon_margin_y": {
+      "message": "Межстрочный интервал"
+   },
+   "icon_opacity": {
+      "message": "Прозрачность иконок"
+   },
+   "icon_radius": {
+      "message": "Круглые края иконок"
+   },
+   "icon_shadow": {
+      "message": "Тени иконок"
+   },
+   "icon_size": {
+      "message": "Размер значка"
+   },
+   "images": {
+      "message": "Картинки"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Бесконечность"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "Библиотека высококачественного аниме-аниме"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Обои для рабочего стола Infinity"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "Библиотека высококачественного пейзажного пейзажа"
+   },
+   "information": {
+      "message": "Сообщения"
+   },
+   "insert_img": {
+      "message": "Вставить изображения"
+   },
+   "insert_link": {
+      "message": "Добавить ссылку"
+   },
+   "invite_you_to_try_vip": {
+      "message": "Мы приглашаем вас попробовать {{vip}} бесплатно"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "Бесплатные фото для любых видов использования"
+   },
+   "last_update_at": {
+      "message": "Обновлено $update$",
+      "placeholders": {
+         "update": {
+            "content": "$1"
+         }
+      }
+   },
+   "layout": {
+      "message": "Макет"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "Источник бесплатных фонов в высоком разрешении"
+   },
+   "life_style": {
+      "message": "Стиль жизни"
+   },
+   "local_wallpaper": {
+      "message": "Локальные фоны"
+   },
+   "login": {
+      "message": "Войти"
+   },
+   "login_infinity": {
+      "message": "Вход в Infinity"
+   },
+   "login_successed": {
+      "message": "Вход выполнен"
+   },
+   "login_tip": {
+      "message": "Наслаждайтесь мгновенными плюсами"
+   },
+   "login_to_insert_image": {
+      "message": "Изображения можно вставлять только после входа в систему"
+   },
+   "login_to_try_vip": {
+      "message": "Получите {{vip}} бесплатно после {{login: входа}}"
+   },
+   "logining_to": {
+      "message": "Выполняется вход"
+   },
+   "logout": {
+      "message": "Выход"
+   },
+   "london": {
+      "message": "Лондон"
+   },
+   "main_zoom": {
+      "message": "Масштаб экрана"
+   },
+   "maps": {
+      "message": "Карты"
+   },
+   "may_affect_performance": {
+      "message": "может повлиять на производительность"
+   },
+   "migrate_basic_user_data": {
+      "message": "Использовать базовый аккаунт для перемещения данных"
+   },
+   "migrate_basic_user_data_successed": {
+      "message": "Перемещение данных завершено"
+   },
+   "migrate_desc": {
+      "message": "Если вы использовали базовую версию приложения «Новая вкладка Infinity» (ID: dbfmnekepjoapopniengjbcpnbljalfg), вы можете переместить свои данные на этой странице. Если вы не использовали базовую версию, то проигнорируйте эту страницу. Вы можете выбрать один из следующих способов для перемещения данных."
+   },
+   "migrate_failed": {
+      "message": "Ошибка перемещения данных. Попробуйте еще раз"
+   },
+   "migrate_from_basic": {
+      "message": "Переместить данные из старой версии"
+   },
+   "migrate_from_basic_desc": {
+      "message": "Если вы использовали базовую версию «Новой вкладки Infinity», то нажмите «Переместить сейчас», чтобы переместить свои данные в про-версию"
+   },
+   "migrate_now": {
+      "message": "Переместить сейчас"
+   },
+   "migrate_successed": {
+      "message": "Перемещение данных завершено. Пожалуйста, закройте эту страницу после нажатия на кнопку «Подтвердить»"
+   },
+   "migrate_title": {
+      "message": "Переместить данные"
+   },
+   "mini_mode": {
+      "message": "Минималистический стиль"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "Используйте на своих сайтах, в темах, шаблонах, проектах, печатных материалах и газетах. Каждую неделю мы добавляем новые фоны и видео"
+   },
+   "mobile_device": {
+      "message": "Мобильный"
+   },
+   "more": {
+      "message": "Подробнее…"
+   },
+   "music_and_video": {
+      "message": "Видеоклип"
+   },
+   "must_five_star": {
+      "message": "Конечно же я поставлю вам пять звезд!"
+   },
+   "my": {
+      "message": "мой"
+   },
+   "my_backup": {
+      "message": "Резервная копия"
+   },
+   "my_backup_desc": {
+      "message": "Войдите, чтобы использовать функцию резервного копирования"
+   },
+   "name": {
+      "message": "Название"
+   },
+   "need_your_support": {
+      "message": "Ваша поддержка — лучшая награда"
+   },
+   "news": {
+      "message": "Новости"
+   },
+   "newtab": {
+      "message": "Новая вкладка"
+   },
+   "newyork": {
+      "message": "Нью-Йорк"
+   },
+   "next_wallpaper": {
+      "message": "Переключиться на следующий фон"
+   },
+   "next_wallpaper_failed": {
+      "message": "Не удалось изменить фон"
+   },
+   "next_wallpaper_successed": {
+      "message": "Фон успешно изменен"
+   },
+   "no_custom_search_engine_added": {
+      "message": "Пользовательские поисковые системы не добавлены"
+   },
+   "no_description": {
+      "message": "Нет описания"
+   },
+   "no_extension_founded": {
+      "message": "Нет расширений или приложений, соответствующих условиям"
+   },
+   "no_more": {
+      "message": "Ничего больше"
+   },
+   "no_todo_added": {
+      "message": "Здесь нечего делать. Заполните свой список задач, нажав ввод"
+   },
+   "not_installed_any_chrome_apps": {
+      "message": "У вас не установленных приложений для Chrome"
+   },
+   "not_support": {
+      "message": "Ваша текущая версия не поддерживает это приложение. Пожалуйста, обновитесь до последней версии «Новой вкладки Infinity»"
+   },
+   "not_support_app": {
+      "message": "Ваш браузер не поддерживает это приложение"
+   },
+   "not_support_protocol": {
+      "message": "Ваш браузер не поддерживает эту функцию"
+   },
+   "notes": {
+      "message": "Заметка"
+   },
+   "nothing_founded": {
+      "message": "Ничего не найдено"
+   },
+   "notification": {
+      "message": "Уведомление"
+   },
+   "notifications_title": {
+      "message": "Центр сообщений"
+   },
+   "one_key_migrate_btn": {
+      "message": "Перемещение в один клик"
+   },
+   "one_key_migrate_desc": {
+      "message": "Если вы используете перемещение в один клик, то убедитесь, что:"
+   },
+   "one_key_migrate_requirement": {
+      "message": "На этом браузере установлена старая версия"
+   },
+   "one_key_migrate_title": {
+      "message": "План 1: перемещение в один клик"
+   },
+   "opacity_slide_animation": {
+      "message": "Fade In"
+   },
+   "open": {
+      "message": "открывается"
+   },
+   "open_all": {
+      "message": "Открыть все"
+   },
+   "open_auto_sync_failed": {
+      "message": "Не удалось включить автоматическую синхронизацию"
+   },
+   "open_bookmark_link_in_new_tab": {
+      "message": "Открывать закладку в новой вкладке"
+   },
+   "open_history_in_new_tab": {
+      "message": "Открывать историю в новой вкладке"
+   },
+   "open_search_result_in_new_tab": {
+      "message": "Открывать сторонние результаты поиска в новой вкладке"
+   },
+   "open_site_in_new_tab": {
+      "message": "Открывать сайт в новой вкладке"
+   },
+   "open_target": {
+      "message": "Способ открыть цель"
+   },
+   "open_target_desc": {
+      "message": "Следующий метод применяется только к внутренним модулям infinity"
+   },
+   "open_wrallpaper_library": {
+      "message": "Открыть библиотеку изображений"
+   },
+   "operate_error": {
+      "message": "Неверное действие?"
+   },
+   "or_use_mobile_visit_site": {
+      "message": "Или же зайдите на сайт с мобильного напрямую"
+   },
+   "other": {
+      "message": "Другое"
+   },
+   "password": {
+      "message": "Пароль"
+   },
+   "paste": {
+      "message": "Вставить"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "Бесплатные и красивые фотографии, доступные для любого типа использования"
+   },
+   "picture": {
+      "message": "картинки"
+   },
+   "please_enter_city_name": {
+      "message": "Город/район"
+   },
+   "popular": {
+      "message": "Популярное"
+   },
+   "preset_layout": {
+      "message": "макет по умолчанию"
+   },
+   "pressure": {
+      "message": "Давление"
+   },
+   "preview": {
+      "message": "Просмотреть"
+   },
+   "privacy_policy": {
+      "message": "Конфиденциальность"
+   },
+   "pure_color": {
+      "message": "Чистый цвет"
+   },
+   "qq_group": {
+      "message": "Группа QQ"
+   },
+   "random_wallpaper": {
+      "message": "Случайный фон"
+   },
+   "random_wallpaper_failed": {
+      "message": "Не удалось получить случайный фон"
+   },
+   "random_wallpaper_successed": {
+      "message": "Случайный фон успешно изменен"
+   },
+   "read": {
+      "message": "Прочитать"
+   },
+   "readed_notifications": {
+      "message": "Старые сообщения"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "Для персонального и коммерческого использования доступно большое количество фотографий в высоком разрешении, и каждую неделю мы добавляем 7 новых"
+   },
+   "recently_added": {
+      "message": "Недавно добавленные"
+   },
+   "recommend_third_login": {
+      "message": "Рекомендуется вход при помощи третьей стороны"
+   },
+   "recovery_confirm_content": {
+      "message": "Облачные данные заменят локальные данные. Вы подтверждаете это действие?"
+   },
+   "rename": {
+      "message": "Переименовать"
+   },
+   "required": {
+      "message": "обязательно"
+   },
+   "reset": {
+      "message": "Сбросить"
+   },
+   "reset_settings": {
+      "message": "Сброс настроек"
+   },
+   "reset_settings_desc": {
+      "message": "Восстановление настроек по умолчанию"
+   },
+   "reset_settings_now": {
+      "message": "Сбросить настройки"
+   },
+   "reset_settings_success": {
+      "message": "Выполнено"
+   },
+   "revert": {
+      "message": "Не применять"
+   },
+   "revert_successed": {
+      "message": "Отмена завершена"
+   },
+   "row_count": {
+      "message": "количество строк"
+   },
+   "search": {
+      "message": "Поиск"
+   },
+   "search_bookmarks": {
+      "message": "Искать в закладках"
+   },
+   "search_history_in_week": {
+      "message": "Поиск в истории за неделю"
+   },
+   "search_site": {
+      "message": "Искать в Интернете"
+   },
+   "searcher": {
+      "message": "Поле поиска"
+   },
+   "searcher_opacity": {
+      "message": "Прозрачность поля поиска"
+   },
+   "searcher_radius": {
+      "message": "Круглые края поля поиска"
+   },
+   "searcher_shadow": {
+      "message": "Тень поля поиска"
+   },
+   "searcher_size": {
+      "message": "Размер поля поиска"
+   },
+   "select_all": {
+      "message": "Выбрать все"
+   },
+   "settings": {
+      "message": "Настройки"
+   },
+   "shanghai": {
+      "message": "Шанхай"
+   },
+   "sharable": {
+      "message": "Поделиться"
+   },
+   "share_desc": {
+      "message": "Новая вкладка Infinity, расширение для навигации, которое выбрали миллионы, и самая удобная для пользователя новая вкладка для"
+   },
+   "share_to_friends": {
+      "message": "Поделиться"
+   },
+   "share_to_others": {
+      "message": "Поделиться с другими пользователями infinity"
+   },
+   "shopping_and_group_shopping": {
+      "message": "Шопинг и групповые покупки"
+   },
+   "show_bookmark_sidebar": {
+      "message": "Показать закладки"
+   },
+   "show_gmail_unread_email_nums": {
+      "message": "Показывать на иконке число непрочитанных писем в Gmail"
+   },
+   "show_random_wallpaper_btn": {
+      "message": "Показать кнопку случайной смены фона в правом нижнем углу"
+   },
+   "show_slide_btn": {
+      "message": "Флип-кнопка страницы"
+   },
+   "show_todos_nums": {
+      "message": "Показывать число задач на иконке"
+   },
+   "show_top_site_sidebar": {
+      "message": "Показать часто используемые сайты сверху"
+   },
+   "side_zoom": {
+      "message": "Увеличение боковой колонки"
+   },
+   "site_address": {
+      "message": "Местоположение веб-сайта"
+   },
+   "site_icon": {
+      "message": "Иконки сайтов"
+   },
+   "site_name": {
+      "message": "Имя веб-сайта"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "Место, где можно искать, показывать и делиться фотографиями"
+   },
+   "social_and_blog": {
+      "message": "Соцсети и блоги"
+   },
+   "sogou": {
+      "message": "Sogou"
+   },
+   "sogou_desc": {
+      "message": "Поисковая система, которая может искать содержимое, опубликованное официальными аккаунтами Wechat"
+   },
+   "some_city_weathers_not_found": {
+      "message": "Не найдена погода в г. $city_names$",
+      "placeholders": {
+         "city_names": {
+            "content": "$1"
+         }
+      }
+   },
+   "sorry_net_not_good": {
+      "message": "Ошибка сети"
+   },
+   "source": {
+      "message": "Источник"
+   },
+   "sport_and_travel": {
+      "message": "Спорт и путешествия"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "Предоставление бесплатных фотографий стартапам, блогерам, издателям, вебсайтам, дизайнерам, разработчикам, создателям и многим другим"
+   },
+   "sydney": {
+      "message": "Сидней"
+   },
+   "tag": {
+      "message": "Теги"
+   },
+   "target_chrome_app_not_installed": {
+      "message": "Вы не установили это приложение для Chrome"
+   },
+   "terms_of_use": {
+      "message": "Условия"
+   },
+   "text": {
+      "message": "Текст"
+   },
+   "time_interval": {
+      "message": "Интервал"
+   },
+   "to_top": {
+      "message": "Наверх"
+   },
+   "todos": {
+      "message": "Список дел"
+   },
+   "tokyo": {
+      "message": "Токио"
+   },
+   "try_now": {
+      "message": "Попробовать сейчас"
+   },
+   "unfolder": {
+      "message": "Unfolder"
+   },
+   "unread_notifications": {
+      "message": "Новое сообщение"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "Знаменитые качественные фоны"
+   },
+   "untitled_note": {
+      "message": "Без имени"
+   },
+   "upload_img_failed": {
+      "message": "Не удалось выгрузить файл"
+   },
+   "use_auto_change_wallpaper_desc": {
+      "message": "Автоматически заменяйте обои обоими из библиотеки обоев"
+   },
+   "use_bing_wallpaper_desc": {
+      "message": "Используйте ежедневные фоны Bing"
+   },
+   "use_color_wallpaper_desc": {
+      "message": "Использовать цвет в качестве фона"
+   },
+   "use_local_wallpaper_desc": {
+      "message": "Выберите изображение со своего компьютера в качестве фона"
+   },
+   "use_mobile_scan_qrcode": {
+      "message": "Используйте мобильное устройство для сканирования QR-кода"
+   },
+   "use_wallpaper_library_desc": {
+      "message": "Выберите любимый фон из большой облачной галереи изображений"
+   },
+   "user_share": {
+      "message": "То, чем поделились другие пользователи"
+   },
+   "user_support": {
+      "message": "Поддержка"
+   },
+   "username_or_password_wrong": {
+      "message": "Неправильный пароль или имя пользователя"
+   },
+   "videos": {
+      "message": "Видео"
+   },
+   "wallpaper": {
+      "message": "Обои"
+   },
+   "wallpaper_blur": {
+      "message": "Определение фона"
+   },
+   "wallpaper_desc": {
+      "message": "Вы можете выбрать один"
+   },
+   "wallpaper_library": {
+      "message": "Обои"
+   },
+   "wallpaper_mask_concentration": {
+      "message": "Прозрачность фона"
+   },
+   "weather": {
+      "message": "Погода"
+   },
+   "weather_added": {
+      "message": "Вы уже добавили этот город"
+   },
+   "web": {
+      "message": "Веб"
+   },
+   "weibo": {
+      "message": "Weibo"
+   },
+   "weixin": {
+      "message": "WeChat"
+   },
+   "what_need_to_do": {
+      "message": "Что вы хотите делать?"
+   },
+   "wind": {
+      "message": "ветер"
+   },
+   "yahoo": {
+      "message": "Yahoo"
+   },
+   "yahoo_desc": {
+      "message": "Yahoo Search — это поисковая система под управлением Yahoo!"
+   },
+   "yandex": {
+      "message": "Яндекс"
+   },
+   "yandex_desc": {
+      "message": "Яндекс — один из самых важных порталов в России"
+   },
+   "you_have_days_expired": {
+      "message": "Ваши привилегии истекут через $days$ дн.",
+      "placeholders": {
+         "days": {
+            "content": "$1"
+         }
+      }
+   }
+}

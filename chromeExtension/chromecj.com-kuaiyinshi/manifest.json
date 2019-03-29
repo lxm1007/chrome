@@ -1,0 +1,37 @@
+{
+   "background": {
+      "page": "bg.html"
+   },
+   "browser_action": {
+      "default_icon": "images/30.png",
+      "default_location": "sidebar",
+      "default_title": "快抖-看抖音视频"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "lib/jquery.min.js", "js/cs.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "js": [ "lib/jquery.min.js", "js/start.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://hm.baidu.com/hm.js; object-src 'self'",
+   "description": "可以直接跳转到快音视网站，在浏览器上观看抖音、快手、火山、美拍等短视频",
+   "icons": {
+      "128": "images/128.png",
+      "16": "images/16.png",
+      "19": "images/19.png",
+      "48": "images/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA31qWhopNk4owkK7pzF6h/LLzfEt/UkPUSsM3gFVR8KTswd2SDVTemkTWjUyaSPh/jHFAYoslNT2iWk0aaaE6Mda0PzPVc6aIVHAjKbcYabVZshuWfBExpi+2OURh0GUTa4Y6wdrPYiTOrIGxflqpMRQKHJkO7DFkSezaAOkw8gE6CYZhBbNPYOfBfDhUogI/l6j48pQVkHRcYRUaubklprYp1s+/GjJFdVzswGapNGyDNZC+Xjyt4v1jK24CQIWJdEhCglXwFL/POoJYxZ01a58Y+mOzbNlYlzHTn+zY0Z0+RE9kW/YbD45AT6W0hBpBf1RUGguVmSRAo3xts23mRwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "18.0.0.0",
+   "name": "快抖-看抖音视频",
+   "permissions": [ "tabs", "*://*/*", "storage", "downloads", "webRequest", "webRequestBlocking" ],
+   "short_name": "快抖",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0.20"
+}

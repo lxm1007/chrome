@@ -1,0 +1,994 @@
+{
+   "360_desc": {
+      "message": "Güvenli arama motoru"
+   },
+   "360search": {
+      "message": "360"
+   },
+   "about": {
+      "message": "Hakkında"
+   },
+   "about_us": {
+      "message": "Hakkımızda"
+   },
+   "add": {
+      "message": "Ekle"
+   },
+   "add_city": {
+      "message": "Şehir Ekle"
+   },
+   "add_search_engine": {
+      "message": "Arama motoru ekleyin"
+   },
+   "added": {
+      "message": "Eklendi"
+   },
+   "alipay": {
+      "message": "Alipay"
+   },
+   "all": {
+      "message": "Tümü"
+   },
+   "all_wallpaper": {
+      "message": "Tüm duvar kağıtları"
+   },
+   "all_wallpaper_sources": {
+      "message": "Tüm duvar kağıtları"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "Tüm duvar kağıdı kaynakları"
+   },
+   "animation": {
+      "message": "Canlandırma"
+   },
+   "animation_desc": {
+      "message": "Animasyonu açarsanız ürünün akıcılığını etkileyebilir"
+   },
+   "app": {
+      "message": "Uygulama"
+   },
+   "app_disabled_enable_first": {
+      "message": "Bu uygulama sizin tarafınızdan engellendi. Infinity'in önce o uygulamayı etkinleştirmesine izin vermek ister misiniz? "
+   },
+   "appearance": {
+      "message": "Görüntüle"
+   },
+   "apple": {
+      "message": "Apple"
+   },
+   "auto_change_wallpaper": {
+      "message": "Duvar kağıtlarını otomatik olarak değiştir"
+   },
+   "auto_sync_data": {
+      "message": "Otomatik senkronizasyon verileri"
+   },
+   "auto_sync_data_desc": {
+      "message": "Aktivasyondan sonra, veriler değiştiğinde otomatik olarak senkronize edilecektir"
+   },
+   "background_color": {
+      "message": "Arka Plan Rengi"
+   },
+   "backup_confirm_content": {
+      "message": "Yerel veriler bulut verilerinin üzerine yazacaktır. Devam etmek iyi mi?"
+   },
+   "backup_now": {
+      "message": "Şimdi Yedekle"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "baidu_desc": {
+      "message": "Arama motoru en çok Çinliler tarafından kullanılnaktadır "
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "Ücretsiz ve yüksek kaliteli galeri olmayan türde fotoğraf toplamaya odaklanın"
+   },
+   "basic_user_account": {
+      "message": "Temel hesap"
+   },
+   "beijing": {
+      "message": "Pekin"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Bing, Microsoft tarafından geliştirilen bir arama motorudur"
+   },
+   "bing_wallpaper": {
+      "message": "Günlük bing duvar kağıdı kütüphenesi"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "Günlük bing duvar kağıdı kütüphanesi"
+   },
+   "bookmarks": {
+      "message": "Yer İmi"
+   },
+   "can_not_delete_current_search_engine": {
+      "message": "Geçerli arama motoru silinemiyor"
+   },
+   "can_you_give_us_a_five_star": {
+      "message": "Bize beş yıldız verebilir misiniz?"
+   },
+   "cancel": {
+      "message": "Vazgeç"
+   },
+   "cancel_login": {
+      "message": "Oturum Açmaktan Vazgeç"
+   },
+   "change_wallpaper_source": {
+      "message": "Duvar kağıtlarının kaynağını değiştir"
+   },
+   "choose_local_wallpaper": {
+      "message": "Yerli bir duvarkağıdı seç"
+   },
+   "chrome_apps": {
+      "message": "Chrome Uygulamaları"
+   },
+   "chromes_store": {
+      "message": "Chrome Web Store"
+   },
+   "clear_done": {
+      "message": "Veriler temizlendi"
+   },
+   "clear_history": {
+      "message": "Tarihçeyi Sil"
+   },
+   "click_to_reload": {
+      "message": "Yeniden Yükle"
+   },
+   "color": {
+      "message": "Renk"
+   },
+   "color_wallpaper": {
+      "message": "Tek renkli duvar kağıdı"
+   },
+   "column_count": {
+      "message": "sütun sayısı"
+   },
+   "confirm": {
+      "message": "Tamam"
+   },
+   "confirm_donate": {
+      "message": "Bağış yapmak istiyorum"
+   },
+   "contact_us": {
+      "message": "Bize Ulaşın"
+   },
+   "copy": {
+      "message": "Kopyala"
+   },
+   "create_custom_search_engine": {
+      "message": "Yeni arama motoru ekle"
+   },
+   "custom": {
+      "message": "Özel"
+   },
+   "custom_icon": {
+      "message": "Özelleştirilmiş ikon"
+   },
+   "custom_layout": {
+      "message": "özel düzen"
+   },
+   "cut": {
+      "message": "Kesmek"
+   },
+   "data_backup": {
+      "message": "Veri yedekleme"
+   },
+   "data_backup_failed": {
+      "message": "Yedeklenemedi"
+   },
+   "data_backup_successed": {
+      "message": "Yedekleme Tamamlandı"
+   },
+   "data_recovery": {
+      "message": "Veri kurtar"
+   },
+   "data_recovery_failed": {
+      "message": "Veriler kurtarılamadı"
+   },
+   "data_recovery_failed_because_never_backup": {
+      "message": "Verileri yedeklemediğiniz için veri kurtarma işlemi başarısız oldu"
+   },
+   "data_recovery_successed": {
+      "message": "Veri kurtarma başarılı"
+   },
+   "default": {
+      "message": "Varsayılan"
+   },
+   "delete": {
+      "message": "Sil"
+   },
+   "delete_folder_and_preserve_icons_confirm_content": {
+      "message": "Klasör silinecek, simge korunacak, tamam mı?"
+   },
+   "delete_folder_confirm_content": {
+      "message": "Klasör silinecek, tamam mı?"
+   },
+   "digital_tech": {
+      "message": "Dijital teknoloji"
+   },
+   "disable": {
+      "message": "Devre dışı bırak"
+   },
+   "disabled": {
+      "message": "Devre dışı"
+   },
+   "discovery": {
+      "message": "Keşif"
+   },
+   "display_text": {
+      "message": "Görüntülenen Ad"
+   },
+   "donate": {
+      "message": "bağışlamak"
+   },
+   "done": {
+      "message": "Bitti"
+   },
+   "download_wallpaper": {
+      "message": "Duvarkağıdı indir"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "DuckDuckGo, geleneksel arama motorlarının yanı sıra büyük Web 2.0 sitelerinin içeriğine odaklanıyor. Web sitesinin felsefesi, kullanıcıların gizliliğine saygı duyması, kullanıcıların arama içeriğini izlememeyi veya belgelememeyi vaat etmesidir"
+   },
+   "edit": {
+      "message": "Düzenle"
+   },
+   "edit_icon": {
+      "message": "İkonları düzenle"
+   },
+   "education_and_recruit": {
+      "message": "Eğitim ve işler"
+   },
+   "elastic_slide_animation": {
+      "message": "Bahar animasyon"
+   },
+   "empty_folder": {
+      "message": "(Boş)"
+   },
+   "enable": {
+      "message": "Etkinleştir"
+   },
+   "enabled": {
+      "message": "Etkin"
+   },
+   "engine_address_label": {
+      "message": "Sorgu yerine “%s” olan URL"
+   },
+   "engine_icon_label": {
+      "message": "Simge"
+   },
+   "engine_label": {
+      "message": "Arama motoru"
+   },
+   "enter_and_search": {
+      "message": "Girin ve arayın..."
+   },
+   "extdesc": {
+      "message": "Tarayıcıdaki en kullanıcı dostu yeni sekme olabilir"
+   },
+   "extension": {
+      "message": "Uzantıları yönet"
+   },
+   "extname": {
+      "message": "Sonsuz Yeni Sekme (Pro)"
+   },
+   "facebook_group": {
+      "message": "Facebook\n grubu"
+   },
+   "feedback": {
+      "message": "geri bildirim"
+   },
+   "file_migrate_btn": {
+      "message": "Yerel yedekleme dosyalarını seçin"
+   },
+   "file_migrate_desc": {
+      "message": "Yedek dosyalar üzerinden aktarma yapmayı seçerseniz, lütfen şunlardan emin olun: "
+   },
+   "file_migrate_requirement": {
+      "message": "Eski sürümden veriler aktardınız"
+   },
+   "file_migrate_title": {
+      "message": "Plan 2: yedekleme dosyaları üzerinden aktarma"
+   },
+   "filter": {
+      "message": "Seç"
+   },
+   "finance": {
+      "message": "mali"
+   },
+   "firefox_store": {
+      "message": "Firefox eklenti mağazası"
+   },
+   "folder": {
+      "message": "Klasörler"
+   },
+   "follow_us": {
+      "message": "Bizi takip edin"
+   },
+   "font": {
+      "message": "Font"
+   },
+   "font_color": {
+      "message": "Font Rengi"
+   },
+   "font_shadow": {
+      "message": "Yazı tipi gölgesi"
+   },
+   "font_size": {
+      "message": "Font puntosu"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "Kullanımı ücretsiz ve her gün güncellenen, çok sayıda telifsiz fotoğraf"
+   },
+   "from": {
+      "message": "Kimden$from$",
+      "placeholders": {
+         "from": {
+            "content": "$1"
+         }
+      }
+   },
+   "from_user": {
+      "message": "Bir kullanıcıdan:"
+   },
+   "game_and_entertainment": {
+      "message": "Oyun ve eğlence"
+   },
+   "gmail_notification": {
+      "message": "Gmail bildirimleri"
+   },
+   "gmail_notification_ring": {
+      "message": "Gmail bildirim zil sesi"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "Google Arama, Google tarafından geliştirilen bir arama motorudur. İnternetteki en büyük, en etkili arama motorudur"
+   },
+   "have_feedback": {
+      "message": "Geri Bildirim"
+   },
+   "hide_search_btn": {
+      "message": "Arama düğmesini gizle"
+   },
+   "hide_search_type": {
+      "message": "Arama kategorisini gizle"
+   },
+   "hide_searcher": {
+      "message": "Arama kutusunu gizle"
+   },
+   "history": {
+      "message": "Geçmiş"
+   },
+   "hot_city": {
+      "message": "Popüler şehirler"
+   },
+   "hour": {
+      "message": "sa."
+   },
+   "humidity": {
+      "message": "nem oranı"
+   },
+   "icon": {
+      "message": "Simge"
+   },
+   "icon_margin_x": {
+      "message": "Sütunlar Arası"
+   },
+   "icon_margin_y": {
+      "message": "satır aralığı"
+   },
+   "icon_opacity": {
+      "message": "İkon şeffaflığı"
+   },
+   "icon_radius": {
+      "message": "Yuvarlak köşeli ikon"
+   },
+   "icon_shadow": {
+      "message": "İkon gölgesi"
+   },
+   "icon_size": {
+      "message": "ikon boyutu"
+   },
+   "images": {
+      "message": "Resimler"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Infinity Özellikli Anime Duvar Kağıdı"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "Yüksek kaliteli sonsuz anime duvar kağıdı kütüphanesi"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Infinity Özellikli Manzara Duvar Kağıdı"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "Yüksek kaliteli infinity manzara duvar kağıdı kütüphanesi"
+   },
+   "information": {
+      "message": "Mesajlar"
+   },
+   "insert_img": {
+      "message": "Görüntüler Ekle"
+   },
+   "insert_link": {
+      "message": "Bağlantı Ekle"
+   },
+   "invite_you_to_try_vip": {
+      "message": "Sizi {{vip}} ücretsiz olarak denemeye davet ediyoruz."
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "Herhangi bir kullanım için ücretsiz fotoğraflar"
+   },
+   "last_update_at": {
+      "message": "Son Güncelleme$update$",
+      "placeholders": {
+         "update": {
+            "content": "$1"
+         }
+      }
+   },
+   "layout": {
+      "message": "Yerleşim"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "Ücretsiz HD duvar kağıdı kaynağı"
+   },
+   "life_style": {
+      "message": "Yaşam Tarzı"
+   },
+   "local_wallpaper": {
+      "message": "Yerli duvarkağıtları"
+   },
+   "login": {
+      "message": "Giriş Yap"
+   },
+   "login_infinity": {
+      "message": "Infinity’a Giriş Yapın"
+   },
+   "login_successed": {
+      "message": "Giriş Başarılı"
+   },
+   "login_tip": {
+      "message": "Anında daha fazla avantajların tadını çıkarın"
+   },
+   "login_to_insert_image": {
+      "message": "Giriş yaptıktan sonra sadece fotoğraf ekleyebilirsin"
+   },
+   "login_to_try_vip": {
+      "message": "{{login: Log in}} tarihinden sonra ücretsiz {{vip}} deneyimini yaşayın"
+   },
+   "logining_to": {
+      "message": "Giriş Yapılıyor"
+   },
+   "logout": {
+      "message": "Çıkış yap"
+   },
+   "london": {
+      "message": "Londra"
+   },
+   "main_zoom": {
+      "message": "Ekran Büyütme"
+   },
+   "maps": {
+      "message": "Harita"
+   },
+   "may_affect_performance": {
+      "message": "performansı etkileyebilir"
+   },
+   "migrate_basic_user_data": {
+      "message": "Verileri aktarmak için temel hesabı kullan"
+   },
+   "migrate_basic_user_data_successed": {
+      "message": "Veri aktarımı tamamlandı"
+   },
+   "migrate_desc": {
+      "message": "Sonsuz Yeni Sekmesi'nin temel sürümünü (ID ： dbfmnekepjoapopniengjbcpnbljalfg) kullandıysanız, verilerinizi bu sayfaya aktarabilirsiniz. Temel sürümü kullanmadıysanız, lütfen bu sayfayı dikkate almayınız. Verilerinizi aktarmak için aşağıdaki yöntemlerden birini seçebilirsiniz. "
+   },
+   "migrate_failed": {
+      "message": "Veri aktarımı başarısız oldu, lütfen tekrar deneyin "
+   },
+   "migrate_from_basic": {
+      "message": "Eski sürümden veri aktar"
+   },
+   "migrate_from_basic_desc": {
+      "message": "Basit Sonsuz Yeni Sekmesi!ni kullandıysanız, verilerinizi Pro sürümüne aktarmak için \"şimdi aktar\" düğmesini tıklayın."
+   },
+   "migrate_now": {
+      "message": "Şimdi aktar"
+   },
+   "migrate_successed": {
+      "message": "Veri aktarımı tamamlandı, lütfen onayladıktan sonra bu sayfayı kapatın"
+   },
+   "migrate_title": {
+      "message": "Verilerinizi aktarın"
+   },
+   "mini_mode": {
+      "message": "Minimalistik tarz"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "İnternet sitelerinizde, temalarınızda, şablonlarınızda, projelerinizde, basılı materyallerinizde ve gazetelerinizde kullanın. Her hafta yeni duvar kağıtları ve videolar eklenmektedir"
+   },
+   "mobile_device": {
+      "message": "Taşınabilir"
+   },
+   "more": {
+      "message": "Daha fazla"
+   },
+   "music_and_video": {
+      "message": "Video Klip"
+   },
+   "must_five_star": {
+      "message": "Tabii ki beş yıldız veririm!"
+   },
+   "my": {
+      "message": "Benim"
+   },
+   "my_backup": {
+      "message": "Yedekleme"
+   },
+   "my_backup_desc": {
+      "message": "Yedekleme işlevini kullanmak için giriş yapın"
+   },
+   "name": {
+      "message": "Ad"
+   },
+   "need_your_support": {
+      "message": "Desteğiniz bizim en büyük ödülümüzdür"
+   },
+   "news": {
+      "message": "Haberler"
+   },
+   "newtab": {
+      "message": "Yeni Sekme"
+   },
+   "newyork": {
+      "message": "New York"
+   },
+   "next_wallpaper": {
+      "message": "Bir sonraki duvar kağıdına geç"
+   },
+   "next_wallpaper_failed": {
+      "message": "Duvar kağıdı değişimi başarısız oldu"
+   },
+   "next_wallpaper_successed": {
+      "message": "Duvar kağıdı değişikliği tamamlandı"
+   },
+   "no_custom_search_engine_added": {
+      "message": "Özelleştirilmiş arama motoru eklenmedi"
+   },
+   "no_description": {
+      "message": "Açıklama Yok"
+   },
+   "no_extension_founded": {
+      "message": "Koşulları karşılayan uzantı veya Uygulama yok"
+   },
+   "no_more": {
+      "message": "Daha fazla yok"
+   },
+   "no_todo_added": {
+      "message": "Şimdi yapacak bir şey yok, yapılacaklar listenizi doldurun, gir düğmesine tıklayarak ekleyin"
+   },
+   "not_installed_any_chrome_apps": {
+      "message": "Herhangi bir Chrome uygulamasını yüklemediniz"
+   },
+   "not_support": {
+      "message": "Mevcut sürümünüz bu uygulamayı desteklemiyor, lütfen en son sürüm olan \"Sonsuz yeni Sekme \" sürümüne geçin."
+   },
+   "not_support_app": {
+      "message": "Tarayıcınız şu anda bu uygulamayı desteklemiyor "
+   },
+   "not_support_protocol": {
+      "message": "Tarayıcınız şu anda bu işlevi desteklemiyor. "
+   },
+   "notes": {
+      "message": "Not"
+   },
+   "nothing_founded": {
+      "message": "Hiçbir şey bulanamadı"
+   },
+   "notification": {
+      "message": "Bildirim"
+   },
+   "notifications_title": {
+      "message": "Mesaj merkezi"
+   },
+   "one_key_migrate_btn": {
+      "message": "Tek tıkla transfer"
+   },
+   "one_key_migrate_desc": {
+      "message": "Tek tıklama aktarımını kullanıyorsanız, lütfen şunlardan emin olun: "
+   },
+   "one_key_migrate_requirement": {
+      "message": "Eski sürüm bu tarayıcıya yüklendi"
+   },
+   "one_key_migrate_title": {
+      "message": "Plan 1: Tek tıkla transfer"
+   },
+   "opacity_slide_animation": {
+      "message": "İçinde Fade"
+   },
+   "open": {
+      "message": "Açıldığında"
+   },
+   "open_all": {
+      "message": "Hepsini aç"
+   },
+   "open_auto_sync_failed": {
+      "message": "Otomatik senkronizasyon açmak başarısız oldu"
+   },
+   "open_bookmark_link_in_new_tab": {
+      "message": "Yer işaretli bağlantıyı yeni sekmede aç"
+   },
+   "open_history_in_new_tab": {
+      "message": "Geçmişi yeni sekmede aç "
+   },
+   "open_search_result_in_new_tab": {
+      "message": "Üçüncü taraf arama sonuçlarını yeni sekmede aç"
+   },
+   "open_site_in_new_tab": {
+      "message": "İnternet sitesini yeni sekmede aç"
+   },
+   "open_target": {
+      "message": "Hedefi açmanın yolu"
+   },
+   "open_target_desc": {
+      "message": "Takip yöntemi sadece infinity dahili modüller için geçerlidir"
+   },
+   "open_wrallpaper_library": {
+      "message": "Duvar kağıdı kütüphanesini aç"
+   },
+   "operate_error": {
+      "message": "Yanlış eylem?"
+   },
+   "or_use_mobile_visit_site": {
+      "message": "Veya doğrudan mobil tarayıcı ile ziyaret edin"
+   },
+   "other": {
+      "message": "Diğer"
+   },
+   "password": {
+      "message": "Şifre"
+   },
+   "paste": {
+      "message": "Yapıştır"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "Herhangi bir kullanım için mevcut olan ücretsiz ve güzel fotoğraflar"
+   },
+   "picture": {
+      "message": "Resminizi"
+   },
+   "please_enter_city_name": {
+      "message": "Şehir/Bölge"
+   },
+   "popular": {
+      "message": "Popüler"
+   },
+   "preset_layout": {
+      "message": "varsayılan düzen"
+   },
+   "pressure": {
+      "message": "Basınç"
+   },
+   "preview": {
+      "message": "Önizleme"
+   },
+   "privacy_policy": {
+      "message": "Gizlilik Politikası"
+   },
+   "pure_color": {
+      "message": "Saf renk"
+   },
+   "qq_group": {
+      "message": "QQ grubu"
+   },
+   "random_wallpaper": {
+      "message": "Rastgele duvarkağıdı"
+   },
+   "random_wallpaper_failed": {
+      "message": "Rastgele duvar kağıdı alınamadı"
+   },
+   "random_wallpaper_successed": {
+      "message": "Rastgele duvar kağıdı başarıyla değiştirildi "
+   },
+   "read": {
+      "message": "Oku"
+   },
+   "readed_notifications": {
+      "message": "Eski mesajlar"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "Kişisel ve ticari kullanım için büyük miktarda HD fotoğraf, her hafta 7 tane yeni fotoğraf"
+   },
+   "recently_added": {
+      "message": "Son Eklenenler"
+   },
+   "recommend_third_login": {
+      "message": "Üçüncü taraf oturum açma önerilir"
+   },
+   "recovery_confirm_content": {
+      "message": "Bulut verileri yerel verilerin yerini alacak. Bu eylemi doğruluyor musunuz?"
+   },
+   "rename": {
+      "message": "Yeniden adlandır"
+   },
+   "required": {
+      "message": "Gerekli"
+   },
+   "reset": {
+      "message": "Sıfırla"
+   },
+   "reset_settings": {
+      "message": "Ayarları sıfırlayın"
+   },
+   "reset_settings_desc": {
+      "message": "Ayarları orijinal varsayılan değerlerine geri yükleyin"
+   },
+   "reset_settings_now": {
+      "message": "Ayarları Sıfırla"
+   },
+   "reset_settings_success": {
+      "message": "Başarılı"
+   },
+   "revert": {
+      "message": "Geri Al"
+   },
+   "revert_successed": {
+      "message": "İptal işlemi tamamlandı"
+   },
+   "row_count": {
+      "message": "satır sayısı"
+   },
+   "search": {
+      "message": "Ara"
+   },
+   "search_bookmarks": {
+      "message": "Yer işaretlerinde ara"
+   },
+   "search_history_in_week": {
+      "message": "Bir hafta içindeki geçmişi ara"
+   },
+   "search_site": {
+      "message": "Web‘de Ara"
+   },
+   "searcher": {
+      "message": "Arama kutusu"
+   },
+   "searcher_opacity": {
+      "message": "Arama kutusu saydamlığı"
+   },
+   "searcher_radius": {
+      "message": "Yuvarlak köşeli arama kutusu"
+   },
+   "searcher_shadow": {
+      "message": "Arama kutusu gölgesi"
+   },
+   "searcher_size": {
+      "message": "Arama kutusu boyutu"
+   },
+   "select_all": {
+      "message": "Tümünü Seç"
+   },
+   "settings": {
+      "message": "Ayarlar"
+   },
+   "shanghai": {
+      "message": "Şangay"
+   },
+   "sharable": {
+      "message": "Paylaş"
+   },
+   "share_desc": {
+      "message": "Sonsuz yeni sekme, milyonlarca kullanıcı tarafından seçilen bir gezinme uzantısı, tarayıcıdaki en kullanıcı dostu yeni sekme"
+   },
+   "share_to_friends": {
+      "message": "Paylaş"
+   },
+   "share_to_others": {
+      "message": "Diğer sonsuz kullanıcılarla paylaşın"
+   },
+   "shopping_and_group_shopping": {
+      "message": "Alışveriş ve grup satın alma"
+   },
+   "show_bookmark_sidebar": {
+      "message": "Yer İmlerini Göster"
+   },
+   "show_gmail_unread_email_nums": {
+      "message": "Gmail'deki okunmayan e-postaların sayısını ikonun üzerinde göster"
+   },
+   "show_random_wallpaper_btn": {
+      "message": "Rastgele değişen duvar kağıtlarının butonunu sağ-alt köşede göster"
+   },
+   "show_slide_btn": {
+      "message": "Sayfa çevirme düğmesi"
+   },
+   "show_todos_nums": {
+      "message": "Simgede yapılacakların sayısını göster"
+   },
+   "show_top_site_sidebar": {
+      "message": "Sık kullanılan siteleri üstte göster "
+   },
+   "side_zoom": {
+      "message": "Yan sütun yakınlaştırma"
+   },
+   "site_address": {
+      "message": "Web sitesi konumu"
+   },
+   "site_icon": {
+      "message": "Site ikonları"
+   },
+   "site_name": {
+      "message": "Web sitesi adı"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "Fotoğrafları bulmak, görüntülemek ve paylaşmak için bir yer"
+   },
+   "social_and_blog": {
+      "message": "Sosyal medya ve bloglar"
+   },
+   "sogou": {
+      "message": "Sogou"
+   },
+   "sogou_desc": {
+      "message": "Wechat resmi hesaplarının yayınladığı içerikleri arayabilen arama motoru"
+   },
+   "some_city_weathers_not_found": {
+      "message": "$city_names$ şehirleri için hava durumu bulunamadı",
+      "placeholders": {
+         "city_names": {
+            "content": "$1"
+         }
+      }
+   },
+   "sorry_net_not_good": {
+      "message": "Ağ hatası"
+   },
+   "source": {
+      "message": "Kaynak"
+   },
+   "sport_and_travel": {
+      "message": "Spor ve seyahat"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "Girişmlere, blogculara, yayıncılara, internet sitelerine, tasarımcılara, geliştiricilere, içerik oluşturuculara ve daha fazlasına ücretsiz fotoğraflar sağlayın"
+   },
+   "sydney": {
+      "message": "Sidney"
+   },
+   "tag": {
+      "message": "Etiketler"
+   },
+   "target_chrome_app_not_installed": {
+      "message": "Bu Chrome uygulamasını yüklemediniz"
+   },
+   "terms_of_use": {
+      "message": "Kullanım Şartları"
+   },
+   "text": {
+      "message": "Metin"
+   },
+   "time_interval": {
+      "message": "Aralık"
+   },
+   "to_top": {
+      "message": "En üste"
+   },
+   "todos": {
+      "message": "Yapılacak"
+   },
+   "tokyo": {
+      "message": "Tokyo"
+   },
+   "try_now": {
+      "message": "Şimdi deneyin"
+   },
+   "unfolder": {
+      "message": "Unfolder"
+   },
+   "unread_notifications": {
+      "message": "Yeni mesaj"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "Dünyaca ünlü yüksek kaliteli duvar kağıtları"
+   },
+   "untitled_note": {
+      "message": "Adsız"
+   },
+   "upload_img_failed": {
+      "message": "Dosyayı karşıya yükleme başarısız oldu"
+   },
+   "use_auto_change_wallpaper_desc": {
+      "message": "Duvar kağıtlarını duvar kağıdı kitaplığından otomatik olarak değiştir"
+   },
+   "use_bing_wallpaper_desc": {
+      "message": "Bing günlük duvar kağıtlarını kullan"
+   },
+   "use_color_wallpaper_desc": {
+      "message": "Rengi arka planda kullan"
+   },
+   "use_local_wallpaper_desc": {
+      "message": "Bilgisayarınızdan duvar kağıdı olarak bir fotoğraf seçin"
+   },
+   "use_mobile_scan_qrcode": {
+      "message": "QR kodunu taramak için bir mobil cihaz kullanın"
+   },
+   "use_wallpaper_library_desc": {
+      "message": "Büyük bulut görüntü kütüphanesinden en sevdiğiniz duvar kağıdını seçin"
+   },
+   "user_share": {
+      "message": "Diğer kullanıcılar tarafından paylaşıldı"
+   },
+   "user_support": {
+      "message": "Destek"
+   },
+   "username_or_password_wrong": {
+      "message": "Kullanıcı adı veya parola doğru değildi"
+   },
+   "videos": {
+      "message": "Video"
+   },
+   "wallpaper": {
+      "message": "Duvar kağıdı"
+   },
+   "wallpaper_blur": {
+      "message": "Duvar kağıdı tanımı"
+   },
+   "wallpaper_desc": {
+      "message": "Sadece bir tane seçebilirsiniz"
+   },
+   "wallpaper_library": {
+      "message": "Duvar"
+   },
+   "wallpaper_mask_concentration": {
+      "message": "Duvar kağıdı şeffaflığı"
+   },
+   "weather": {
+      "message": "Hava Durumu"
+   },
+   "weather_added": {
+      "message": "Bu şehri zaten eklediniz"
+   },
+   "web": {
+      "message": "Web"
+   },
+   "weibo": {
+      "message": "Weibo"
+   },
+   "weixin": {
+      "message": "WeChat"
+   },
+   "what_need_to_do": {
+      "message": "Ne yapmak istersiniz?"
+   },
+   "wind": {
+      "message": "rüzgar"
+   },
+   "yahoo": {
+      "message": "Yahoo"
+   },
+   "yahoo_desc": {
+      "message": "Yahoo, Yahoo tarafından geliştirilen bir arama motorudur"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Yandex, Rusya'daki en önemli internet servis portallarından biridir."
+   },
+   "you_have_days_expired": {
+      "message": "Ayrıcalıklarınız $days$ gün içinde sona erecek",
+      "placeholders": {
+         "days": {
+            "content": "$1"
+         }
+      }
+   }
+}

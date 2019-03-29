@@ -1,0 +1,994 @@
+{
+   "360_desc": {
+      "message": "เครื่องมือค้นหาที่ปลอดภัย"
+   },
+   "360search": {
+      "message": "360"
+   },
+   "about": {
+      "message": "เกี่ยวกับ"
+   },
+   "about_us": {
+      "message": "เกี่ยวกับเรา"
+   },
+   "add": {
+      "message": "เพิ่ม"
+   },
+   "add_city": {
+      "message": "เพิ่มเมือง"
+   },
+   "add_search_engine": {
+      "message": "เพิ่มเครื่องมือค้นหา"
+   },
+   "added": {
+      "message": "เพิ่มแล้ว"
+   },
+   "alipay": {
+      "message": "Alipay"
+   },
+   "all": {
+      "message": "ทั้งหมด"
+   },
+   "all_wallpaper": {
+      "message": "ภาพพื้นหลังทั้งหมด"
+   },
+   "all_wallpaper_sources": {
+      "message": "ภาพพื้นหลังทั้งหมด"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "แหล่งทั้งหมดของภาพพื้นหลัง"
+   },
+   "animation": {
+      "message": "ภาพเคลื่อนไหว"
+   },
+   "animation_desc": {
+      "message": "อาจส่งผลต่อความคล่องของผลิตภัณฑ์หากคุณเปิดการทำงานของภาพเคลื่อนไหว"
+   },
+   "app": {
+      "message": "แอพ"
+   },
+   "app_disabled_enable_first": {
+      "message": "แอปนี้ได้ถูกคุณบล็อกไว้ คุณต้องการอนุญาตให้ Infinity เปิดใช้งานก่อนหรือไม่"
+   },
+   "appearance": {
+      "message": "มุมมอง"
+   },
+   "apple": {
+      "message": "Apple"
+   },
+   "auto_change_wallpaper": {
+      "message": "เปลี่ยนภาพพื้นหลังอัตโนมัติ"
+   },
+   "auto_sync_data": {
+      "message": "ซิงค์ข้อมูลอัตโนมัติ"
+   },
+   "auto_sync_data_desc": {
+      "message": "หลังจากเปิดใช้งาน ข้อมูลจะซิงค์โดยอัตโนมัติเมื่อมีการเปลี่ยนแปลง"
+   },
+   "background_color": {
+      "message": "สีพื้นหลัง"
+   },
+   "backup_confirm_content": {
+      "message": "ข้อมูลในเครื่องจะเขียนทับข้อมูลระบบคลาวด์ สามารถดำเนินการได้หรือไม่?"
+   },
+   "backup_now": {
+      "message": "สำรองข้อมูลตอนนี้"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "baidu_desc": {
+      "message": "เครื่องมือค้นหาที่คนจีนใช้มากที่สุด"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "โฟกัสกับการรวบรวมภาพถ่ายชนิดไม่ใช่แกลอรีฟรีคุณภาพสูง"
+   },
+   "basic_user_account": {
+      "message": "บัญชี Basic"
+   },
+   "beijing": {
+      "message": "ปักกิ่ง"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Bing เป็นเครื่องมือค้นหาที่พัฒนาโดย Microsoft"
+   },
+   "bing_wallpaper": {
+      "message": "คลังภาพพื้นหลัง bing ประจำวัน"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "คลังภาพพื้นหลัง Bing ประจำวัน"
+   },
+   "bookmarks": {
+      "message": "ที่คั่นหน้า"
+   },
+   "can_not_delete_current_search_engine": {
+      "message": "เครื่องมือค้นหาปัจจุบันไม่สามารถลบได้"
+   },
+   "can_you_give_us_a_five_star": {
+      "message": "ช่วยให้คะแนนเรา 5 ดาวได้ไหม"
+   },
+   "cancel": {
+      "message": "ยกเลิก"
+   },
+   "cancel_login": {
+      "message": "ยกเลิกการเข้าสู่ระบบ"
+   },
+   "change_wallpaper_source": {
+      "message": "เปลี่ยนแหล่งภาพพื้นหลัง"
+   },
+   "choose_local_wallpaper": {
+      "message": "เลือกภาพพื้นหลังในเครื่อง"
+   },
+   "chrome_apps": {
+      "message": "แอป Chrome"
+   },
+   "chromes_store": {
+      "message": "Chrome Web Store"
+   },
+   "clear_done": {
+      "message": "ล้างข้อมูลแล้ว"
+   },
+   "clear_history": {
+      "message": "ล้างประวัติ"
+   },
+   "click_to_reload": {
+      "message": "โหลดใหม่"
+   },
+   "color": {
+      "message": "สี"
+   },
+   "color_wallpaper": {
+      "message": "ภาพพื้นหลังสีเดียว"
+   },
+   "column_count": {
+      "message": "จำนวนคอลัมน์"
+   },
+   "confirm": {
+      "message": "ตกลง"
+   },
+   "confirm_donate": {
+      "message": "ฉันต้องการบริจาค"
+   },
+   "contact_us": {
+      "message": "ติดต่อเรา"
+   },
+   "copy": {
+      "message": "คัดลอก"
+   },
+   "create_custom_search_engine": {
+      "message": "เพิ่มเครื่องมือค้นหาใหม่"
+   },
+   "custom": {
+      "message": "ที่กำหนดเอง"
+   },
+   "custom_icon": {
+      "message": "ไอคอนแบบกำหนดเอง"
+   },
+   "custom_layout": {
+      "message": "เค้าโครงแบบกำหนดเอง"
+   },
+   "cut": {
+      "message": "ตัด"
+   },
+   "data_backup": {
+      "message": "การสำรองข้อมูล"
+   },
+   "data_backup_failed": {
+      "message": "การสำรองข้อมูลไม่สำเร็จ"
+   },
+   "data_backup_successed": {
+      "message": "สำรองข้อมูลเสร็จสิ้น"
+   },
+   "data_recovery": {
+      "message": "กู้คืนข้อมูล"
+   },
+   "data_recovery_failed": {
+      "message": "การกู้คืนข้อมูลไม่สำเร็จ"
+   },
+   "data_recovery_failed_because_never_backup": {
+      "message": "การกู้คืนข้อมูลล้มเหลวเนื่องจากคุณไม่ได้สำรองข้อมูล"
+   },
+   "data_recovery_successed": {
+      "message": "กู้คืนข้อมูลสำเร็จ"
+   },
+   "default": {
+      "message": "ค่าเริ่มต้น"
+   },
+   "delete": {
+      "message": "ลบ"
+   },
+   "delete_folder_and_preserve_icons_confirm_content": {
+      "message": "โฟลเดอร์จะถูกลบไอคอนจะถูกเก็บไว้ OK?"
+   },
+   "delete_folder_confirm_content": {
+      "message": "โฟลเดอร์จะถูกลบไปใช่ไหม?"
+   },
+   "digital_tech": {
+      "message": "เทคโนโลยีดิจิตอล"
+   },
+   "disable": {
+      "message": "เลิกใช้งาน"
+   },
+   "disabled": {
+      "message": "ปิดการใช้งาน"
+   },
+   "discovery": {
+      "message": "การค้นหา"
+   },
+   "display_text": {
+      "message": "ชื่อแสดง"
+   },
+   "donate": {
+      "message": "บริจาค"
+   },
+   "done": {
+      "message": "เสร็จสิ้น"
+   },
+   "download_wallpaper": {
+      "message": "ดาวน์โหลดภาพพื้นหลัง"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "DuckDuckGo มุ่งเน้นการนำเข้าเนื้อหาจากเว็บไซต์ Web 2.0 รายใหญ่นอกเหนือจากเครื่องมือค้นหาทั่วไป ปรัญชาของเว็บไซต์คือการเคารพความเป็นส่วนตัวของผู้ใช้ โดยให้สัญญาว่าจะไม่ติดตามหรือจดบันทึกสิ่งที่ผู้ใช้ค้นหา"
+   },
+   "edit": {
+      "message": "แก้ไข"
+   },
+   "edit_icon": {
+      "message": "แก้ไขไอคอน"
+   },
+   "education_and_recruit": {
+      "message": "การศึกษาและงาน"
+   },
+   "elastic_slide_animation": {
+      "message": "ภาพเคลื่อนไหวในฤดูใบไม้ผลิ"
+   },
+   "empty_folder": {
+      "message": "(ว่างเปล่า)"
+   },
+   "enable": {
+      "message": "เปิดการใช้งาน"
+   },
+   "enabled": {
+      "message": "เปิดใช้งานแล้ว"
+   },
+   "engine_address_label": {
+      "message": "URL ที่มี “%s” ในตำแหน่งข้อความค้นหา"
+   },
+   "engine_icon_label": {
+      "message": "ไอคอน"
+   },
+   "engine_label": {
+      "message": "เครื่องมือค้นหา"
+   },
+   "enter_and_search": {
+      "message": "ป้อนและค้นหา... "
+   },
+   "extdesc": {
+      "message": "อาจเป็นแท็บใหม่ที่เป็นมิตรต่อผู้ใช้ที่สุดบนเบราว์เซอร์"
+   },
+   "extension": {
+      "message": "จัดการส่วนขยาย"
+   },
+   "extname": {
+      "message": "Infinity New Tab (Pro)"
+   },
+   "facebook_group": {
+      "message": "กลุ่ม\n Facebook"
+   },
+   "feedback": {
+      "message": "ความคิดเห็น"
+   },
+   "file_migrate_btn": {
+      "message": "เลือกไฟล์สำรองภายในเครื่อง"
+   },
+   "file_migrate_desc": {
+      "message": "หากคุณเลือกโอนข้อมูลผ่านไฟล์สำรอง โปรดตรวจสอบว่า:"
+   },
+   "file_migrate_requirement": {
+      "message": "คุณมีข้อมูลที่ส่งออกจากเวอร์ชันเก่า"
+   },
+   "file_migrate_title": {
+      "message": "แผน 2: โอนข้อมูลผ่านไฟล์สำรอง"
+   },
+   "filter": {
+      "message": "เลือก"
+   },
+   "finance": {
+      "message": "การเงิน"
+   },
+   "firefox_store": {
+      "message": "ร้านค้าส่วนเสริมของ Firefox"
+   },
+   "folder": {
+      "message": "โฟลเดอร์"
+   },
+   "follow_us": {
+      "message": "ติดตามเรา"
+   },
+   "font": {
+      "message": "แบบอักษร"
+   },
+   "font_color": {
+      "message": "สีแบบอักษร"
+   },
+   "font_shadow": {
+      "message": "เงาฟอนต์"
+   },
+   "font_size": {
+      "message": "ขนาดแบบอักษร"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "ภาพถ่ายไม่มีลิขสิทธิ์จำนวนมาก ใช้งานฟรี อัปเดตทุกวัน"
+   },
+   "from": {
+      "message": "จาก$from$",
+      "placeholders": {
+         "from": {
+            "content": "$1"
+         }
+      }
+   },
+   "from_user": {
+      "message": "จากผู้ใช้:"
+   },
+   "game_and_entertainment": {
+      "message": "เกมและความบันเทิง"
+   },
+   "gmail_notification": {
+      "message": "การแจ้งเตือนของ Gmail"
+   },
+   "gmail_notification_ring": {
+      "message": "เสียงแจ้งเตือนของ Gmail"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "Google Search เป็นเครื่องมือค้นหาที่พัฒนาโดย Google เป็นเครื่องมือค้นหาที่ใหญ่และทรงอิทธิพลที่สุดในอินเทอร์เน็ต"
+   },
+   "have_feedback": {
+      "message": "ความคิดเห็น"
+   },
+   "hide_search_btn": {
+      "message": "ซ่อนปุ่มค้นหา"
+   },
+   "hide_search_type": {
+      "message": "ซ่อนประเภทการค้นหา"
+   },
+   "hide_searcher": {
+      "message": "ซ่อนกล่องค้นหา"
+   },
+   "history": {
+      "message": "ประวัติการเข้าชม"
+   },
+   "hot_city": {
+      "message": "เมืองยอดนิยม"
+   },
+   "hour": {
+      "message": "ชั่วโมง"
+   },
+   "humidity": {
+      "message": "ความชื้น"
+   },
+   "icon": {
+      "message": "ไอคอน"
+   },
+   "icon_margin_x": {
+      "message": "ระหว่างคอลัมน์"
+   },
+   "icon_margin_y": {
+      "message": "ระยะห่างระหว่างบรรทัด"
+   },
+   "icon_opacity": {
+      "message": "ความโปร่งใสของไอคอน"
+   },
+   "icon_radius": {
+      "message": "ไอคอนมุมโค้ง"
+   },
+   "icon_shadow": {
+      "message": "เงาไอคอน"
+   },
+   "icon_size": {
+      "message": "ขนาดของไอคอน"
+   },
+   "images": {
+      "message": "ภาพ"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "วอลล์เปเปอร์ Anime แนะนำ Infinity"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "วอลล์เปเปอร์ที่มีคุณภาพสูงอนันต์อะนิเมะห้องสมุด"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "วอลล์เปเปอร์ภูมิทัศน์ที่ไม่มีที่สิ้นสุด"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "วอลล์เปเปอร์ที่มีคุณภาพสูงอนันต์วอลล์เปเปอร์ห้องสมุด"
+   },
+   "information": {
+      "message": "ข้อความ"
+   },
+   "insert_img": {
+      "message": "แทรกภาพ"
+   },
+   "insert_link": {
+      "message": "เพิ่มลิงก์"
+   },
+   "invite_you_to_try_vip": {
+      "message": "เราขอเชิญคุณทดลองใช้ {{vip}} ฟรี"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "ภาพถ่ายฟรีสำหรับทุกการใช้งาน"
+   },
+   "last_update_at": {
+      "message": "อัพเดทล่าสุดเมื่อ $update$",
+      "placeholders": {
+         "update": {
+            "content": "$1"
+         }
+      }
+   },
+   "layout": {
+      "message": "เค้าโครง"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "แหล่งภาพพื้นหลัง HD ฟรี"
+   },
+   "life_style": {
+      "message": "ไลฟ์สไตล์"
+   },
+   "local_wallpaper": {
+      "message": "ภาพพื้นหลังในเครื่อง"
+   },
+   "login": {
+      "message": "ลงชื่อเข้า"
+   },
+   "login_infinity": {
+      "message": "ลงชื่อเข้า Infinity"
+   },
+   "login_successed": {
+      "message": "ลงชื่อเข้าสำเร็จ"
+   },
+   "login_tip": {
+      "message": "รับสิทธิประโยชน์เพิ่มเติมได้ทันที"
+   },
+   "login_to_insert_image": {
+      "message": "คุณจะสามารถแทรกรูปภาพได้เมื่อล็อกอินแล้วเท่านั้น"
+   },
+   "login_to_try_vip": {
+      "message": "สัมผัสประสบการณ์ {{vip}} ฟรีหลังจาก {{login: Log in}}"
+   },
+   "logining_to": {
+      "message": "กำลังลงชื่อเข้า"
+   },
+   "logout": {
+      "message": "ออกจากระบบ"
+   },
+   "london": {
+      "message": "ลอนดอน"
+   },
+   "main_zoom": {
+      "message": "ซูมหน้าจอ"
+   },
+   "maps": {
+      "message": "แผนที่"
+   },
+   "may_affect_performance": {
+      "message": "อาจส่งผลต่อประสิทธิภาพการทำงาน"
+   },
+   "migrate_basic_user_data": {
+      "message": "ใช้บัญชีพื้นฐานเพื่อโอนข้อมูล"
+   },
+   "migrate_basic_user_data_successed": {
+      "message": "โอนข้อมูลเสร็จสมบูรณ์"
+   },
+   "migrate_desc": {
+      "message": "หากคุณเคยใช้ Infinity New Tab เวอร์ชันพื้นฐาน (ไอดี：dbfmnekepjoapopniengjbcpnbljalfg) คุณสามารถโอนข้อมูลของคุณได้ในหน้านี้ หากคุณไม่ได้ใช้เวอร์ชันพื้นฐาน โปรดไม่ต้องสนใจหน้านี้ คุณสามารถเลือกวิธีใดวิธีหนึ่งด้านล่างนี้ในการโอนข้อมูลของคุณ"
+   },
+   "migrate_failed": {
+      "message": "การโอนข้อมูลล้มเหลว โปรดลองอีกครั้ง"
+   },
+   "migrate_from_basic": {
+      "message": "โอนข้อมูลจากเวอร์ชันเก่า"
+   },
+   "migrate_from_basic_desc": {
+      "message": "หากคุณใช้ Infinity New Tab แบบพื้นฐาน ให้คลิกที่ \"โอนตอนนี้\" เพื่อโอนข้อมูลของคุณไปยังเวอร์ชันโปร"
+   },
+   "migrate_now": {
+      "message": "โอนตอนนี้"
+   },
+   "migrate_successed": {
+      "message": "โอนข้อมูลเสร็จสมบูรณ์ โปรดปิดหน้านี้หลังจากคลิกยืนยัน"
+   },
+   "migrate_title": {
+      "message": "โอนข้อมูลของคุณ"
+   },
+   "mini_mode": {
+      "message": "สไตล์เรียบง่าย"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "ใช้ในเว็บไซต์ ธีม แม่แบบ โปรเจ็กต์ สิ่งพิมพ์ และหนังสือพิมพ์ เพิ่มภาพพื้นหลังและวิดีโอใหม่ทุกสัปดาห์"
+   },
+   "mobile_device": {
+      "message": "มือถือ"
+   },
+   "more": {
+      "message": "เพิ่มเติม"
+   },
+   "music_and_video": {
+      "message": "มิวสิควิดีโอ"
+   },
+   "must_five_star": {
+      "message": "ได้เลย ฉันจะให้ 5 ดาว!"
+   },
+   "my": {
+      "message": "ของฉัน"
+   },
+   "my_backup": {
+      "message": "ข้อมูลสำรอง"
+   },
+   "my_backup_desc": {
+      "message": "ล็อกอินเพื่อใช้ฟังก์ชันสำรองข้อมูล"
+   },
+   "name": {
+      "message": "ชื่อ"
+   },
+   "need_your_support": {
+      "message": "การสนับสนุนของคุณคือรางวัลที่ยิ่งใหญ่ที่สุดสำหรับเรา"
+   },
+   "news": {
+      "message": "ข่าว"
+   },
+   "newtab": {
+      "message": "แท็บใหม่"
+   },
+   "newyork": {
+      "message": "นิวยอร์ก"
+   },
+   "next_wallpaper": {
+      "message": "เปลี่ยนภาพพื้นหลังเป็นภาพถัดไป"
+   },
+   "next_wallpaper_failed": {
+      "message": "เปลี่ยนภาพพื้นหลังไม่สำเร็จ"
+   },
+   "next_wallpaper_successed": {
+      "message": "เปลี่ยนภาพพื้นหลังเสร็จสมบูรณ์"
+   },
+   "no_custom_search_engine_added": {
+      "message": "ไม่มีการเพิ่มเครื่องมือค้นหาแบบกำหนดเอง"
+   },
+   "no_description": {
+      "message": "ไม่มีคำอธิบาย"
+   },
+   "no_extension_founded": {
+      "message": "ไม่มีส่วนขยายหรือแอปที่ตรงตามเงื่อนไข"
+   },
+   "no_more": {
+      "message": "ไม่มีรายการอื่น"
+   },
+   "no_todo_added": {
+      "message": "ไม่มีอะไรที่ต้องทำในขณะนี้ กรอกรายการสิ่งที่ต้องทำ เพิ่มรายการโดยการคลิกป้อน"
+   },
+   "not_installed_any_chrome_apps": {
+      "message": "คุณไม่ได้ติดตั้งแอปใด ๆ ของ Chrome"
+   },
+   "not_support": {
+      "message": "เวอร์ชันปัจจุบันของคุณไม่รองรับแอปนี้ โปรดอัปเกรดเป็น \"Infinity New Tab\" เวอร์ชันล่าสุด"
+   },
+   "not_support_app": {
+      "message": "เบราว์เซอร์ของคุณไม่รองรับแอปพลิเคชันนี้ในขณะนี้"
+   },
+   "not_support_protocol": {
+      "message": "เบราว์เซอร์ของคุณไม่รองรับฟังก์ชันนี้ในขณะนี้"
+   },
+   "notes": {
+      "message": "โน้ต"
+   },
+   "nothing_founded": {
+      "message": "ไม่พบอะไร"
+   },
+   "notification": {
+      "message": "การแจ้งเตือน"
+   },
+   "notifications_title": {
+      "message": "ศูนย์ข้อความ"
+   },
+   "one_key_migrate_btn": {
+      "message": "โอนข้อมูลในคลิกเดียว"
+   },
+   "one_key_migrate_desc": {
+      "message": "หากคุณใช้การโอนข้อมูลในคลิกเดียว โปรดตรวจสอบว่า:"
+   },
+   "one_key_migrate_requirement": {
+      "message": "เวอร์ชันเก่าถูกติดตั้งในเบราว์เซอร์นี้"
+   },
+   "one_key_migrate_title": {
+      "message": "แผน 1: โอนข้อมูลในคลิกเดียว"
+   },
+   "opacity_slide_animation": {
+      "message": "จางลง"
+   },
+   "open": {
+      "message": "เปิด"
+   },
+   "open_all": {
+      "message": "เปิดทั้งหมด"
+   },
+   "open_auto_sync_failed": {
+      "message": "เปิดการซิงค์อัตโนมัติไม่สำเร็จ"
+   },
+   "open_bookmark_link_in_new_tab": {
+      "message": "เปิดลิงก์ที่บุ๊กมาร์กไว้ในแท็บใหม่"
+   },
+   "open_history_in_new_tab": {
+      "message": "เปิดประวัติในแท็บใหม่"
+   },
+   "open_search_result_in_new_tab": {
+      "message": "เปิดผลการค้นหาของบุคคลที่สามในแท็บใหม่"
+   },
+   "open_site_in_new_tab": {
+      "message": "เปิดเว็บไซต์ในแท็บใหม่"
+   },
+   "open_target": {
+      "message": "วิธีการเปิดเป้าหมาย"
+   },
+   "open_target_desc": {
+      "message": "วิธีการต่อไปนี้ใช้เฉพาะกับโมดูลภายใน infinity"
+   },
+   "open_wrallpaper_library": {
+      "message": "เปิดคลังภาพพื้นหลัง"
+   },
+   "operate_error": {
+      "message": "คำสั่งผิดเหรอ"
+   },
+   "or_use_mobile_visit_site": {
+      "message": "หรือเข้าชมโดยตรงด้วยเบราว์เซอร์ในอุปกรณ์เคลื่อนที่"
+   },
+   "other": {
+      "message": "อื่นๆ"
+   },
+   "password": {
+      "message": "รหัสผ่าน"
+   },
+   "paste": {
+      "message": "วาง"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "ภาพถ่ายสวย ๆ ฟรีสำหรับทุกการใช้งาน"
+   },
+   "picture": {
+      "message": "รูปภาพ"
+   },
+   "please_enter_city_name": {
+      "message": "เมืองหรือภูมิภาค"
+   },
+   "popular": {
+      "message": "ยอดนิยม"
+   },
+   "preset_layout": {
+      "message": "รูปแบบเริ่มต้น"
+   },
+   "pressure": {
+      "message": "ความกดอากาศ"
+   },
+   "preview": {
+      "message": "การแสดงตัวอย่าง"
+   },
+   "privacy_policy": {
+      "message": "นโยบายความเป็นส่วนตัว"
+   },
+   "pure_color": {
+      "message": "สีบริสุทธิ์"
+   },
+   "qq_group": {
+      "message": "กลุ่ม QQ"
+   },
+   "random_wallpaper": {
+      "message": "ภาพพื้นหลังแบบสุ่ม"
+   },
+   "random_wallpaper_failed": {
+      "message": "ไม่สามารถรับภาพพื้นหลังแบบสุ่ม"
+   },
+   "random_wallpaper_successed": {
+      "message": "เปลี่ยนภาพพื้นหลังแบบสุ่มเสร็จแล้ว"
+   },
+   "read": {
+      "message": "อ่านแล้ว"
+   },
+   "readed_notifications": {
+      "message": "ข้อความเก่า"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "มีภาพ HD จำนวนมากสำหรับการใช้งานส่วนตัวและเชิงพาณิชย์ เพิ่มใหม่ 7 ภาพทุกสัปดาห์"
+   },
+   "recently_added": {
+      "message": "ที่เพิ่มล่าสุด"
+   },
+   "recommend_third_login": {
+      "message": "แนะนำให้ล็อกอินผ่านบุคคลที่สาม"
+   },
+   "recovery_confirm_content": {
+      "message": "ข้อมูลในคลาวด์จะแทนที่ข้อมูลในเครื่อง คุณยืนยันคำสั่งนี้หรือไม่"
+   },
+   "rename": {
+      "message": "เปลี่ยนชื่อ"
+   },
+   "required": {
+      "message": "บังคับ"
+   },
+   "reset": {
+      "message": "รีเซ็ต"
+   },
+   "reset_settings": {
+      "message": "รีเซ็ตการตั้งค่า"
+   },
+   "reset_settings_desc": {
+      "message": "คืนค่าการตั้งค่าเป็นค่าเริ่มต้นเดิม"
+   },
+   "reset_settings_now": {
+      "message": "รีเซ็ตการตั้งค่า"
+   },
+   "reset_settings_success": {
+      "message": "สำเร็จแล้ว"
+   },
+   "revert": {
+      "message": "เลิกทำ"
+   },
+   "revert_successed": {
+      "message": "การยกเลิกเสร็จสมบูรณ์"
+   },
+   "row_count": {
+      "message": "นับแถว"
+   },
+   "search": {
+      "message": "ค้นหา"
+   },
+   "search_bookmarks": {
+      "message": "ค้นหาบุ๊กมาร์ก"
+   },
+   "search_history_in_week": {
+      "message": "ค้นหาประวัติภายในหนึ่งสัปดาห์"
+   },
+   "search_site": {
+      "message": "ค้นหาในเว็บ"
+   },
+   "searcher": {
+      "message": "กล่องค้นหา"
+   },
+   "searcher_opacity": {
+      "message": "ความโปร่งใสของกล่องค้นหา"
+   },
+   "searcher_radius": {
+      "message": "กล่องค้นหามุมโค้ง"
+   },
+   "searcher_shadow": {
+      "message": "เงากล่องค้นหา"
+   },
+   "searcher_size": {
+      "message": "ขนาดกล่องค้นหา"
+   },
+   "select_all": {
+      "message": "เลือกทั้งหมด"
+   },
+   "settings": {
+      "message": "การตั้งค่า"
+   },
+   "shanghai": {
+      "message": "เซี่ยงไฮ้"
+   },
+   "sharable": {
+      "message": "แชร์"
+   },
+   "share_desc": {
+      "message": "Infinity New Tab ส่วนขยายการนำทางที่คนนับล้านเลือกใช้ แท็บใหม่ที่เป็นมิตรต่อผู้ใช้ที่สุดบนเบราว์เซอร์"
+   },
+   "share_to_friends": {
+      "message": "แชร์"
+   },
+   "share_to_others": {
+      "message": "แชร์กับผู้ใช้ Infinity คนอื่น"
+   },
+   "shopping_and_group_shopping": {
+      "message": "การช้อปและการซื้อเป็นกลุ่ม"
+   },
+   "show_bookmark_sidebar": {
+      "message": "แสดงที่คั่นหน้า"
+   },
+   "show_gmail_unread_email_nums": {
+      "message": "แสดงจำนวนอีเมลจาก Gmail ที่ยังไม่ได้อ่านในไอคอน"
+   },
+   "show_random_wallpaper_btn": {
+      "message": "แสดงปุ่มสำหรับเปลี่ยนภาพพื้นหลังแบบสุ่มที่มุมล่างขวา"
+   },
+   "show_slide_btn": {
+      "message": "ปุ่มพลิกหน้า"
+   },
+   "show_todos_nums": {
+      "message": "แสดงจำนวนสิ่งที่ต้องทำบนไอคอน"
+   },
+   "show_top_site_sidebar": {
+      "message": "แสดงเว็บไซต์ที่ใช้บ่อยด้านบนสุด"
+   },
+   "side_zoom": {
+      "message": "ซูมคอลัมน์ด้านข้าง"
+   },
+   "site_address": {
+      "message": "ตำแหน่งเว็บไซต์"
+   },
+   "site_icon": {
+      "message": "ไอคอนเว็บไซต์"
+   },
+   "site_name": {
+      "message": "ชื่อเว็บไซต์"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "ที่สำหรับค้นหา แสดงผลงาน และแชร์ภาพถ่าย"
+   },
+   "social_and_blog": {
+      "message": "โซเชียลมีเดียและบล็อก"
+   },
+   "sogou": {
+      "message": "Sogou"
+   },
+   "sogou_desc": {
+      "message": "เครื่องมือค้นหาที่สามารถค้นหาเนื้อหาที่โพสต์โดยบัญชีทางการใน Wechat"
+   },
+   "some_city_weathers_not_found": {
+      "message": "ไม่พบสภาพอากาศของ$city_names$",
+      "placeholders": {
+         "city_names": {
+            "content": "$1"
+         }
+      }
+   },
+   "sorry_net_not_good": {
+      "message": "ข้อผิดพลาดของเครือข่าย"
+   },
+   "source": {
+      "message": "แหล่งที่มา"
+   },
+   "sport_and_travel": {
+      "message": "กีฬาและการท่องเที่ยว"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "ให้บริการภาพถ่ายฟรีแก่ธุรกิจสตาร์ทอัพ บล็อกเกอร์ สำนักพิมพ์ เว็บไซต์ นักออกแบบ นักพัฒนา ผู้สร้าง และอีกมากมาย"
+   },
+   "sydney": {
+      "message": "ซิดนีย์"
+   },
+   "tag": {
+      "message": "แท็ก"
+   },
+   "target_chrome_app_not_installed": {
+      "message": "คุณไม่ได้ติดตั้งแอป Chrome นี้"
+   },
+   "terms_of_use": {
+      "message": "ข้อกำหนดการใช้"
+   },
+   "text": {
+      "message": "ข้อความ"
+   },
+   "time_interval": {
+      "message": "ช่วงเวลา"
+   },
+   "to_top": {
+      "message": "ขึ้นไปด้านบนสุด"
+   },
+   "todos": {
+      "message": "สิ่งที่ต้องทำ"
+   },
+   "tokyo": {
+      "message": "โตเกียว"
+   },
+   "try_now": {
+      "message": "ลองใช้เลย"
+   },
+   "unfolder": {
+      "message": "unfolder"
+   },
+   "unread_notifications": {
+      "message": "ข้อความใหม่"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "ภาพพื้นหลังคุณภาพสูงที่โด่งดังระดับโลก"
+   },
+   "untitled_note": {
+      "message": "ไม่ระบุชื่อ"
+   },
+   "upload_img_failed": {
+      "message": "การอัพโหลดไฟล์ล้มเหลว"
+   },
+   "use_auto_change_wallpaper_desc": {
+      "message": "โดยอัตโนมัติแทนที่วอลล์เปเปอร์จากผู้ที่มาจากวอลล์เปเปอร์ไลบรารี"
+   },
+   "use_bing_wallpaper_desc": {
+      "message": "ใช้ภาพพื้นหลังประจำวันของ Bing"
+   },
+   "use_color_wallpaper_desc": {
+      "message": "ใช้สีนี้ในพื้นหลัง"
+   },
+   "use_local_wallpaper_desc": {
+      "message": "เลือกภาพจากคอมพิวเตอร์ของคุณเป็นภาพพื้นหลัง"
+   },
+   "use_mobile_scan_qrcode": {
+      "message": "ใช้อุปกรณ์เคลื่อนที่สแกนคิวอาร์โค้ด"
+   },
+   "use_wallpaper_library_desc": {
+      "message": "เลือกภาพพื้นหลังที่คุณชอบจากคลังภาพขนาดใหญ่ในระบบคลาวด์"
+   },
+   "user_share": {
+      "message": "แชร์โดยผู้ใช้คนอื่น"
+   },
+   "user_support": {
+      "message": "บริการช่วยเหลือ"
+   },
+   "username_or_password_wrong": {
+      "message": "ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง"
+   },
+   "videos": {
+      "message": "วิดีโอ"
+   },
+   "wallpaper": {
+      "message": "วอลเปเปอร์"
+   },
+   "wallpaper_blur": {
+      "message": "ความคมชัดของภาพพื้นหลัง"
+   },
+   "wallpaper_desc": {
+      "message": "คุณเลือกได้เพียงภาพเดียว"
+   },
+   "wallpaper_library": {
+      "message": "วอลล์เปเปอร์"
+   },
+   "wallpaper_mask_concentration": {
+      "message": "ความโปร่งใสของภาพพื้นหลัง"
+   },
+   "weather": {
+      "message": "สภาพอากาศ"
+   },
+   "weather_added": {
+      "message": "คุณเพิ่มเมืองนี้ไปแล้ว"
+   },
+   "web": {
+      "message": "เว็บ"
+   },
+   "weibo": {
+      "message": "Weibo"
+   },
+   "weixin": {
+      "message": "WeChat"
+   },
+   "what_need_to_do": {
+      "message": "คุณอยากจะทำอะไร"
+   },
+   "wind": {
+      "message": "ลม"
+   },
+   "yahoo": {
+      "message": "Yahoo"
+   },
+   "yahoo_desc": {
+      "message": "Yahoo Search เป็นเครื่องมือค้นหาที่ดำเนินการโดย Yahoo"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Yandex เป็นพอร์ทัลให้บริการอินเทอร์เน็ตที่สำคัญที่สุดในประเทศรัสเซีย"
+   },
+   "you_have_days_expired": {
+      "message": "สิทธิพิเศษของคุณจะสิ้นสุดลงในอีก $days$ วัน",
+      "placeholders": {
+         "days": {
+            "content": "$1"
+         }
+      }
+   }
+}

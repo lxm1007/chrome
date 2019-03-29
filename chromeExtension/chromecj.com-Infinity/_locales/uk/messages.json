@@ -1,0 +1,994 @@
+{
+   "360_desc": {
+      "message": "Безпечна пошукова система"
+   },
+   "360search": {
+      "message": "360"
+   },
+   "about": {
+      "message": "Про Google Chrome"
+   },
+   "about_us": {
+      "message": "Про нас"
+   },
+   "add": {
+      "message": "Додати"
+   },
+   "add_city": {
+      "message": "Додати місто"
+   },
+   "add_search_engine": {
+      "message": "Додати пошукову систему"
+   },
+   "added": {
+      "message": "Додано"
+   },
+   "alipay": {
+      "message": "Alipay"
+   },
+   "all": {
+      "message": "Все"
+   },
+   "all_wallpaper": {
+      "message": "Усі шпалери"
+   },
+   "all_wallpaper_sources": {
+      "message": "Усі шпалери"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "Усі джерела шпалер"
+   },
+   "animation": {
+      "message": "Анімація"
+   },
+   "animation_desc": {
+      "message": "Може вплинути на плавність продукту, якщо ви включите анімацію"
+   },
+   "app": {
+      "message": "Програма"
+   },
+   "app_disabled_enable_first": {
+      "message": "Ви заблокували цю програму. Хочете дозволити Infinity спочатку її активувати?"
+   },
+   "appearance": {
+      "message": "Перегляд"
+   },
+   "apple": {
+      "message": "Apple"
+   },
+   "auto_change_wallpaper": {
+      "message": "Автоматична зміна шпалер"
+   },
+   "auto_sync_data": {
+      "message": "Автоматична синхронізація даних"
+   },
+   "auto_sync_data_desc": {
+      "message": "Після активації дані будуть автоматично синхронізуватися при їх зміні"
+   },
+   "background_color": {
+      "message": "Колір тла"
+   },
+   "backup_confirm_content": {
+      "message": "Місцеві дані перезаписують хмарні дані. Чи нормально продовжувати?"
+   },
+   "backup_now": {
+      "message": "Створити резервну копію зараз"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "baidu_desc": {
+      "message": "Пошукова система, найбільш популярна серед китайців"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "Зосередьтеся на збиранні безкоштовних негалерейних фотографій високої якості"
+   },
+   "basic_user_account": {
+      "message": "Основний рахунок"
+   },
+   "beijing": {
+      "message": "Пекін"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Bing — пошукова система, розроблена Microsoft"
+   },
+   "bing_wallpaper": {
+      "message": "Бібліотека шпалер Daily bing Wallpaper"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "Бібліотека шпалер Daily Bing Wallpaper"
+   },
+   "bookmarks": {
+      "message": "Закладка"
+   },
+   "can_not_delete_current_search_engine": {
+      "message": "Поточна пошукова система не може бути видалена"
+   },
+   "can_you_give_us_a_five_star": {
+      "message": "Дасте нам п'ять зірок?"
+   },
+   "cancel": {
+      "message": "Скасувати"
+   },
+   "cancel_login": {
+      "message": "Скасувати вхід у систему"
+   },
+   "change_wallpaper_source": {
+      "message": "Змінити джерело шпалер"
+   },
+   "choose_local_wallpaper": {
+      "message": "Обрати локальні шпалери"
+   },
+   "chrome_apps": {
+      "message": "Додатки Chrome"
+   },
+   "chromes_store": {
+      "message": "Chrome Web Store"
+   },
+   "clear_done": {
+      "message": "Дані очищено"
+   },
+   "clear_history": {
+      "message": "Очистити історію"
+   },
+   "click_to_reload": {
+      "message": "Перезавантажити"
+   },
+   "color": {
+      "message": "Колір"
+   },
+   "color_wallpaper": {
+      "message": "Однокольорові шпалери"
+   },
+   "column_count": {
+      "message": "кількість стовпців"
+   },
+   "confirm": {
+      "message": "ТАК"
+   },
+   "confirm_donate": {
+      "message": "Я хочу пожертвувати"
+   },
+   "contact_us": {
+      "message": "Зв'язатися з нами"
+   },
+   "copy": {
+      "message": "Копіювати"
+   },
+   "create_custom_search_engine": {
+      "message": "Додайте систему пошуку\n"
+   },
+   "custom": {
+      "message": "Спеціальне"
+   },
+   "custom_icon": {
+      "message": "Налаштована піктограма"
+   },
+   "custom_layout": {
+      "message": "користувацький макет"
+   },
+   "cut": {
+      "message": "Вирізати"
+   },
+   "data_backup": {
+      "message": "Резервне копіювання даних"
+   },
+   "data_backup_failed": {
+      "message": "Помилка створення резервної копії"
+   },
+   "data_backup_successed": {
+      "message": "Резервну копію створено"
+   },
+   "data_recovery": {
+      "message": "Відновити дані"
+   },
+   "data_recovery_failed": {
+      "message": "Збій відновлення даних"
+   },
+   "data_recovery_failed_because_never_backup": {
+      "message": "Не вдалося відновити дані, тому що не було їх резервних копій"
+   },
+   "data_recovery_successed": {
+      "message": "Дані успішно відновлено"
+   },
+   "default": {
+      "message": "За умовчанням"
+   },
+   "delete": {
+      "message": "Видалити"
+   },
+   "delete_folder_and_preserve_icons_confirm_content": {
+      "message": "Папка буде видалена, піктограма буде збережена, OK?"
+   },
+   "delete_folder_confirm_content": {
+      "message": "Папка буде видалена, OK?"
+   },
+   "digital_tech": {
+      "message": "Цифрові технології"
+   },
+   "disable": {
+      "message": "Вимкнути"
+   },
+   "disabled": {
+      "message": "Деактивовано"
+   },
+   "discovery": {
+      "message": "Виявлення"
+   },
+   "display_text": {
+      "message": "Видиме ім’я"
+   },
+   "donate": {
+      "message": "Пожертвувати"
+   },
+   "done": {
+      "message": "Готово"
+   },
+   "download_wallpaper": {
+      "message": "Завантажити шпалери"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "DuckDuckGo імпортує контент з основних сайтів Web 2.0, окрім традиційних пошукових систем. Філософією цого сайту є повага до конфіденційності користувачів, він обіцяє не відстежувати та не документувати пошук користувачів"
+   },
+   "edit": {
+      "message": "Змінити"
+   },
+   "edit_icon": {
+      "message": "Редагувати піктограми"
+   },
+   "education_and_recruit": {
+      "message": "Освіта і робота"
+   },
+   "elastic_slide_animation": {
+      "message": "Весна анімації"
+   },
+   "empty_folder": {
+      "message": "(Пусто)"
+   },
+   "enable": {
+      "message": "Увімкнути"
+   },
+   "enabled": {
+      "message": "Увімкнено"
+   },
+   "engine_address_label": {
+      "message": "URL-адреса з “%s” замість запита"
+   },
+   "engine_icon_label": {
+      "message": "Іконка"
+   },
+   "engine_label": {
+      "message": "Пошукова система"
+   },
+   "enter_and_search": {
+      "message": "Увійдіть та шукайте... "
+   },
+   "extdesc": {
+      "message": "Це, мабуть, найзручніша для користувачів нова вкладка в браузері"
+   },
+   "extension": {
+      "message": "Управління розширеннями"
+   },
+   "extname": {
+      "message": "Infinity New Tab (Pro)"
+   },
+   "facebook_group": {
+      "message": "Група на Facebook\n"
+   },
+   "feedback": {
+      "message": "зворотний зв’язок"
+   },
+   "file_migrate_btn": {
+      "message": "Оберіть локальні резервні файли"
+   },
+   "file_migrate_desc": {
+      "message": "Якщо ви оберете перенесення через резервні файли, переконайтесь, що:"
+   },
+   "file_migrate_requirement": {
+      "message": "Ви експортували дані зі старої версії"
+   },
+   "file_migrate_title": {
+      "message": "План 2: перенесення через резервні файли"
+   },
+   "filter": {
+      "message": "Вибрати"
+   },
+   "finance": {
+      "message": "Фінансовий"
+   },
+   "firefox_store": {
+      "message": "Допоміжний магазин  Firefox"
+   },
+   "folder": {
+      "message": "Папки"
+   },
+   "follow_us": {
+      "message": "Стежити за нами"
+   },
+   "font": {
+      "message": "Шрифт"
+   },
+   "font_color": {
+      "message": "Колір шрифту"
+   },
+   "font_shadow": {
+      "message": "Тінь шрифту"
+   },
+   "font_size": {
+      "message": "Розмір шрифту"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "Велика кількість фотографій, за які не потрібно платити роялті, безкоштовне користування та щоденне оновлення"
+   },
+   "from": {
+      "message": "Від$from$",
+      "placeholders": {
+         "from": {
+            "content": "$1"
+         }
+      }
+   },
+   "from_user": {
+      "message": "Від користувача:"
+   },
+   "game_and_entertainment": {
+      "message": "Ігри та розваги"
+   },
+   "gmail_notification": {
+      "message": "Сповіщення Gmail"
+   },
+   "gmail_notification_ring": {
+      "message": "Звуковий сигнал сповіщень Gmail"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "Google Search — пошукова система, розроблена Google. Це найбільша та найвпливовіша пошукова система в Інтернеті"
+   },
+   "have_feedback": {
+      "message": "Відгуки"
+   },
+   "hide_search_btn": {
+      "message": "Сховати кнопку пошуку"
+   },
+   "hide_search_type": {
+      "message": "Сховати категорію пошуку"
+   },
+   "hide_searcher": {
+      "message": "Сховати поле пошуку"
+   },
+   "history": {
+      "message": "Історія"
+   },
+   "hot_city": {
+      "message": "Популярні міста"
+   },
+   "hour": {
+      "message": "година"
+   },
+   "humidity": {
+      "message": "вологість"
+   },
+   "icon": {
+      "message": "Іконка"
+   },
+   "icon_margin_x": {
+      "message": "Між стовпцями"
+   },
+   "icon_margin_y": {
+      "message": "інтервал між рядками"
+   },
+   "icon_opacity": {
+      "message": "Прозорість піктограми"
+   },
+   "icon_radius": {
+      "message": "Скруглені кути піктограми"
+   },
+   "icon_shadow": {
+      "message": "Тінь піктограми"
+   },
+   "icon_size": {
+      "message": "розмір піктограми"
+   },
+   "images": {
+      "message": "Зображення"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Бездоганний відмінний шпалери аніме"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "Висока якість нескінченності аніме бібліотека шпалер"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Бездоганний пейзаж"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "Бібліотека високоякісного безлічі пейзажів"
+   },
+   "information": {
+      "message": "Звістки"
+   },
+   "insert_img": {
+      "message": "Вставити зображення"
+   },
+   "insert_link": {
+      "message": "Додати лінк"
+   },
+   "invite_you_to_try_vip": {
+      "message": "Запрошуємо вас безкоштовно спробувати {{vip}}"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "Безкоштовні фотографії для будь-якого використання"
+   },
+   "last_update_at": {
+      "message": "Востаннє оновлено $update$",
+      "placeholders": {
+         "update": {
+            "content": "$1"
+         }
+      }
+   },
+   "layout": {
+      "message": "Розкладка"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "Джерело безкоштовних шпалер якості HD"
+   },
+   "life_style": {
+      "message": "Стиль життя"
+   },
+   "local_wallpaper": {
+      "message": "Локальні шпалери"
+   },
+   "login": {
+      "message": "Увійти"
+   },
+   "login_infinity": {
+      "message": "Увійти до Infinity"
+   },
+   "login_successed": {
+      "message": "Успішний вхід"
+   },
+   "login_tip": {
+      "message": "Миттєво отримайте більше переваг"
+   },
+   "login_to_insert_image": {
+      "message": "Вставляти зображення можна лише після входу в обліковий запис"
+   },
+   "login_to_try_vip": {
+      "message": "Спробуйте {{vip}} безкоштовно після {{login: Log in}}"
+   },
+   "logining_to": {
+      "message": "Вхід"
+   },
+   "logout": {
+      "message": "Вийти"
+   },
+   "london": {
+      "message": "Лондон"
+   },
+   "main_zoom": {
+      "message": "Масштабування екрана"
+   },
+   "maps": {
+      "message": "Карти"
+   },
+   "may_affect_performance": {
+      "message": "може вплинути на продуктивність"
+   },
+   "migrate_basic_user_data": {
+      "message": "Для перенесення даних використовуйте основний обліковий запис"
+   },
+   "migrate_basic_user_data_successed": {
+      "message": "Перенесення даних завершено"
+   },
+   "migrate_desc": {
+      "message": "Якщо ви користувалися базовою версією Infinity New Tab (ID：dbfmnekepjoapopniengjbcpnbljalfg), ви можете перенести свої дані на цій сторінці. Якщо ви не користувалися базовою версією, проігноруйте цю сторінку. Ви можете обрати один з наступних способів перенесення ваших даних."
+   },
+   "migrate_failed": {
+      "message": "Не вдалося перенести дані, спробуйте ще раз"
+   },
+   "migrate_from_basic": {
+      "message": "Перенесіть дані зі старої версії"
+   },
+   "migrate_from_basic_desc": {
+      "message": "Якщо ви користувалися простим Infinity New Tab, натисніть \"перенести зараз\", щоб перенести свої дані до версії Pro"
+   },
+   "migrate_now": {
+      "message": "Перенести зараз"
+   },
+   "migrate_successed": {
+      "message": "Перенесення даних завершено, натисніть \"Підтвердити\" і закрийте цю сторінку"
+   },
+   "migrate_title": {
+      "message": "Перенести ваші дані"
+   },
+   "mini_mode": {
+      "message": "Мінімалізм"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "Використовуйте для своїх сайтів, тем, шаблонів, проектів, друкованих матеріалів та газет. Щотижня додаються нові шпалери та відео "
+   },
+   "mobile_device": {
+      "message": "мобільний"
+   },
+   "more": {
+      "message": "Більше"
+   },
+   "music_and_video": {
+      "message": "Відеокліп"
+   },
+   "must_five_star": {
+      "message": "Авжеж, я дам вам п'ять зірок!"
+   },
+   "my": {
+      "message": "Мій"
+   },
+   "my_backup": {
+      "message": "Архівація"
+   },
+   "my_backup_desc": {
+      "message": "Увійдіть в систему, щоб скористатися функцією резервування"
+   },
+   "name": {
+      "message": "Назва"
+   },
+   "need_your_support": {
+      "message": "Найкраща винагорода для нас — це ваша підтримка"
+   },
+   "news": {
+      "message": "Новини"
+   },
+   "newtab": {
+      "message": "Нова вкладка"
+   },
+   "newyork": {
+      "message": "Нью-Йорк"
+   },
+   "next_wallpaper": {
+      "message": "Змінити на наступні шпалери"
+   },
+   "next_wallpaper_failed": {
+      "message": "Не вдалося змінити шпалери"
+   },
+   "next_wallpaper_successed": {
+      "message": "Шпалери змінено"
+   },
+   "no_custom_search_engine_added": {
+      "message": "Не додано жодної налаштованої пошукової системи"
+   },
+   "no_description": {
+      "message": "Без опису"
+   },
+   "no_extension_founded": {
+      "message": "Немає розширень або програм, що відповідали б умовам"
+   },
+   "no_more": {
+      "message": "Більше нічого"
+   },
+   "no_todo_added": {
+      "message": "Наразі немає жодних справ. Заповніть свій список справ та додайте його, натиснувши кнопку Enter"
+   },
+   "not_installed_any_chrome_apps": {
+      "message": "Ви не встановили жодних додатків Chrome"
+   },
+   "not_support": {
+      "message": "Ваша поточна версія не підтримує цю програму. Будь ласка, оновіть її до останньої версії \"Infinity New Tab\""
+   },
+   "not_support_app": {
+      "message": "Ваш браузер наразі не підтримує цей застосунок"
+   },
+   "not_support_protocol": {
+      "message": "Ваш браузер наразі не підтримує цю функцію."
+   },
+   "notes": {
+      "message": "Примітка"
+   },
+   "nothing_founded": {
+      "message": "Нічого не знайдено"
+   },
+   "notification": {
+      "message": "Сповіщення"
+   },
+   "notifications_title": {
+      "message": "Центр повідомлень"
+   },
+   "one_key_migrate_btn": {
+      "message": "Перенесення одним натисканням"
+   },
+   "one_key_migrate_desc": {
+      "message": "Якщо ви скористаєтеся перенесенням одним натисканням, переконайтесь, що:"
+   },
+   "one_key_migrate_requirement": {
+      "message": "На цьому браузері встановлена старіша версія"
+   },
+   "one_key_migrate_title": {
+      "message": "План 1: перенесення одним натисканням"
+   },
+   "opacity_slide_animation": {
+      "message": "Затухання"
+   },
+   "open": {
+      "message": "відкривається"
+   },
+   "open_all": {
+      "message": "Відкрити все"
+   },
+   "open_auto_sync_failed": {
+      "message": "Не вдалось увімкнути автоматичну синхронізацію"
+   },
+   "open_bookmark_link_in_new_tab": {
+      "message": "Відкрити закладку в новій вкладці"
+   },
+   "open_history_in_new_tab": {
+      "message": "Відкрити історію в новій вкладці"
+   },
+   "open_search_result_in_new_tab": {
+      "message": "Відкрити сторонні результати пошуку в новій вкладці"
+   },
+   "open_site_in_new_tab": {
+      "message": "Відкрити сайт у новій вкладці"
+   },
+   "open_target": {
+      "message": "Спосіб відкрити потрібний об'єкт"
+   },
+   "open_target_desc": {
+      "message": "Наступний спосіб стосується тільки внутрішніх модулів infinity"
+   },
+   "open_wrallpaper_library": {
+      "message": "Відкрита бібліотека шпалер"
+   },
+   "operate_error": {
+      "message": "Невірна дія?"
+   },
+   "or_use_mobile_visit_site": {
+      "message": "Або відвідайте безпосередньо мобільний браузер"
+   },
+   "other": {
+      "message": "Інше"
+   },
+   "password": {
+      "message": "Пароль"
+   },
+   "paste": {
+      "message": "Вставити"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "Гарні безкоштовні фотографії для будь-якого використання"
+   },
+   "picture": {
+      "message": "Зображення"
+   },
+   "please_enter_city_name": {
+      "message": "Місто/регіон"
+   },
+   "popular": {
+      "message": "Популярне"
+   },
+   "preset_layout": {
+      "message": "стандартна конфігурація"
+   },
+   "pressure": {
+      "message": "Тиск"
+   },
+   "preview": {
+      "message": "Перегляд"
+   },
+   "privacy_policy": {
+      "message": "Конфіденційність"
+   },
+   "pure_color": {
+      "message": "Чистий колір"
+   },
+   "qq_group": {
+      "message": "Група на QQ"
+   },
+   "random_wallpaper": {
+      "message": "Випадкові шпалери"
+   },
+   "random_wallpaper_failed": {
+      "message": "Не вдалося отримати випадкові шпалери"
+   },
+   "random_wallpaper_successed": {
+      "message": "Випадкові шпалери успішно змінено"
+   },
+   "read": {
+      "message": "Прочитано"
+   },
+   "readed_notifications": {
+      "message": "Старі повідомлення"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "Велика кількість фотографій якості HD для особистого та комерційного використання, 7 нових фотографій щотижня"
+   },
+   "recently_added": {
+      "message": "Недавно додані"
+   },
+   "recommend_third_login": {
+      "message": "Рекомендується сторонній вхід в систему"
+   },
+   "recovery_confirm_content": {
+      "message": "Локальні дані буде замінено хмарними даними. Підтвердити цю дію?"
+   },
+   "rename": {
+      "message": "Перейменувати"
+   },
+   "required": {
+      "message": "Обов’язково"
+   },
+   "reset": {
+      "message": "Скинути"
+   },
+   "reset_settings": {
+      "message": "Скинути налаштування"
+   },
+   "reset_settings_desc": {
+      "message": "Відновити початкові налаштування за умовчанням"
+   },
+   "reset_settings_now": {
+      "message": "Скинути параметри"
+   },
+   "reset_settings_success": {
+      "message": "Успішно завершено"
+   },
+   "revert": {
+      "message": "Крок назад"
+   },
+   "revert_successed": {
+      "message": "Скасування завершено"
+   },
+   "row_count": {
+      "message": "кількість рядків"
+   },
+   "search": {
+      "message": "Пошук"
+   },
+   "search_bookmarks": {
+      "message": "Пошук закладок"
+   },
+   "search_history_in_week": {
+      "message": "Шукати історію за тиждень"
+   },
+   "search_site": {
+      "message": "Шукати в Інтернеті"
+   },
+   "searcher": {
+      "message": "Поле пошуку"
+   },
+   "searcher_opacity": {
+      "message": "Прозорість поля пошуку"
+   },
+   "searcher_radius": {
+      "message": "Скруглені кути поля пошуку"
+   },
+   "searcher_shadow": {
+      "message": "Тінь поля пошуку"
+   },
+   "searcher_size": {
+      "message": "Розмір поля пошуку"
+   },
+   "select_all": {
+      "message": "Вибрати всі"
+   },
+   "settings": {
+      "message": "Параметри"
+   },
+   "shanghai": {
+      "message": "Шанхай"
+   },
+   "sharable": {
+      "message": "Надіслати"
+   },
+   "share_desc": {
+      "message": "Infinity New Tab — навігаційне розширення, яке обирають мільйони людей; найзручніша нова вкладка у браузері."
+   },
+   "share_to_friends": {
+      "message": "Ділитися"
+   },
+   "share_to_others": {
+      "message": "Поділитися з іншими користувачами Infinity"
+   },
+   "shopping_and_group_shopping": {
+      "message": "Шопінг та групові покупки"
+   },
+   "show_bookmark_sidebar": {
+      "message": "Показати закладки"
+   },
+   "show_gmail_unread_email_nums": {
+      "message": "Показувати кількість непрочитаних листів від Gmail на іконці"
+   },
+   "show_random_wallpaper_btn": {
+      "message": "Показати кнопку, що у випадковому порядку змінюватиме шпалери, у правому нижньому кутку"
+   },
+   "show_slide_btn": {
+      "message": "Кнопка перевертання сторінки"
+   },
+   "show_todos_nums": {
+      "message": "Показувати кількість справ на піктограмі"
+   },
+   "show_top_site_sidebar": {
+      "message": "Показувати сайти, що часто використовуються, згори"
+   },
+   "side_zoom": {
+      "message": "Масштабування бічним повзунком"
+   },
+   "site_address": {
+      "message": "Розташування веб-сайту"
+   },
+   "site_icon": {
+      "message": "Піктограми сайту"
+   },
+   "site_name": {
+      "message": "Назва веб-сайту"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "Тут можна знайти фотографії, завантажити свої та обмінюватися ними"
+   },
+   "social_and_blog": {
+      "message": "Соцмережі та блоги"
+   },
+   "sogou": {
+      "message": "Sogou"
+   },
+   "sogou_desc": {
+      "message": "Пошукова система, яка може шукати контент, розміщений з офіційних облікових записів Wechat"
+   },
+   "some_city_weathers_not_found": {
+      "message": "Не знайдено погоди для $city_names$",
+      "placeholders": {
+         "city_names": {
+            "content": "$1"
+         }
+      }
+   },
+   "sorry_net_not_good": {
+      "message": "Помилка мережі"
+   },
+   "source": {
+      "message": "Джерело"
+   },
+   "sport_and_travel": {
+      "message": "Спорт і подорожі"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "Надати безкоштовні фотографії для стартапів, блогерів, видавців, веб-сайтів, дизайнерів, розробників, митців і т.д."
+   },
+   "sydney": {
+      "message": "Сідней"
+   },
+   "tag": {
+      "message": "Теги"
+   },
+   "target_chrome_app_not_installed": {
+      "message": "Ви не встановили цей додаток Chrome"
+   },
+   "terms_of_use": {
+      "message": "Умови вжитку"
+   },
+   "text": {
+      "message": "Текст"
+   },
+   "time_interval": {
+      "message": "Інтервал"
+   },
+   "to_top": {
+      "message": "Нагору"
+   },
+   "todos": {
+      "message": "Завдання"
+   },
+   "tokyo": {
+      "message": "Токіо"
+   },
+   "try_now": {
+      "message": "Спробувати зараз"
+   },
+   "unfolder": {
+      "message": "розкиданий"
+   },
+   "unread_notifications": {
+      "message": "Нове повідомлення"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "Всесвітньо відомі високоякісні шпалери"
+   },
+   "untitled_note": {
+      "message": "Без імені"
+   },
+   "upload_img_failed": {
+      "message": "Помилка закачування файла"
+   },
+   "use_auto_change_wallpaper_desc": {
+      "message": "Автоматично замінювати шпалери на ті з бібліотеки шпалер"
+   },
+   "use_bing_wallpaper_desc": {
+      "message": "Використовувати щоденні шпалери Bing"
+   },
+   "use_color_wallpaper_desc": {
+      "message": "Використовувати колір для фону"
+   },
+   "use_local_wallpaper_desc": {
+      "message": "Обрати зображення з вашого комп'ютера в якості шпалер"
+   },
+   "use_mobile_scan_qrcode": {
+      "message": "Скористайтеся мобільним пристроєм, щоб відсканувати QR-код"
+   },
+   "use_wallpaper_library_desc": {
+      "message": "Обирайте улюблені шпалери з великої хмарної бібліотеки зображень"
+   },
+   "user_share": {
+      "message": "Поділилися інші користувачі"
+   },
+   "user_support": {
+      "message": "Підтримка"
+   },
+   "username_or_password_wrong": {
+      "message": "Неправильне ім’я або пароль"
+   },
+   "videos": {
+      "message": "Відео"
+   },
+   "wallpaper": {
+      "message": "Фоновий малюнок"
+   },
+   "wallpaper_blur": {
+      "message": "Визначення шпалер"
+   },
+   "wallpaper_desc": {
+      "message": "Можна обрати лише один варіант"
+   },
+   "wallpaper_library": {
+      "message": "Шпалери"
+   },
+   "wallpaper_mask_concentration": {
+      "message": "Прозорість шпалер"
+   },
+   "weather": {
+      "message": "Погода"
+   },
+   "weather_added": {
+      "message": "Ви вже додали це місто"
+   },
+   "web": {
+      "message": "Веб"
+   },
+   "weibo": {
+      "message": "Weibo"
+   },
+   "weixin": {
+      "message": "WeChat"
+   },
+   "what_need_to_do": {
+      "message": "Що б ви хотіли зробити?"
+   },
+   "wind": {
+      "message": "Wind"
+   },
+   "yahoo": {
+      "message": "Yahoo"
+   },
+   "yahoo_desc": {
+      "message": "Yahoo Search — пошукова система, роботу якої забезпечує компанія Yahoo"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Yandex — один з найважливіших сервісних інтернет-порталів Росії"
+   },
+   "you_have_days_expired": {
+      "message": "Дія ваших привілеїв скінчиться через $days$ днів",
+      "placeholders": {
+         "days": {
+            "content": "$1"
+         }
+      }
+   }
+}

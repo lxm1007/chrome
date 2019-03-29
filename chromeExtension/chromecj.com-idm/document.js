@@ -1,0 +1,2 @@
+﻿(function(){function f(a,b){d.test(b)&&this.addEventListener("loadend",c.bind(this));return e.apply(this,arguments)}function c(){var a=this.getResponseHeader("X-IDM-Request-ID");a&&window.postMessage([1229212979,a,this.responseText],"/")}var e=XMLHttpRequest.prototype.open,d;window.addEventListener("message",function(a){var b=a.data,c=window.origin||document.origin||location.origin;if(Array.isArray(b)&&a.origin==c&&1229212978==b[0])try{d=new RegExp(b[1]),XMLHttpRequest.prototype.open=f}catch(e){}},
+!1);window.postMessage([1229212977],"/")})();

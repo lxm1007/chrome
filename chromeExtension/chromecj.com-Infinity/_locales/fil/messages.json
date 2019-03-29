@@ -1,0 +1,973 @@
+{
+   "360_desc": {
+      "message": "Ligtas na makinang panghanap"
+   },
+   "360search": {
+      "message": "360"
+   },
+   "about": {
+      "message": "Tungkol sa"
+   },
+   "about_us": {
+      "message": "Tungkol sa amin"
+   },
+   "add": {
+      "message": "Idagdag"
+   },
+   "add_city": {
+      "message": "Magdagdag ng Lungsod"
+   },
+   "add_search_engine": {
+      "message": "Magdagdag ng makinang panghanap"
+   },
+   "added": {
+      "message": "Dinagdag"
+   },
+   "alipay": {
+      "message": "Alipay"
+   },
+   "all": {
+      "message": "Lahat"
+   },
+   "all_wallpaper": {
+      "message": "Lahat ng mga wallpaper"
+   },
+   "all_wallpaper_sources": {
+      "message": "Lahat ng wallpaper"
+   },
+   "all_wallpaper_sources_desc": {
+      "message": "Lahat ng pinagmumulan ng mga wallpaper"
+   },
+   "animation_desc": {
+      "message": "Maaapektuhan ang pagiging matatas ng produkto kung i-on mo ang animation"
+   },
+   "app": {
+      "message": "App"
+   },
+   "app_disabled_enable_first": {
+      "message": "Hinarangan mo ang app na ito. Gusto mo bang payagan ang Infinity na aktibahin muna ito?"
+   },
+   "appearance": {
+      "message": "Tingnan"
+   },
+   "apple": {
+      "message": "Apple"
+   },
+   "auto_change_wallpaper": {
+      "message": "Awtomatikong baguhin ang wallpaper"
+   },
+   "auto_sync_data": {
+      "message": "Awtomatikong pagsisync ng datos"
+   },
+   "auto_sync_data_desc": {
+      "message": "Pagkatapos ng aktibasyon, awtomatikong masisync ang datos kapag nagbago ito"
+   },
+   "background_color": {
+      "message": "Kulay sa Likuran"
+   },
+   "backup_confirm_content": {
+      "message": "Isusumpain ng lokal na data ang data ng ulap. Okay ba na magpatuloy?"
+   },
+   "backup_now": {
+      "message": "Magback-up na Ngayon"
+   },
+   "baidu": {
+      "message": "Baidu"
+   },
+   "baidu_desc": {
+      "message": "Ang makinang panghanap na pinakaginagamit ng mga Intsik"
+   },
+   "barn_images_wallpaper_source_desc": {
+      "message": "Tumutok sa pangongolekta ng mga di-panggaleryang litratong libre at mataas ang kalidad"
+   },
+   "basic_user_account": {
+      "message": "Pangunahing account"
+   },
+   "beijing": {
+      "message": "Beijing"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "bing_desc": {
+      "message": "Ang Bing ay isang makinang panghanap na binuo ng Microsoft"
+   },
+   "bing_wallpaper": {
+      "message": "Librerya ng mga pang-araw-araw na bing wallpaper"
+   },
+   "bing_wallpaper_source_desc": {
+      "message": "Librerya ng pang-araw-araw na Bing wallpaper"
+   },
+   "bookmarks": {
+      "message": "Bookmark"
+   },
+   "can_not_delete_current_search_engine": {
+      "message": "Hindi mabubura ang kasalukuyang makinang panghanap"
+   },
+   "can_you_give_us_a_five_star": {
+      "message": "Puwede mo ba kaming bigyan ng limang bituin?"
+   },
+   "cancel": {
+      "message": "Ikansela"
+   },
+   "cancel_login": {
+      "message": "Ikansela ang paglalog-in"
+   },
+   "change_wallpaper_source": {
+      "message": "Baguhin ang pinagmumulan ng mga wallpaper"
+   },
+   "choose_local_wallpaper": {
+      "message": "Pumili ng lokal na wallpaper"
+   },
+   "chrome_apps": {
+      "message": "Chrome Apps"
+   },
+   "chromes_store": {
+      "message": "Chrome Web Store"
+   },
+   "clear_done": {
+      "message": "Nahawan ang datos"
+   },
+   "clear_history": {
+      "message": "Hawain ang Kasaysayan"
+   },
+   "click_to_reload": {
+      "message": "Kinargang muli"
+   },
+   "color": {
+      "message": "Kulay"
+   },
+   "color_wallpaper": {
+      "message": "Wallpaper na may iisang kulay"
+   },
+   "column_count": {
+      "message": "bilang ng hanay"
+   },
+   "confirm": {
+      "message": "Ayos"
+   },
+   "confirm_donate": {
+      "message": "Gusto kong mag-ambag"
+   },
+   "contact_us": {
+      "message": "Makipag-ugnayan sa amin"
+   },
+   "create_custom_search_engine": {
+      "message": "Magdagdag ng bagong makinang panghanap"
+   },
+   "custom": {
+      "message": "Pasadya"
+   },
+   "custom_icon": {
+      "message": "Pinasadyang icon"
+   },
+   "custom_layout": {
+      "message": "custom na layout"
+   },
+   "cut": {
+      "message": "Kunin"
+   },
+   "data_backup": {
+      "message": "Pagback-up ng datos"
+   },
+   "data_backup_failed": {
+      "message": "Bigo ang Pagbaback-up"
+   },
+   "data_backup_successed": {
+      "message": "Natapos na ang Pagbaback-up"
+   },
+   "data_recovery": {
+      "message": "Ibalik ang datos"
+   },
+   "data_recovery_failed": {
+      "message": "Bigo ang pagbabalik ng datos"
+   },
+   "data_recovery_failed_because_never_backup": {
+      "message": "Bigo ang pagbabalik ng datos dahil hindi mo binack up ang datos"
+   },
+   "data_recovery_successed": {
+      "message": "Matagumpay ang pagbabalik ng datos"
+   },
+   "default": {
+      "message": "Default"
+   },
+   "delete": {
+      "message": "Burahin"
+   },
+   "delete_folder_and_preserve_icons_confirm_content": {
+      "message": "Ang folder ay tatanggalin, ang icon ay mananatili, OK?"
+   },
+   "delete_folder_confirm_content": {
+      "message": "Tatanggalin ang folder, OK?"
+   },
+   "digital_tech": {
+      "message": "Teknolohiyang digital"
+   },
+   "disable": {
+      "message": "Buwagin"
+   },
+   "disabled": {
+      "message": "Deactivated"
+   },
+   "discovery": {
+      "message": "Pagkatuklas"
+   },
+   "display_text": {
+      "message": "Ipakita ang Pangalan"
+   },
+   "donate": {
+      "message": "Mag-ambag"
+   },
+   "done": {
+      "message": "Tapos na"
+   },
+   "download_wallpaper": {
+      "message": "Magdownload ng wallpaper"
+   },
+   "duckduckgo": {
+      "message": "DuckDuckGo"
+   },
+   "duckduckgo_desc": {
+      "message": "Tumututok ang DuckDuckGo sa pag-aangkat ng mga nilalaman mula sa pangunahing Web 2.0 sites bukod sa mga tradisyunal na makinang panghanap. Ang pilosopiya ng website ay ang pagrespeto sa pagiging pribado ng mga tagagamit, at nangangakong hindi imo-monitor o idodokumento  ang mga nilalaman ng paghahanap ng mga tagagamit"
+   },
+   "edit": {
+      "message": "I-edit"
+   },
+   "edit_icon": {
+      "message": "I-edit ang mga icon"
+   },
+   "education_and_recruit": {
+      "message": "Edukasyon at mga trabaho"
+   },
+   "elastic_slide_animation": {
+      "message": "Animation ng Spring"
+   },
+   "empty_folder": {
+      "message": "Walang laman"
+   },
+   "enable": {
+      "message": "Paganahin"
+   },
+   "enabled": {
+      "message": "Pinagana"
+   },
+   "engine_address_label": {
+      "message": "URL na may “%s” sa lugar ng pagtatanong"
+   },
+   "engine_icon_label": {
+      "message": "Icon"
+   },
+   "engine_label": {
+      "message": "Makinang panghanap"
+   },
+   "enter_and_search": {
+      "message": "Ilagay at hanapin ang..."
+   },
+   "extdesc": {
+      "message": "Maaaring ito ang pinakamadaling gamiting new tab sa browser"
+   },
+   "extension": {
+      "message": "Pamahalaan ang mga ekstensiyon"
+   },
+   "extname": {
+      "message": "Infinity New Tab (Pro)"
+   },
+   "facebook_group": {
+      "message": "Grupong Facebook\n"
+   },
+   "feedback": {
+      "message": "katugunan"
+   },
+   "file_migrate_btn": {
+      "message": "Piliin ang lokal na back-up files"
+   },
+   "file_migrate_desc": {
+      "message": "Kung pipiliin mong maglipat sa pamamagitan ng back-up files, mangyaring siguraduhin:"
+   },
+   "file_migrate_requirement": {
+      "message": "Nagluwas ka ng datos mula sa lumang bersiyon"
+   },
+   "file_migrate_title": {
+      "message": "Ikalawang plano: Ilipat sa pamamagitan ng back-up files"
+   },
+   "filter": {
+      "message": "Pumili"
+   },
+   "finance": {
+      "message": "Pinansiyal"
+   },
+   "firefox_store": {
+      "message": "Tindahan ng Firefox add-on"
+   },
+   "folder": {
+      "message": "Mga polder"
+   },
+   "follow_us": {
+      "message": "Sundan kami"
+   },
+   "font": {
+      "message": "Titik"
+   },
+   "font_color": {
+      "message": "Kulay ng Titik"
+   },
+   "font_shadow": {
+      "message": "Anino ng titik"
+   },
+   "font_size": {
+      "message": "Laki ng titik"
+   },
+   "free_nature_stock_wallpaper_source_desc": {
+      "message": "Malaking dami ng mga litratong walang royalty, libreng magagamit at pinapabago araw-araw"
+   },
+   "from": {
+      "message": "Mula$mula$",
+      "placeholders": {
+         "from": {
+            "content": "$1"
+         }
+      }
+   },
+   "from_user": {
+      "message": "Mula sa isang tagagamit:"
+   },
+   "game_and_entertainment": {
+      "message": "Paglalaro at paglilibang"
+   },
+   "gmail_notification": {
+      "message": "Mga pabatid ng Gmail"
+   },
+   "gmail_notification_ring": {
+      "message": "Ringtone para sa pabatid ng Gmail"
+   },
+   "google": {
+      "message": "Google"
+   },
+   "google_desc": {
+      "message": "Ang Google Search ay isang makinang panghanap na binuo ng Google. Ito ang pinakamalaki, pinakamaimpluwensiyang makinang panghanap sa Internet"
+   },
+   "have_feedback": {
+      "message": "Katugunan"
+   },
+   "hide_search_btn": {
+      "message": "Itago ang pindutan para sa paghahanap"
+   },
+   "hide_search_type": {
+      "message": "Itago ang kategorya ng paghahanap"
+   },
+   "hide_searcher": {
+      "message": "Itago ang kahong panghanap"
+   },
+   "history": {
+      "message": "Kasaysayan"
+   },
+   "hot_city": {
+      "message": "Mga tanyag na lungsod"
+   },
+   "hour": {
+      "message": "oras"
+   },
+   "humidity": {
+      "message": "kahalumigmigan"
+   },
+   "icon": {
+      "message": "Icon"
+   },
+   "icon_margin_x": {
+      "message": "Sa Pagitan ng mga Kulumna"
+   },
+   "icon_margin_y": {
+      "message": "pagitan ng linya: \\%@"
+   },
+   "icon_opacity": {
+      "message": "Pagkaaninaw ng icon"
+   },
+   "icon_radius": {
+      "message": "Icon na may mga binilog na sulok"
+   },
+   "icon_shadow": {
+      "message": "Anino ng icon"
+   },
+   "icon_size": {
+      "message": "laki ng icon"
+   },
+   "images": {
+      "message": "Mga larawan"
+   },
+   "infinity_comic_wallpaper_source": {
+      "message": "Infinity Featured Anime Wallpaper"
+   },
+   "infinity_comic_wallpaper_source_desc": {
+      "message": "Mataas na kalidad na infinity anime wallpaper library"
+   },
+   "infinity_landscape_wallpaper_source": {
+      "message": "Infinity Featured Landscape Wallpaper"
+   },
+   "infinity_landscape_wallpaper_source_desc": {
+      "message": "Mataas na kalidad na infinity landscape wallpaper library"
+   },
+   "information": {
+      "message": "Mga mensahe"
+   },
+   "insert_img": {
+      "message": "Magpasok ng mga Larawan"
+   },
+   "insert_link": {
+      "message": "Magdagdag ng Kawing"
+   },
+   "invite_you_to_try_vip": {
+      "message": "Iniimbitahan ka naming subukan ang {{vip}} nang libre"
+   },
+   "jay_mantri_wallpaper_source_desc": {
+      "message": "Mga libreng litrato para sa anumang layunin"
+   },
+   "last_update_at": {
+      "message": "Huling napabago $pagpapabago$",
+      "placeholders": {
+         "update": {
+            "content": "$1"
+         }
+      }
+   },
+   "layout": {
+      "message": "Kaayusan"
+   },
+   "life_of_pix_wallpaper_source_desc": {
+      "message": "Pinagmumulan ng mga libreng HD wallpaper"
+   },
+   "life_style": {
+      "message": "Pamumuhay"
+   },
+   "local_wallpaper": {
+      "message": "Mga lokal na wallpaper"
+   },
+   "login": {
+      "message": "Magsign in"
+   },
+   "login_infinity": {
+      "message": "Magsign in sa Infinity"
+   },
+   "login_successed": {
+      "message": "Matagumpay ang pagsasign-in"
+   },
+   "login_tip": {
+      "message": "Tamasahin ang mas maraming pakinabang kaagad"
+   },
+   "login_to_insert_image": {
+      "message": "Makakapagpasok ka lamang ng mga larawan pagkatapos maglog in"
+   },
+   "login_to_try_vip": {
+      "message": "Subukan ang {{vip}} nang libre pagkatapos ng {{login: Log in}}"
+   },
+   "logining_to": {
+      "message": "Pagsasign-in"
+   },
+   "logout": {
+      "message": "Maglog off"
+   },
+   "london": {
+      "message": "London"
+   },
+   "main_zoom": {
+      "message": "Pagzoom ng Screen"
+   },
+   "maps": {
+      "message": "Mga mapa"
+   },
+   "may_affect_performance": {
+      "message": "maaaring makaapekto sa pagganap"
+   },
+   "migrate_basic_user_data": {
+      "message": "Gamitin ang pangunahing account upang maglipat ng datos"
+   },
+   "migrate_basic_user_data_successed": {
+      "message": "Nakumpleto na ang paglilipat ng datos"
+   },
+   "migrate_desc": {
+      "message": "Kung nagamit mo na ang pangunahing bersiyon ng Infinity New Tab (IDdbfmnekepjoapopniengjbcpnbljalfg), maililipat mo ang datos mo sa pahinang ito. Kung hindi mo pa nagamit ang pangunahing bersiyon, mangyaring ipagsawalang-bahala ang pahinang ito. Maaari kang pumili ng isa sa mga sumusunod na pamamaraan para ilipat ang datos mo."
+   },
+   "migrate_failed": {
+      "message": "Bigo ang paglilipat ng data, pakisubukang muli"
+   },
+   "migrate_from_basic": {
+      "message": "Ilipat ang datos mula sa lumang bersiyon"
+   },
+   "migrate_from_basic_desc": {
+      "message": "Kung nagamit mo na ang pangunahing Infinity New Tab, i-click ang \"transfer now\"upang ilipat ang datos mo sa bersiyong Pro"
+   },
+   "migrate_now": {
+      "message": "Ilipat na ngayon"
+   },
+   "migrate_successed": {
+      "message": "Nakumpleto na ang paglilipat ng datos, mangyaring pakisara ang pahinang ito pagkatapos i-click ang Confirm"
+   },
+   "migrate_title": {
+      "message": "Ilipat ang datos mo"
+   },
+   "mini_mode": {
+      "message": "Istilong minimalistic"
+   },
+   "mmt_wallpaper_source_desc": {
+      "message": "Gamitin sa iyong website, mga tema, mga template, mga proyekto, mga materyales sa paglilimbag, at mga diyaryo. Nagdadagdag ng mga bagong wallpaper at video kada linggo"
+   },
+   "mobile_device": {
+      "message": "Mobile"
+   },
+   "more": {
+      "message": "Higit pa"
+   },
+   "music_and_video": {
+      "message": "Music Video"
+   },
+   "must_five_star": {
+      "message": "Siyempre magbibigay ako ng limang bituin!"
+   },
+   "my": {
+      "message": "Aking"
+   },
+   "my_backup": {
+      "message": "Pagbaback-up"
+   },
+   "my_backup_desc": {
+      "message": "Maglog in upang magamit ang kakayahang pagback-up"
+   },
+   "name": {
+      "message": "Pangalan"
+   },
+   "need_your_support": {
+      "message": "Ang suporta mo ang aming pinakamalaking gantimpala"
+   },
+   "news": {
+      "message": "Balita"
+   },
+   "newtab": {
+      "message": "New Tab"
+   },
+   "newyork": {
+      "message": "New York"
+   },
+   "next_wallpaper": {
+      "message": "Ipalit ang susunod na wallpaper"
+   },
+   "next_wallpaper_failed": {
+      "message": "Bigo ang pagbabago ng wallpaper"
+   },
+   "next_wallpaper_successed": {
+      "message": "Nakumpleto na ang pagbabago ng wallpaper"
+   },
+   "no_custom_search_engine_added": {
+      "message": "Walang pinasadyang makinang panghanap na idinagdag"
+   },
+   "no_description": {
+      "message": "Walang Pagsasalarawan"
+   },
+   "no_extension_founded": {
+      "message": "Walang mga ekstensiyon o Apps na tumutugon sa mga kondisyon"
+   },
+   "no_more": {
+      "message": "Wala nang susunod"
+   },
+   "no_todo_added": {
+      "message": "Wala pang gagawin sa ngayon; punan ang iyong listahan ng dapat gawin, idagdag sa pamamagitan ng pagclick ng Enter"
+   },
+   "not_installed_any_chrome_apps": {
+      "message": "Wala ka pang inilalagay na anumang Chrome apps"
+   },
+   "not_support": {
+      "message": "Hindi sinusuportahan ng iyong kasalukuyang bersiyon ang app na ito; mangyaring mag-upgrade sa pinakabagong bersiyon na \"Infinity New Tab\""
+   },
+   "not_support_app": {
+      "message": "Kasalukuyang hindi sinusuportahan ng browser mo ang application na ito"
+   },
+   "not_support_protocol": {
+      "message": "Kasalukuyang hindi sinusuportahan ng browser mo ang kakayahang ito."
+   },
+   "notes": {
+      "message": "Nota"
+   },
+   "nothing_founded": {
+      "message": "Walang nakitang anuman"
+   },
+   "notification": {
+      "message": "Pabatid"
+   },
+   "notifications_title": {
+      "message": "Sentro ng mga mensahe"
+   },
+   "one_key_migrate_btn": {
+      "message": "Paglilipat sa pamamagitan ng isang click"
+   },
+   "one_key_migrate_desc": {
+      "message": "Kung gagamitin mo ang paglilipat sa pamamagitan ng isang click, mangyaring siguraduhin:"
+   },
+   "one_key_migrate_requirement": {
+      "message": "Ang lumang bersiyon ang nakalagay sa browser na ito"
+   },
+   "one_key_migrate_title": {
+      "message": "Unang plano: paglilipat sa pamamagitan ng isang click"
+   },
+   "opacity_slide_animation": {
+      "message": "Maglaho"
+   },
+   "open": {
+      "message": "Binubuksan"
+   },
+   "open_auto_sync_failed": {
+      "message": "Bigong buksan ang awtomatikong pagsisync"
+   },
+   "open_bookmark_link_in_new_tab": {
+      "message": "Buksan ang nakabookmark na kawing sa bagong tab"
+   },
+   "open_history_in_new_tab": {
+      "message": "Buksan ang kasaysayan sa bagong tab"
+   },
+   "open_search_result_in_new_tab": {
+      "message": "Buksan ang mga resulta ng paghahanap ng ikatlong partido sa bagong tab"
+   },
+   "open_site_in_new_tab": {
+      "message": "Buksan ang website sa bagong tab"
+   },
+   "open_target": {
+      "message": "Paraan ng pagbukas ng target"
+   },
+   "open_target_desc": {
+      "message": "Ang sumusunod na paraan ay nalalapat lamang sa mga panloob na module ng infinity"
+   },
+   "open_wrallpaper_library": {
+      "message": "Buksan ang librerya ng wallpaper"
+   },
+   "operate_error": {
+      "message": "Maling hakbang?"
+   },
+   "or_use_mobile_visit_site": {
+      "message": "O direktang bumisita gamit ang mobile browser"
+   },
+   "other": {
+      "message": "Iba pa"
+   },
+   "password": {
+      "message": "Password"
+   },
+   "picography_wallpaper_source_desc": {
+      "message": "Mga libre at magagandang litratong magagamit para sa anumang layunin"
+   },
+   "picture": {
+      "message": "Larawan"
+   },
+   "please_enter_city_name": {
+      "message": "Lungsod/Rehiyon"
+   },
+   "popular": {
+      "message": "Tanyag"
+   },
+   "preset_layout": {
+      "message": "Kaayusang default"
+   },
+   "pressure": {
+      "message": "Presyon"
+   },
+   "preview": {
+      "message": "Prebiyu"
+   },
+   "privacy_policy": {
+      "message": "Patakaran sa Pagiging Pribado"
+   },
+   "pure_color": {
+      "message": "Purong kulay"
+   },
+   "qq_group": {
+      "message": "Grupong QQ"
+   },
+   "random_wallpaper": {
+      "message": "Sapalarang wallpaper"
+   },
+   "random_wallpaper_failed": {
+      "message": "Bigong makakuha ng sapalarang wallpaper"
+   },
+   "random_wallpaper_successed": {
+      "message": "Matagumpay na nabago ang sapalarang wallpaper"
+   },
+   "read": {
+      "message": "Nabasa"
+   },
+   "readed_notifications": {
+      "message": "Mga lumang mensahe"
+   },
+   "realistic_shots_wallpaper_source_desc": {
+      "message": "Malaking dami ng mga litratong HD na magagamit para sa personal at komersiyal na layunin, 7 bago kada linggo"
+   },
+   "recently_added": {
+      "message": "Idinagdag Kamakailan Lamang"
+   },
+   "recommend_third_login": {
+      "message": "Inirerekomenda ang pagla-log-in ng ikatlong partido"
+   },
+   "recovery_confirm_content": {
+      "message": "Papalitan ng datos sa ulap ang lokal na datos. Kinukumpirma mo ba ang hakbang na ito?"
+   },
+   "required": {
+      "message": "Kinakailangan"
+   },
+   "reset": {
+      "message": "Itakdang muli"
+   },
+   "reset_settings": {
+      "message": "Itakdang muli ang mga pagtatakda"
+   },
+   "reset_settings_desc": {
+      "message": "Ibalik ang mga pagtatakda sa kanilang mga orihinal na default"
+   },
+   "reset_settings_now": {
+      "message": "Itakdang muli ang mga Pagtatakda"
+   },
+   "reset_settings_success": {
+      "message": "Nagtagumpay"
+   },
+   "revert": {
+      "message": "Ipawalang-bisa"
+   },
+   "revert_successed": {
+      "message": "Nakumpleto na ang pagkakansela"
+   },
+   "row_count": {
+      "message": "bilang ng hilera"
+   },
+   "search": {
+      "message": "Maghanap"
+   },
+   "search_bookmarks": {
+      "message": "Maghanap sa mga bookmark"
+   },
+   "search_history_in_week": {
+      "message": "Hanapin ang kasaysayan sa loob ng isang linggo"
+   },
+   "search_site": {
+      "message": "Maghanap sa Web"
+   },
+   "searcher": {
+      "message": "Kahong panghanap"
+   },
+   "searcher_opacity": {
+      "message": "Pagkaaninaw ng kahong panghanap"
+   },
+   "searcher_radius": {
+      "message": "Kahong panghanap na may mga binilog na sulok"
+   },
+   "searcher_shadow": {
+      "message": "Anino ng kahong panghanap"
+   },
+   "searcher_size": {
+      "message": "Sukat ng kahong panghanap"
+   },
+   "settings": {
+      "message": "Mga Pagtatakda"
+   },
+   "shanghai": {
+      "message": "Shanghai"
+   },
+   "sharable": {
+      "message": "Ibahagi"
+   },
+   "share_desc": {
+      "message": "Infinity New Tab, ang pangnabigasyong ekstensiyon na pinipili ng milyung-milyon, ang pinakamadaling gamiting bagong tab sa browser"
+   },
+   "share_to_friends": {
+      "message": "Ibahagi"
+   },
+   "share_to_others": {
+      "message": "Ibahagi sa iba pang mga tagagamit ng infinity"
+   },
+   "shopping_and_group_shopping": {
+      "message": "Pamimili at panggrupong pamimili"
+   },
+   "show_bookmark_sidebar": {
+      "message": "Ipakita ang mga Bookmark"
+   },
+   "show_gmail_unread_email_nums": {
+      "message": "Ipakita ang bilang ng hindi pa nababasang emails mula sa Gmail sa icon"
+   },
+   "show_random_wallpaper_btn": {
+      "message": "Ipakita ang pindutan para sa sapalarang nagbabagong wallpaper sa ibabang kanang sulok"
+   },
+   "show_slide_btn": {
+      "message": "Pahina ng pindutan ng flip"
+   },
+   "show_todos_nums": {
+      "message": "Ipakita ang bilang ng mga dapat gawin sa icon"
+   },
+   "show_top_site_sidebar": {
+      "message": "Ipakita ang madalas na gamiting sites sa itaas"
+   },
+   "side_zoom": {
+      "message": "Pagzoom ng tagilirang kulumna"
+   },
+   "site_address": {
+      "message": "Lokasyon ng Website"
+   },
+   "site_icon": {
+      "message": "Mga site icon"
+   },
+   "site_name": {
+      "message": "Pangalan ng Website"
+   },
+   "skitter_photo_wallpaper_source_desc": {
+      "message": "Isang lugar para maghanap, magpakita, at magbahagi ng mga litrato"
+   },
+   "social_and_blog": {
+      "message": "Social media at mga blog"
+   },
+   "sogou": {
+      "message": "Sogou"
+   },
+   "sogou_desc": {
+      "message": "Makinang panghanap na makakapaghanap ng mga nilalamang ipinaskil ng opisyal na Wechat accounts"
+   },
+   "some_city_weathers_not_found": {
+      "message": "Hindi natagpuan ang panahon para sa $city_names$",
+      "placeholders": {
+         "city_names": {
+            "content": "$1"
+         }
+      }
+   },
+   "sorry_net_not_good": {
+      "message": "Kamalian sa network"
+   },
+   "source": {
+      "message": "Pinagmumulan"
+   },
+   "sport_and_travel": {
+      "message": "Laro at paglalakbay"
+   },
+   "startup_stock_wallpaper_source_desc": {
+      "message": "Bigyan ang mga nagsisimulang negosyo, blogger, tagapaglathala, website, taga-disenyo, tagabuo, tagalikha at iba pa ng mga libreng litrato"
+   },
+   "sydney": {
+      "message": "Sydney"
+   },
+   "tag": {
+      "message": "Mga Tag"
+   },
+   "target_chrome_app_not_installed": {
+      "message": "Hindi mo pa nailagay ang Chrome app na ito"
+   },
+   "terms_of_use": {
+      "message": "Mga Tuntunin sa Paggamit"
+   },
+   "text": {
+      "message": "Teksto"
+   },
+   "time_interval": {
+      "message": "Pagitan"
+   },
+   "to_top": {
+      "message": "Sa itaas"
+   },
+   "tokyo": {
+      "message": "Tokyo"
+   },
+   "try_now": {
+      "message": "Subukan na ngayon"
+   },
+   "unfolder": {
+      "message": "maglalantad"
+   },
+   "unread_notifications": {
+      "message": "Bagong mensahe"
+   },
+   "unsplash_wallpaper_source_desc": {
+      "message": "Mga wallpaper na mataas ang kalidad at kilala sa buong mundo"
+   },
+   "untitled_note": {
+      "message": "Walang pamagat"
+   },
+   "upload_img_failed": {
+      "message": "Bigo ang pag-upload ng file"
+   },
+   "use_auto_change_wallpaper_desc": {
+      "message": "Awtomatikong palitan ang mga wallpaper mula sa mga mula sa library ng wallpaper"
+   },
+   "use_bing_wallpaper_desc": {
+      "message": "Gamitin ang mga pang-araw-araw na Bing wallpaper"
+   },
+   "use_color_wallpaper_desc": {
+      "message": "Gamitin ang kulay sa likuran"
+   },
+   "use_local_wallpaper_desc": {
+      "message": "Pumili ng isang larawan mula sa komputyer mo bilang wallpaper"
+   },
+   "use_mobile_scan_qrcode": {
+      "message": "Gumamit ng isang mobile device upang i-scan ang kowd ng QR"
+   },
+   "use_wallpaper_library_desc": {
+      "message": "Piliin ang iyong paboritong wallpaper mula sa malaking librerya ng mga imahe sa ulap"
+   },
+   "user_share": {
+      "message": "Ibinahagi ng ibang mga tagagamit"
+   },
+   "user_support": {
+      "message": "Suporta"
+   },
+   "username_or_password_wrong": {
+      "message": "Mali ang username o password"
+   },
+   "videos": {
+      "message": "Mga Video"
+   },
+   "wallpaper": {
+      "message": "Wallpaper"
+   },
+   "wallpaper_blur": {
+      "message": "Kahulugan ng wallpaper"
+   },
+   "wallpaper_desc": {
+      "message": "Makakapili ka ng isa lamang"
+   },
+   "wallpaper_library": {
+      "message": "Mga Wallpaper"
+   },
+   "wallpaper_mask_concentration": {
+      "message": "Pagkaaninaw ng wallpaper"
+   },
+   "weather": {
+      "message": "Panahon"
+   },
+   "weather_added": {
+      "message": "Naidagdag mo na ang lungsod na iyon"
+   },
+   "web": {
+      "message": "Web"
+   },
+   "weibo": {
+      "message": "Weibo"
+   },
+   "weixin": {
+      "message": "WeChat"
+   },
+   "what_need_to_do": {
+      "message": "Ano ang gusto mong gawin?"
+   },
+   "wind": {
+      "message": "hangin"
+   },
+   "yahoo": {
+      "message": "Yahoo"
+   },
+   "yahoo_desc": {
+      "message": "Ang Yahoo Search ay isang makinang panghanap na pinapatakbo ng Yahoo"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yandex_desc": {
+      "message": "Ang Yandex ay isa sa pinakamahalagang Internet service portals sa Russia"
+   },
+   "you_have_days_expired": {
+      "message": "Mawawalan ng bisa ang iyong pribilehiyo sa loob ng $days$ araw",
+      "placeholders": {
+         "days": {
+            "content": "$1"
+         }
+      }
+   }
+}
