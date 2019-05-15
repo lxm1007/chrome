@@ -1,0 +1,61 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+    "manifest_version": 2,
+    "name": "云盘万能钥匙",
+    "version": "2019.1",
+    "author": "W2",
+    
+    "default_locale": "zh_CN",
+    "description": "你的云盘智能助手",
+    "icons": {
+        "19": "images/icon_19.png",
+        "38": "images/icon_38.png",
+        "128": "images/icon_48.png"
+    },
+    "homepage_url": "https://extension.yunpanjingling.com",
+
+    "options_ui": {
+        "page": "pages/options.html",
+        "chrome_style": true
+    },
+
+    "permissions": [
+        "*://ypsuperkey.meek.com.cn/*",
+        "*://www.yunpanjingling.com/*",
+        "https://pan.baidu.com/s/*",
+        "tabs",
+        "storage",
+        "webRequest",
+        "webRequestBlocking"
+    ],
+    
+    "browser_action": {
+        "default_icon": {
+            "19": "images/icon_19.png",
+            "38": "images/icon_38.png"
+        },
+        "default_title": "云盘万能钥匙",
+        "default_popup": "pages/popup.html"
+    },
+    
+    "background": {
+        "scripts": ["js/base-lib.js", "js/background.js"],
+        "persistent": true
+    },
+
+    "content_security_policy": "script-src 'self' https://ssl.google-analytics.com 'unsafe-eval'; object-src 'self';",
+
+    "content_scripts": [
+        {
+            "matches": ["https://pan.baidu.com/share/init*", "http://pan.baidu.com/share/init*", "https://pan.baidu.com/s/*", "http://pan.baidu.com/s/*"],
+            "js": ["vendor/jquery/jquery-3.2.1.min.js", "js/base-lib.js", "js/content-script-yp.js"],
+            "run_at": "document_start"
+        },
+        {
+            "matches": ["http://*/*", "https://*/*"],
+            "js": ["vendor/jquery/jquery-3.2.1.min.js", "js/base-lib.js", "js/content-script-all.js"],
+            "run_at": "document_start"
+        }
+    ]
+}
