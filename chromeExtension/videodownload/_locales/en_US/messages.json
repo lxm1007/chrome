@@ -1,0 +1,1669 @@
+{
+    "title": {
+        "message": "Video DownloadHelper"
+    },
+    "settings": {
+        "message": "Settings"
+    },
+    "translation": {
+        "message": "Translation"
+    },
+    "coapp": {
+        "message": "CoApp"
+    },
+    "coapp_shell": {
+        "message": "CoApp Shell"
+    },
+    "exit_natmsgsh": {
+        "message": "Exit CoApp"
+	},
+	"clear": {
+		"message": "Clear"
+	},
+    "save": {
+        "message": "Save"
+    },
+    "save_as": {
+        "message": "Save as…"
+    },
+    "cancel": {
+        "message": "Cancel"
+    },
+    "default": {
+        "message": "Default"
+    },
+	"version": {
+		"message": "Version $ARG1$",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"add_to_blacklist": {
+		"message": "Add to blacklist"
+	},
+	"add_to_blacklist_help": {
+		"message": "Videos originating from or served by the selected domain(s) will be ignored"
+	},
+	"vdh_notification": {
+		"message": "Video DownloadHelper"
+	},
+	"file_ready": {
+		"message": "\"$ARG1$\" is now ready",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"dlconv_output_details": {
+		"message": "Configure output details"
+	},
+	"output_configuration": {
+		"message": "Output configuration"
+	},
+	"conversion_outputs": {
+		"message": "Conversion outputs"
+	},
+	"convconf_duplicate": {
+		"message": "Duplicate"
+	},
+	"convconf_new": {
+		"message": "New"
+	},
+	"convconf_remove": {
+		"message": "Remove"
+	},
+	"convconf_reset": {
+		"message": "Reset all"
+	},
+	"convconf_save": {
+		"message": "Save"
+	},
+	"copy_of": {
+		"message": "Copy of $ARG1$",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"convconf_reset_confirm": {
+		"message": "This will remove all your custom configurations"
+	},
+	"convconf_readonly": {
+		"message": "This default configuration is read-only. Duplicate it to make modifications."
+	},
+	"general": {
+		"message": "General"
+	},
+	"advanced": {
+		"message": "Advanced"
+	},
+	"convconf_container": {
+		"message": "Format"
+	},
+	"convconf_vcodec": {
+		"message": "Video codec"
+	},
+	"convconf_acodec": {
+		"message": "Audio codec"
+	},
+	"convconf_bitrate": {
+		"message": "Bitrate"
+	},
+	"convconf_videobitrate": {
+		"message": "Video bitrate"
+	},
+	"convconf_target": {
+		"message": "Target"
+	},
+	"convconf_rate": {
+		"message": "Frame rate"
+	},
+	"convconf_audiofreq": {
+		"message": "Audio frequency"
+	},
+	"convconf_audiobitrate": {
+		"message": "Audio bitrate"
+	},
+	"convconf_ac": {
+		"message": "Audio channels"
+	},
+	"convconf_aspect": {
+		"message": "Aspect ratio"
+	},
+	"convconf_size": {
+		"message": "Frame size"
+	},
+	"convconf_ext": {
+		"message": "Output file extension"
+	},
+	"convconf_extra": {
+		"message": "Extra parameters"
+	},
+	"convconf_preset": {
+		"message": "Preset"
+	},
+	"convconf_tune": {
+		"message": "Tune"
+	},
+	"convconf_profilev": {
+		"message": "Video profile"
+	},
+	"convconf_level": {
+		"message": "Level"
+	},
+	"convconf_2passes": {
+		"message": "2 passes"
+	},
+	"convconf_audioonly": {
+		"message": "Audio only"
+	},
+	"convconf_acnone": {
+		"message": "None"
+	},
+	"convconf_mono": {
+		"message": "Mono"
+	},
+	"convconf_stereo": {
+		"message": "Stereo"
+	},
+	"yes": {
+		"message": "Yes"
+	},
+	"no": {
+		"message": "No"
+	},
+	"custom_output": {
+		"message": "Custom output format"
+	},
+	"appearance": {
+		"message": "Appearance"
+	},
+	"behavior": {
+		"message": "Behavior"
+	},
+	"licensing": {
+		"message": "Licensing"
+	},
+	"save_file_as": {
+		"message": "Save file as…"
+	},
+	"up": {
+		"message": "Up"
+	},
+	"change": {
+		"message": "Change"
+	},
+	"reset_settings": {
+		"message": "Reset settings"
+	},
+	"preferences": {
+		"message": "Preferences"
+	},
+
+	"weh_prefs_label_coappIdleExit": {
+		"message": "CoApp idle exit timer"
+	},
+	"weh_prefs_description_coappIdleExit": {
+		"message": "Auto-close after the number of milliseconds, disabled if 0"
+	},
+	"weh_prefs_label_downloadRetries": {
+		"message": "Download retries"
+	},
+	"weh_prefs_description_downloadRetries": {
+		"message": "Number of download retries"
+	},
+	"weh_prefs_label_downloadRetryDelay": {
+		"message": "Retry delay"
+	},
+	"weh_prefs_description_downloadRetryDelay": {
+		"message": "Delay between download retries (ms)"
+	},
+	"weh_prefs_label_chunksPrefetchCount": {
+		"message": "Prefetch chunks count"
+	},
+	"weh_prefs_description_chunksPrefetchCount": {
+		"message": "How many segments to download in advance"
+	},
+	"weh_prefs_label_chunksConcurrentDownloads": {
+		"message": "Concurrent chunk downloads"
+	},
+	"weh_prefs_description_chunksConcurrentDownloads": {
+		"message": "Maximum segments to be downloaded in parallel"
+	},
+	"weh_prefs_label_blacklistEnabled": {
+		"message": "Enable blacklist"
+	},
+	"weh_prefs_description_blacklistEnabled": {
+		"message": "Prevent some sites to activate media recognition."
+	},
+	"weh_prefs_label_networkProbe": {
+		"message": "Network probe"
+	},
+	"weh_prefs_description_networkProbe": {
+		"message": "Scan network traffic to detect hits"
+	},
+	"weh_prefs_label_titleMode": {
+		"message": "Main panel long titles"
+	},
+	"weh_prefs_description_titleMode": {
+		"message": "How should long video titles be displayed in the main panel"
+	},
+	"weh_prefs_titleMode_option_left": {
+		"message": "Ellipsis at left"
+	},
+	"weh_prefs_titleMode_option_right": {
+		"message": "Ellipsis at right"
+	},
+	"weh_prefs_titleMode_option_multiline": {
+		"message": "Over several lines"
+	},
+	"weh_prefs_label_iconActivation": {
+		"message": "Icon activation"
+	},
+	"weh_prefs_description_iconActivation": {
+		"message": "When to activate the toolbar icon"
+	},
+	"weh_prefs_iconActivation_option_anytab": {
+		"message": "Hit from any tab"
+	},
+	"weh_prefs_iconActivation_option_currenttab": {
+		"message": "Hit from current tab"
+	},
+	"weh_prefs_label_iconBadge": {
+		"message": "Icon badge"
+	},
+	"weh_prefs_description_iconBadge": {
+		"message": "Toolbar icon badge display"
+	},
+	"weh_prefs_iconBadge_option_none": {
+		"message": "None"
+	},
+	"weh_prefs_iconBadge_option_tasks": {
+		"message": "Running tasks"
+	},
+	"weh_prefs_iconBadge_option_activetab": {
+		"message": "Media from active tab"
+	},
+	"weh_prefs_iconBadge_option_anytab": {
+		"message": "Media from any tab"
+	},
+	"weh_prefs_iconBadge_option_pinned": {
+		"message": "Pinned hits"
+	},
+	"weh_prefs_iconBadge_option_mixed": {
+		"message": "Mixed"
+	},
+	"weh_prefs_label_hitsGotoTab": {
+		"message": "Display Go-to-Tab handle"
+	},
+	"weh_prefs_description_hitsGotoTab": {
+		"message": "Display a link in entry description to switch to video tab"
+	},
+
+	"no_media_current_tab": {
+		"message": "No media to process in the current tab"
+	},
+	"no_media_to_process_descr": {
+		"message": "Click play on video to help detect files…"
+	},
+	"no_media_to_process": {
+		"message": "No media to process"
+	},
+	"from_domain": {
+		"message": "From $ARG1$",
+		"placeholders": {
+			"arg1" : {
+			  "content" : "$1"
+			}
+		  }
+	  
+	},
+	"GB": {
+		"message": "$ARG1$ GB",
+		"placeholders": {
+			"arg1" : {
+			  "content" : "$1"
+			}
+		  }
+	  
+	},
+	"MB": {
+		"message": "$ARG1$ MB",
+		"placeholders": {
+			"arg1" : {
+			  "content" : "$1"
+			}
+		  }
+	  
+	},
+	"KB": {
+		"message": "$ARG1$ KB",
+		"placeholders": {
+			"arg1" : {
+			  "content" : "$1"
+			}
+		  }
+	  
+	},
+	"Bytes": {
+		"message": "$ARG1$ Bytes",
+		"placeholders": {
+			"arg1" : {
+			  "content" : "$1"
+			}
+		  }
+	  
+	},
+	"adaptative": {
+		"message": "Adaptive $ARG1$",
+		"placeholders": {
+			"arg1" : {
+			  "content" : "$1"
+			}
+		  }
+	  
+	},
+	"details_parenthesis": {
+		"message": "(Details)"
+	},
+	"about": {
+		"message": "About"
+	},	
+	"about_vdh": {
+		"message": "About Video DownloadHelper"
+	},	
+	"supported_sites": {
+		"message": "Supported sites"
+	},
+	"analyze_page": {
+		"message": "Analyze page"
+	},
+	"convert_local_files": {
+		"message": "Convert local files"
+	},
+	"convert": {
+		"message": "Convert"
+	},
+	"clear_hits": {
+		"message": "Clear hits"
+	},
+	"clear_logs": {
+		"message": "Clear logs"
+	},
+	"in_current_tab": {
+		"message": "In current tab"
+	},
+	"in_other_tab": {
+		"message": "In other tabs"
+	},
+	"orphan": {
+		"message": "Orphan"
+	},
+	"pinned": {
+		"message": "Pinned"
+	},
+	"running": {
+		"message": "Running"
+	},
+	"action_as_default": {
+		"message": "Use this action as default"
+	},
+	"action_download_title": {
+		"message": "Download"
+	},
+	"action_download_description": {
+		"message": "Download the file to your hard drive"
+	},
+	"action_copyurl_title": {
+		"message": "Copy URL"
+	},
+	"action_copyurl_description": {
+		"message": "Copy the media URL to the clipboard"
+	},
+	"hit_go_to_tab": {
+		"message": "Go to tab"
+	},
+	"media": {
+		"message": "Media"
+	},
+	"no_such_hit": {
+		"message": "No such hit"
+	},
+	"hit_details": {
+		"message": "Hit Details"
+	},
+	"converter_needs_reg": {
+		"message": "Registration needed"
+	},
+	"converter_reg_audio": {
+		"message": "You requested, either explicitely or from an automatic conversion rule, the generation of an audio-only media file. This requires a registered converter."
+	},
+	"register_converter": {
+		"message": "Register converter"
+	},
+	"converter_needed_aggregate": {
+		"message": "This operation needs to have a converter installed on your system to aggregate the video and audio streams."
+	},
+	"converter_needed_aggregate_why": {
+		"message": "Why do I need a converter ?"
+	},
+	"downloading": {
+		"message": "Downloading…"
+	},
+	"aggregating": {
+		"message": "Aggregating…"
+	},
+	"converting": {
+		"message": "Converting…"
+	},
+	"queued": {
+		"message": "Queued…"
+	},
+	"collecting": {
+		"message": "Collecting…"
+	},
+	"converter_queued": {
+		"message": "Converter queued…"
+	},
+	"finalizing": {
+		"message": "Finalizing…"
+	},
+	"dash_streaming": {
+		"message": "DASH streaming"
+	},
+	"f4f_streaming": {
+		"message": "F4F streaming"
+	},
+	"hls_streaming": {
+		"message": "HLS streaming"
+	},
+	"quality_small": {
+		"message": "Low"
+	},
+	"quality_medium": {
+		"message": "Medium"
+	},
+	"tbsn_quality_sd": {
+		"message": "Low quality"
+	},
+	"tbsn_quality_hd": {
+		"message": "Medium quality"
+	},
+	"audio_only": {
+		"message": "Audio only"
+	},
+	"video_only": {
+		"message": "Video only"
+	},
+	"failed_aggregating": {
+		"message": "Failed aggregating \"$ARG1$\"",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"failed_converting": {
+		"message": "Failed converting \"$ARG1$\"",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"failed_getting_info": {
+		"message": "Failed getting info from \"$ARG1$\"",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"failed_playing_file": {
+		"message": "Failed playing file"
+	},
+	"dlconv_download_and_convert": {
+		"message": "Download & Convert"
+	},
+	"select_output_config": {
+		"message": "Select output configuration…"
+	},
+	"browser_locale": {
+		"message": "Browser locale: $ARG1$",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"platform_info": {
+		"message": "Platform $ARG1$ $ARG2$",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			},
+			"arg2": {
+				"content": "$2"
+			}
+		}
+	},
+	"browser_info": {
+		"message": "Browser $ARG1$ $ARG2$ $ARG3$",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			},
+			"arg2": {
+				"content": "$2"
+			},
+			"arg3": {
+				"content": "$3"
+			}
+		}
+	},
+	"platform": {
+		"message": "Platform"
+	},
+	"dev_build": {
+		"message": "Development build"
+	},
+	"prod_build": {
+		"message": "Production build"
+	},
+	"built_on": {
+		"message": "Built on $ARG1$",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"build_options": {
+		"message": "Build options: $ARG1$",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"coapp_unchecked": {
+		"message": "Verifying Companion App…"
+	},
+	"coapp_installed": {
+		"message": "Companion App installed"
+	},
+	"coapp_not_installed": {
+		"message": "Companion App not installed"
+	},
+	"coapp_outdated": {
+		"message": "Companion App outdated - please update"
+	},
+	"coapp_install": {
+		"message": "Install Companion App"
+	},
+	"coapp_update": {
+		"message": "Update Companion App"
+	},
+	"coapp_error": {
+		"message": "Checking companion app returned:"
+	},
+	"coapp_recheck": {
+		"message": "Recheck"
+	},
+	"coapp_found": {
+		"message": "Found companion app:"
+	},
+	"coapp_path": {
+		"message": "Companion app binary:"
+	},
+	"coapp_latest_version": {
+		"message": "Latest available version is $ARG$",
+		"placeholders": {
+			"arg": {
+				"content": "$1"
+			}
+		}
+	},
+	"lic_status_verifying": {
+		"message": "Verifying license…"
+	},
+	"lic_status_unverified": {
+		"message": "License not verified"
+	},
+	"lic_status_locked": {
+		"message": "License locked (revalidating)"
+	},
+	"lic_status_unneeded": {
+		"message": "License not needed"
+	},
+	"lic_status_unset": {
+		"message": "License not set"
+	},
+	"lic_status_accepted": {
+		"message": "License verified"
+	},
+	"lic_status_blocked": {
+		"message": "License blocked"
+	},
+	"lic_status_nocoapp": {
+		"message": "License could not be verified"
+	},
+	"lic_status_error": {
+		"message": "License error"
+	},
+	"register_existing_license": {
+		"message": "Register an existing license"
+	},
+	"validate_license": {
+		"message": "Register license"
+	},
+	"license": {
+		"message": "License"
+	},
+	"license_key": {
+		"message": "License key"
+	},
+	"registered_email": {
+		"message": "Email"
+	},
+	"registered_key": {
+		"message": "Key"
+	},
+	"lic_not_needed_linux": {
+		"message": "Our contribution to Linux: no license is required"
+	},
+	"no_license_registered": {
+		"message": "No license has been registered"
+	},
+	"no_validate_without_coapp": {
+		"message": "The companion app must be installed to validate the license"
+	},
+	"network_error_status": {
+		"message": "Network error - status $ARG1$",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"network_error_no_response": {
+		"message": "Network error - no response"
+	},
+	"download_error": {
+		"message": "Download error"
+	},
+	"recheck_license": {
+		"message": "Recheck license"
+	},
+	"about_qr": {
+		"message": "File generated"
+	},
+	"not_see_again": {
+		"message": "Do not see that message again"
+	},
+	"file_generated": {
+		"message": "The file \"$ARG1$\" has been generated.",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"explain_qr1": {
+		"message": "You will notice the resulting video contains a watermark in the corner."
+	},
+	"explain_qr2": {
+		"message": "This is because you chose an ADP variant and the conversion feature has not been registered."
+	},
+	"tell_me_more": {
+		"message": "Tell more about this"
+	},
+	"get_conversion_license": {
+		"message": "Get a conversion license"
+	},
+	"coapp_required": {
+		"message": "Companion application required"
+	},
+	"coapp_required_text": {
+		"message": "This operation requires an external application to be completed."
+	},
+	"coapp_outofdate": {
+		"message": "Companion application upgrade required"
+	},
+	"coapp_outofdate_text": {
+		"message": "You are running the companion application version $ARG1$ but this feature requires version $ARG2$",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			},
+			"arg2": {
+				"content": "$2"
+			}
+		}
+	},
+	"continue": {
+		"message": "Continue"
+	},
+	"about_alpha_intro": {
+		"message": "This is an alpha version."
+	},
+	"about_beta_intro": {
+		"message": "This is a beta version."
+	},
+	"about_alpha_extra7_fx": {
+		"message": "Due to internal technical changes in Firefox, the add-on had to be entirely rewritten. Please allow a few weeks to get all features from previous versions back."
+	},
+	"support_forum": {
+		"message": "Support forum"
+	},
+	"homepage": {
+		"message": "Homepage"
+	},
+	"errors": {
+		"message": "Errors"
+	},
+	"logs": {
+		"message": "Logs"
+	},
+	"more": {
+		"message": "More…"
+	},
+	"no_coapp_license_unverified": {
+		"message": "The license could not be verified because the companion app is not installed"
+	},
+	"export": {
+		"message": "Export"
+	},
+	"import": {
+		"message": "Import"
+	},
+	"import_invalid_format": {
+		"message": "Invalid format"
+	},
+	"error": {
+		"message": "Error"
+	},
+	"reload_addon": {
+		"message": "Reload extension"
+	},
+	"reload_addon_confirm": {
+		"message": "Are you sure you want to reload the extension ?"
+	},
+	"confirmation_required": {
+		"message": "Confirmation required"
+	},
+	"donate_vdh": {
+		"message": "Help Video DownloadHelper"
+	},
+	"congratulations": {
+		"message": "Congratulations !"
+	},
+	"you_downloaded_n_videos": {
+		"message": "You just downloaded successfully your $ARG1$th file with Video DownloadHelper.",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}		
+	},
+	"req_donate": {
+		"message": "Would you consider supporting the development and donate a little something ?"
+	},
+	"req_review": {
+		"message": "Alternatively, would you mind writing a nice review on Mozilla addon site ?"
+	},
+	"chrome_req_review": {
+		"message": "Alternatively, would you mind writing a nice review on the Chrome WebStore ?"
+	},
+	"req_review_link": {
+		"message": "Write a review about Video DownloadHelper"
+	},
+	"not_again_3months": {
+		"message": "Don't bother me with that again for 3 months"
+	},
+	"req_locale": {
+		"message": "Or maybe help translating the add-on to '$ARG1$' (there are $ARG2$ strings missing) ?",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			},
+			"arg2": {
+				"content": "$2"
+			}
+		}
+	},
+	"donate": {
+		"message": "Donate"
+	},
+	"help_translating": {
+		"message": "Help translating"
+	},
+	"overwrite_file": {
+		"message": "Overwrite file '$ARG$' ?",
+		"placeholders": {
+			"arg": {
+				"content": "$1"
+			}
+		}
+	},
+	"download_method": {
+		"message": "Download method"
+	},
+	"download_modes1": {
+		"message": "The actual download can be performed with either the browser or the companion app."
+	},
+	"download_modes2": {
+		"message": "For technical reasons, downloading from the browser services may cause the download to be rejected by the server hosting the video and it is not possible to define an alternative default download folder."
+	},
+	"download_with_browser": {
+		"message": "Use browser"
+	},
+	"download_with_coapp": {
+		"message": "Use Companion App"
+	},
+	"download_method_not_again": {
+		"message": "Use this method by default next time"
+	},
+	"file_dialog_name": {
+		"message": "Name"
+	},
+	"file_dialog_size": {
+		"message": "Size"
+	},
+	"file_dialog_date": {
+		"message": "Date"
+	},
+	"directory_not_exist": {
+		"message": "Non-existing folder"
+	},
+	"directory_not_exist_body": {
+		"message": "Folder '$ARG1$' does not exist, OK to create it ?",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"corrupted_media_file": {
+		"message": "Could not get information from media '$ARG1$' from file '$ARG2$'. The file might be corrupted.",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			},
+			"arg2": {
+				"content": "$2"
+			}
+		}
+	},
+	"error_not_directory": {
+		"message": "'$ARG1$' exists but is not a directory",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"ok": {
+		"message": "OK"
+	},
+	"new_sub_directory": {
+		"message": "Create sub-directory"
+	},
+	"sub_directory_name": {
+		"message": "Sub-directory name"
+	},
+	"create": {
+		"message": "Create"
+	},
+	"failed_opening_directory": {
+		"message": "Failed opening file directory"
+	},
+	"select_files_to_convert": {
+		"message": "Convert local files"
+	},
+	"select_output_directory": {
+		"message": "Output directory"
+	},
+	"powered_by_weh": {
+		"message": "Powered by Weh"
+	},
+	"blacklist": {
+		"message": "Blacklist"
+	},
+	"blacklist_empty": {
+		"message": "No blacklisted domain"
+	},
+	"blacklist_edit_descr": {
+		"message": "The blacklist allows to ignore media coming from some domains"
+	},
+	"blacklist_add_domain": {
+		"message": "Add a blacklisted domain"
+	},
+	"blacklist_add_placeholder": {
+		"message": "Domain to be blacklisted"
+	},
+	"gallery": {
+		"message": "Gallery"
+	},
+	"gallery_files_types": {
+		"message": "$ARG1$ files",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"gallery_from_domain": {
+		"message": "Gallery from $ARG1$",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"gallery_links_from_domain": {
+		"message": "Links from $ARG1$",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"number_type": {
+		"message": "$ARG1$ $ARG2$",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			},
+			"arg2": {
+				"content": "$2"
+			}
+		}
+	},
+	"smartnaming_rules": {
+		"message": "Smart Naming rules"
+	},
+	"smartnaming_rule": {
+		"message": "Smart Naming rule"
+	},
+	"smartname_define": {
+		"message": "Define Smart Name rule"
+	},
+	"smartnamer_selected_text": {
+		"message": "Selected text"
+	},
+	"smartnamer_get_name_from_header_url": {
+		"message": "Get name from document header/URL"
+	},
+	"smartnamer_get_name_from_page_title": {
+		"message": "Get name from page title"
+	},
+	"smartnamer_get_name_from_page_content": {
+		"message": "Get name from page content"
+	},
+	"smartnamer_get_obfuscated_name": {
+		"message": "Use obfuscated name"
+	},
+	"smartnamer_domain": {
+		"message": "Domain"
+	},
+	"smartnamer_xpath_expr": {
+		"message": "XPath expression"
+	},
+	"smartnamer_regexp": {
+		"message": "Regular expression"
+	},
+	"smartnamer_delay": {
+		"message": "Delay naming capture (ms)"
+	},
+	"smartname_edit_descr": {
+		"message": "A Smart Name rule allows customizing video names based on host names"
+	},
+	"smartname_add_domain": {
+		"message": "Add a Smart Naming rule"
+	},
+	"smartname_empty": {
+		"message": "No Smart Naming rule"
+	},
+	"smartname_create_rule": {
+		"message": "Create rule"
+	},
+	"smartname_update_rule": {
+		"message": "Update rule"
+	},
+	"video_qualities": {
+		"message": "Video qualities"
+	},
+	"variants_list_full": {
+		"message": "Variants"
+	},
+	"variants_list_adp": {
+		"message": "Adaptive variants"
+	},
+	"conversion_rules": {
+		"message": "Conversion rules"
+	},
+	"conversion_create_rule": {
+		"message": "Create rule"
+	},
+	"conversion_update_rule": {
+		"message": "Update rule"
+	},
+	"convrule_convert": {
+		"message": "Convert"
+	},
+	"convrule_no_convert": {
+		"message": "Do not convert"
+	},
+	"convrule_from_domain": {
+		"message": "from domain $ARG1$",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"convrule_with_ext": {
+		"message": "with extension '$ARG1$'",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"convrule_format": {
+		"message": "to format $ARG1$",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"convrules_edit_descr": {
+		"message": "Conversion rules allow to perform media conversion automatically right after the download"
+	},
+	"convrules_add_rule": {
+		"message": "Create a new conversion rule"
+	},
+	"convrules_empty": {
+		"message": "No conversion rules"
+	},
+	"convrule_domain": {
+		"message": "Domain"
+	},
+	"convrule_extension": {
+		"message": "Extension"
+	},
+	"convrule_output_format": {
+		"message": "Output format"
+	},
+	"convrule_refresh_formats": {
+		"message": "Refresh output formats"
+	},
+	"bulk_n_videos": {
+		"message": "$ARG1$ videos",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"selected_media": {
+		"message": "Bulk selection"
+	},
+	"bulk_in_progress": {
+		"message": "Video DownloadHelper bulk operation in progress. Do not close this tab, this will be done automatically"
+	},
+	
+	"chrome_warning_yt": {
+		"message": "Warning on Chrome extensions and YouTube"
+	},
+	"chrome_noyt_text": {
+		"message": "Unfortunately, the Chrome Web Store does not allow extensions for downloading YouTube videos so we had to remove this feature."
+	},
+	"chrome_noyt_text2": {
+		"message": "You can use Video DownloadHelper to download YouTube videos on the Firefox version."
+	},
+	"chrome_install_firefox": {
+		"message": "Install Firefox"
+	},
+	"chrome_install_fx_vdh": {
+		"message": "Video DownloadHelper for Firefox"
+	},
+	"chrome_verif_premium": {
+		"message": "Verifying premium status..."
+	},
+	"chrome_verif_premium_error": {
+		"message": "In-app payments API not available"
+	},
+	"chrome_premium_source": {
+		"message": "You are a premium user via $ARG1$",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"chrome_licensing": {
+		"message": "Chrome licensing"
+	},
+	"chrome_basic_mode": {
+		"message": "Chrome Basic (upgrade advised)"
+	},
+	"chrome_premium_mode": {
+		"message": "Chrome Premium"
+	},
+	"chrome_product_intro": {
+		"message": "You can upgrade to Premium using any option below:"
+	},
+	"chrome_inapp_premium_lifetime": {
+		"message": "Lifetime Premium"
+	},
+	"chrome_inapp_descr_premium_lifetime": {
+		"message": "Premium status with no time limit"
+	},
+	"chrome_inapp_premium_monthly": {
+		"message": "Monthly Premium subscription"
+	},
+	"chrome_inapp_descr_premium_monthly": {
+		"message": "Premium status from a monthly subscription"
+	},
+	"chrome_inapp_premium_yearly": {
+		"message": "Yearly Premium subscription"
+	},
+	"chrome_inapp_descr_premium_yearly": {
+		"message": "Premium status from a yearly subscription"
+	},
+	"chrome_inapp_not_avail": {
+		"message": "Not available"
+	},
+	"chrome_premium_recheck": {
+		"message": "Recheck Premium status"
+	},
+	"chrome_premium_check_error": {
+		"message": "Error checking Premium status"
+	},
+	"chrome_premium_required": {
+		"message": "Premium status required"
+	},
+	"chrome_premium_audio": {
+		"message": "Generating audio-only files is only available in Premium mode"
+	},
+	"chrome_premium_hls": {
+		"message": "Without Premium status, an HLS download can only be performed $ARG1$ minutes after the previous one",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
+	"chrome_premium_not_signed": {
+		"message": "Not signed into Chrome"
+	},
+	"chrome_premium_need_sign": {
+		"message": "You need to sign in to Chrome for Premium advantages."
+	},
+	"chrome_signing_in": {
+		"message": "Signing in to Chrome"
+	},
+	"per_month": {
+		"message": "/ month"
+	},
+	"per_year": {
+		"message": "/ year"
+	},
+
+	"action_bulkdownload_title": {
+		"message": "Bulk Download"
+	},
+	"action_bulkdownload_description": {
+		"message": "Download selected videos"
+	},
+	"action_bulkdownloadconvert_title": {
+		"message": "Bulk Download & Convert"
+	},
+	"action_bulkdownloadconvert_description": {
+		"message": "Bulk Download and convert selected videos"
+	},
+	"action_openlocalcontainer_title": {
+		"message": "Open directory"
+	},
+	"action_openlocalcontainer_description": {
+		"message": "Open local file directory"
+	},
+	"action_downloadconvert_title": {
+		"message": "Download & Convert"
+	},
+	"action_downloadconvert_description": {
+		"message": "Download media and convert to another format"
+	},
+	"action_quickdownload_title": {
+		"message": "Quick download"
+	},
+	"action_quickdownload_description": {
+		"message": "Download without asking for destination"
+	},
+	"action_details_title": {
+		"message": "Details"
+	},
+	"action_details_description": {
+		"message": "Display details about the hit"
+	},
+	"action_deletehit_title": {
+		"message": "Delete"
+	},
+	"action_deletehit_description": {
+		"message": "Delete hit from the current list"
+	},
+	"action_pin_title": {
+		"message": "Pin"
+	},
+	"action_pin_description": {
+		"message": "Make the hit persistent"
+	},
+	"action_avplay_title": {
+		"message": "Play"
+	},
+	"action_avplay_description": {
+		"message": "Play the video with the converter's native viewer"
+	},
+	"action_blacklist_title": {
+		"message": "Add to blacklist"
+	},
+	"action_blacklist_description": {
+		"message": "Videos originating from or served by the selected domain(s) will be ignored"
+	},
+	"action_openlocalfile_title": {
+		"message": "Open media"
+	},
+	"action_openlocalfile_description": {
+		"message": "Open local media file"
+	},
+	"action_abort_title": {
+		"message": "Abort"
+	},
+	"action_abort_description": {
+		"message": "Abort the action in progress"
+	},
+	"action_stop_title": {
+		"message": "Stop"
+	},
+	"action_stop_description": {
+		"message": "Stop capture"
+	},
+
+	"weh_prefs_label_bulkEnabled": {
+		"message": "Bulk enabled"
+	},
+	"weh_prefs_description_bulkEnabled": {
+		"message": "Enable bulk download operations"
+	},
+	"weh_prefs_label_medialinkAutoDetect": {
+		"message": "Gallery auto-detect"
+	},
+	"weh_prefs_description_medialinkAutoDetect": {
+		"message": "Execute at each page load (may impact performances)"
+	},
+	"weh_prefs_label_medialinkMinImgSize": {
+		"message": "Minimum image size"
+	},
+	"weh_prefs_description_medialinkMinImgSize": {
+		"message": "Minimum image size to be considered as image gallery"
+	},
+	"weh_prefs_label_medialinkMinFilesPerGroup": {
+		"message": "Minimum entries"
+	},
+	"weh_prefs_description_medialinkMinFilesPerGroup": {
+		"message": "Minimum entries to be detected as gallery"
+	},
+	"weh_prefs_label_medialinkMaxHits": {
+		"message": "Maximum entries"
+	},
+	"weh_prefs_description_medialinkMaxHits": {
+		"message": "Limit the number of entries detected as gallery"
+	},
+	"weh_prefs_label_medialinkExtensions": {
+		"message": "Media link extensions"
+	},
+	"weh_prefs_description_medialinkExtensions": {
+		"message": "File extensions to be considered for gallery capture"
+	},
+	"weh_prefs_label_medialinkScanImages": {
+		"message": "Detect embedded images"
+	},
+	"weh_prefs_description_medialinkScanImages": {
+		"message": "Detect the images within the page"
+	},
+	"weh_prefs_label_medialinkScanLinks": {
+		"message": "Detect links to media"
+	},
+	"weh_prefs_description_medialinkScanLinks": {
+		"message": "Detect media directly linked from the page"
+	},
+	"weh_prefs_label_contextMenuEnabled": {
+		"message": "Context menu"
+	},
+	"weh_prefs_description_contextMenuEnabled": {
+		"message": "Access commands from right-click in page"
+	},
+	"weh_prefs_label_toolsMenuEnabled": {
+		"message": "Tools menu"
+	},
+	"weh_prefs_description_toolsMenuEnabled": {
+		"message": "Access commands from the Tools menu"
+	},
+	"weh_prefs_label_contentRedirectEnabled": {
+		"message": "Content redirect enabled"
+	},
+	"weh_prefs_description_contentRedirectEnabled": {
+		"message": "Some sites may return a new URL instead of the media content"
+	},
+	"weh_prefs_label_coappUseProxy": {
+		"message": "Coapp proxy"
+	},
+	"weh_prefs_description_coappUseProxy": {
+		"message": "Coapp uses same proxy as original request"
+	},
+	"weh_prefs_label_checkCoappOnStartup": {
+		"message": "Check CoApp on startup"
+	},
+	"weh_prefs_description_checkCoappOnStartup": {
+		"message": "On add-on startup, verify whether the companion application is available for better media detection"
+	},
+	"weh_prefs_label_convertControlledMax": {
+		"message": "Simultaneous converter operations"
+	},
+	"weh_prefs_description_convertControlledMax": {
+		"message": "The maximum number of simulaneous aggregation or conversion tasks"
+	},
+	"weh_prefs_label_rememberLastDir": {
+		"message": "Remember last directory"
+	},
+	"weh_prefs_description_rememberLastDir": {
+		"message": "Use last download directory as default location"
+	},
+	"weh_prefs_label_fileDialogType": {
+		"message": "File dialog"
+	},
+	"weh_prefs_description_fileDialogType": {
+		"message": "How file dialogs are displayed"
+	},
+	"weh_prefs_fileDialogType_option_tab": {
+		"message": "Tab"
+	},
+	"weh_prefs_fileDialogType_option_panel": {
+		"message": "Window"
+	},
+	"weh_prefs_label_alertDialogType": {
+		"message": "Alert dialog"
+	},
+	"weh_prefs_description_alertDialogType": {
+		"message": "How alert dialogs are displayed"
+	},
+	"weh_prefs_alertDialogType_option_tab": {
+		"message": "Tab"
+	},
+	"weh_prefs_alertDialogType_option_panel": {
+		"message": "Window"
+	},
+	"weh_prefs_label_monitorNetworkRequests": {
+		"message": "Request headers"
+	},
+	"weh_prefs_description_monitorNetworkRequests": {
+		"message": "Download using the same headers as the original request"
+	},
+	"weh_prefs_label_chunkedCoappManifestsRequests": {
+		"message": "Chunked manifests CoApp requests"
+	},
+	"weh_prefs_description_chunkedCoappManifestsRequests": {
+		"message": "Request chunked manifests using companion app"
+	},
+	"weh_prefs_label_chunkedCoappDataRequests": {
+		"message": "Chunked data CoApp requests"
+	},
+	"weh_prefs_description_chunkedCoappDataRequests": {
+		"message": "Request chunked data using companion app"
+	},
+	"weh_prefs_label_coappRestartDelay": {
+		"message": "CoApp restart delay"
+	},
+	"weh_prefs_description_coappRestartDelay": {
+		"message": "Delay in milliseconds when restarting the companion application"
+	},
+	"weh_prefs_label_dialogAutoClose": {
+		"message": "Auto-close dialogs"
+	},
+	"weh_prefs_description_dialogAutoClose": {
+		"message": "Dialogs are closed when losing focus"
+	},
+	"weh_prefs_label_converterKeepTmpFiles": {
+		"message": "Keep temporary files"
+	},
+	"weh_prefs_description_converterKeepTmpFiles": {
+		"message": "Do not remove temporary files after processing"
+	},
+	"weh_prefs_label_lastDownloadDirectory": {
+		"message": "Default download directory"
+	},
+	"weh_prefs_description_lastDownloadDirectory": {
+		"message": "Only used with Companion App download processor"
+	},
+	"weh_prefs_label_avplayEnabled": {
+		"message": "Player enabled"
+	},
+	"weh_prefs_description_avplayEnabled": {
+		"message": "Allow playing video with the companion application"
+	},
+	"weh_prefs_label_notifyReady": {
+		"message": "Notification"
+	},
+	"weh_prefs_description_notifyReady": {
+		"message": "Notify when processed"
+	},
+	"weh_prefs_label_noPrivateNotification": {
+		"message": "Private notifications"
+	},
+	"weh_prefs_description_noPrivateNotification": {
+		"message": "No notification for private hits"
+	},
+	"weh_prefs_label_converterAggregTuneH264": {
+		"message": "H264 tuning"
+	},
+	"weh_prefs_description_converterAggregTuneH264": {
+		"message": "Force H264 tuning in aggregation"
+	},
+	"weh_prefs_label_converterThreads": {
+		"message": "Conversion threads"
+	},
+	"weh_prefs_description_converterThreads": {
+		"message": "Number of threads to be used during the conversion"
+	},
+	"weh_prefs_label_adpHide": {
+		"message": "Hide ADP variants"
+	},
+	"weh_prefs_description_adpHide": {
+		"message": "Do not show ADP variants in download list."
+	},
+	"weh_prefs_label_qualitiesMaxVariants": {
+		"message": "Max variants"
+	},
+	"weh_prefs_description_qualitiesMaxVariants": {
+		"message": "Maximum number of displayed variants for a same video."
+	},
+	"weh_prefs_label_ignoreProtectedVariants": {
+		"message": "Ignore protected variants"
+	},
+	"weh_prefs_description_ignoreProtectedVariants": {
+		"message": "Do not show variants that are protected."
+	},
+	"weh_prefs_label_mediaweightMinSize": {
+		"message": "Minimum size"
+	},
+	"weh_prefs_description_mediaweightMinSize": {
+		"message": "Ignore hits below this size."
+	},
+	"weh_prefs_label_mediaweightThreshold": {
+		"message": "Size threshold"
+	},
+	"weh_prefs_description_mediaweightThreshold": {
+		"message": "Force detect media above this size."
+	},
+	"weh_prefs_label_networkFilterOut": {
+		"message": "Network filter out"
+	},
+	"weh_prefs_description_networkFilterOut": {
+		"message": "Regular expression to ignore some media urls."
+	},
+	"weh_prefs_label_hlsDownloadAsM2ts": {
+		"message": "HLS as M2TS"
+	},
+	"weh_prefs_description_hlsDownloadAsM2ts": {
+		"message": "Download HLS streams as M2TS"
+	},
+	"weh_prefs_label_f4fEnabled": {
+		"message": "F4F enabled"
+	},
+	"weh_prefs_description_f4fEnabled": {
+		"message": "F4F chunked streaming enabled"
+	},
+	"weh_prefs_label_dashEnabled": {
+		"message": "DASH enabled"
+	},
+	"weh_prefs_description_dashEnabled": {
+		"message": "DASH chunked streaming enabled"
+	},
+	"weh_prefs_label_hlsEnabled": {
+		"message": "HLS enabled"
+	},
+	"weh_prefs_description_hlsEnabled": {
+		"message": "HLS chunked streaming enabled"
+	},
+	"weh_prefs_label_chunksEnabled": {
+		"message": "Chunked streaming"
+	},
+	"weh_prefs_description_chunksEnabled": {
+		"message": "Chunked streaming enabled"
+	},
+	"weh_prefs_label_mediaExtensions": {
+		"message": "Detect extensions"
+	},
+	"weh_prefs_description_mediaExtensions": {
+		"message": "Extensions to be considered as media"
+	},
+	"weh_prefs_label_dashHideM4s": {
+		"message": "Hide .m4s"
+	},
+	"weh_prefs_description_dashHideM4s": {
+		"message": "Do not show .m4s entries in download list"
+	},
+	"weh_prefs_label_mpegtsHideTs": {
+		"message": "Hide .ts"
+	},
+	"weh_prefs_description_mpegtsHideTs": {
+		"message": " Do not show .ts entries in download list"
+	},
+
+	"weh_prefs_label_orphanExpiration": {
+		"message": "Orphan expiration timeout"
+	},
+	"weh_prefs_description_orphanExpiration": {
+		"message": "Timeout in seconds before removing orphan hits."
+	},
+	"weh_prefs_label_autoPin": {
+		"message": "Auto Pin"
+	},
+	"weh_prefs_description_autoPin": {
+		"message": "Pin hit after download."
+	},
+	"weh_prefs_label_downloadControlledMax": {
+		"message": "Max concurrent downloads"
+	},
+	"weh_prefs_description_downloadControlledMax": {
+		"message": "Controls the number of addon-generated downloads running simultaneously to preserve some bandwidth."
+	},
+	"weh_prefs_label_downloadStreamControlledMax": {
+		"message": "Max concurrent stream downloads"
+	},
+	"weh_prefs_description_downloadStreamControlledMax": {
+		"message": "Controls the number of streams being downloaded for a single item"
+	},
+	"weh_prefs_label_smartnamerFnameMaxlen": {
+		"message": "Max filename length"
+	},
+	"weh_prefs_description_smartnamerFnameMaxlen": {
+		"message": "Ensures generated file names do not exceed this size."
+	},
+	"weh_prefs_label_smartnamerFnameSpaces": {
+		"message": "Main panel long titles"
+	},
+	"weh_prefs_description_smartnamerFnameSpaces": {
+		"message": "How to deal with spaces in video names"
+	},
+	"weh_prefs_smartnamerFnameSpaces_option_keep": {
+		"message": "Keep"
+	},
+	"weh_prefs_smartnamerFnameSpaces_option_remove": {
+		"message": "Remove"
+	},
+	"weh_prefs_smartnamerFnameSpaces_option_hyphen": {
+		"message": "Replace with hyphens"
+	},
+	"weh_prefs_smartnamerFnameSpaces_option_underscore": {
+		"message": "Replace with underscores"
+	},
+	"weh_prefs_label_dashOnAdp": {
+		"message": "DASH streams"
+	},
+	"weh_prefs_description_dashOnAdp": {
+		"message": "When DASH contains both audio and video"
+	},
+	"weh_prefs_dashOnAdp_option_audio": {
+		"message": "Download audio"
+	},
+	"weh_prefs_dashOnAdp_option_video": {
+		"message": "Download video"
+	},
+	"weh_prefs_dashOnAdp_option_audio_video": {
+		"message": "Aggregate audio and video"
+	},
+	"weh_prefs_label_coappDownloads": {
+		"message": "Download processor"
+	},
+	"weh_prefs_description_coappDownloads": {
+		"message": "Application performing the actual download"
+	},
+	"weh_prefs_coappDownloads_option_coapp": {
+		"message": "Companion Application"
+	},
+	"weh_prefs_coappDownloads_option_browser": {
+		"message": "Browser"
+	},
+	"weh_prefs_coappDownloads_option_ask": {
+		"message": "Ask"
+	},
+	"weh_prefs_label_tbsnEnabled": {
+		"message": "Facebook support"
+	},
+	"weh_prefs_description_tbsnEnabled": {
+		"message": "Allow Facebook videos detection and download"
+	},
+	"weh_prefs_label_galleryNaming": {
+		"message": "Gallery file naming"
+	},
+	"weh_prefs_description_galleryNaming": {
+		"message": "How to name files from gallery download"
+	},
+	"weh_prefs_galleryNaming_option_type_index": {
+		"message": "Type - Index"
+	},
+	"weh_prefs_galleryNaming_option_url": {
+		"message": "Url"
+	},
+	"weh_prefs_galleryNaming_option_index_url": {
+		"message": "Index - Url"
+	}
+}

@@ -1,0 +1,1132 @@
+{
+    "Bytes": {
+        "message": "$ARG1$ byte",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "GB": {
+        "message": "$ARG1$ GB",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "KB": {
+        "message": "$ARG1$ KB",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "MB": {
+        "message": "$ARG1$ MB",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "__localeName": {
+        "message": "sv"
+    },
+    "__missingI18nTags": {
+        "message": "[\"action_bulkdownload_title\",\"action_bulkdownloadconvert_description\",\"action_bulkdownloadconvert_title\",\"action_openlocalcontainer_description\",\"action_openlocalcontainer_title\",\"action_stop_description\",\"browser_info\",\"browser_locale\",\"build_options\",\"built_on\",\"bulk_in_progress\",\"chrome_basic_mode\",\"chrome_inapp_descr_premium_lifetime\",\"chrome_inapp_descr_premium_monthly\",\"chrome_inapp_descr_premium_yearly\",\"chrome_inapp_not_avail\",\"chrome_inapp_premium_lifetime\",\"chrome_inapp_premium_monthly\",\"chrome_inapp_premium_yearly\",\"chrome_licensing\",\"chrome_premium_audio\",\"chrome_premium_check_error\",\"chrome_premium_hls\",\"chrome_premium_mode\",\"chrome_premium_need_sign\",\"chrome_premium_not_signed\",\"chrome_premium_recheck\",\"chrome_premium_required\",\"chrome_premium_source\",\"chrome_product_intro\",\"chrome_req_review\",\"chrome_signing_in\",\"chrome_verif_premium\",\"chrome_verif_premium_error\",\"coapp_path\",\"new_sub_directory\",\"output_configuration\",\"overwrite_file\",\"per_month\",\"per_year\",\"platform\",\"platform_info\",\"powered_by_weh\",\"preferences\",\"prod_build\",\"recheck_license\",\"reload_addon\",\"reload_addon_confirm\",\"req_locale\",\"reset_settings\",\"save_as\",\"save_file_as\",\"select_output_config\",\"select_output_directory\",\"selected_media\",\"smartname_add_domain\",\"smartname_create_rule\",\"smartname_define\",\"smartname_edit_descr\",\"smartname_empty\",\"smartname_update_rule\",\"smartnaming_rule\",\"smartnaming_rules\",\"sub_directory_name\",\"support_forum\",\"tbsn_quality_hd\",\"tbsn_quality_sd\",\"translation\",\"up\",\"weh_prefs_alertDialogType_option_panel\",\"weh_prefs_alertDialogType_option_tab\",\"weh_prefs_coappDownloads_option_ask\",\"weh_prefs_coappDownloads_option_browser\",\"weh_prefs_coappDownloads_option_coapp\",\"weh_prefs_description_alertDialogType\",\"weh_prefs_description_avplayEnabled\",\"weh_prefs_description_bulkEnabled\",\"weh_prefs_description_checkCoappOnStartup\",\"weh_prefs_description_chunkedCoappDataRequests\",\"weh_prefs_description_chunkedCoappManifestsRequests\",\"weh_prefs_description_chunksConcurrentDownloads\",\"weh_prefs_description_chunksPrefetchCount\",\"weh_prefs_description_coappDownloads\",\"weh_prefs_description_coappIdleExit\",\"weh_prefs_description_coappRestartDelay\",\"weh_prefs_description_coappUseProxy\",\"weh_prefs_description_contentRedirectEnabled\",\"weh_prefs_description_contextMenuEnabled\",\"weh_prefs_description_convertControlledMax\",\"weh_prefs_description_converterKeepTmpFiles\",\"weh_prefs_description_converterThreads\",\"weh_prefs_description_dashEnabled\",\"weh_prefs_description_dialogAutoClose\",\"weh_prefs_description_downloadStreamControlledMax\",\"weh_prefs_description_f4fEnabled\",\"weh_prefs_description_fileDialogType\",\"weh_prefs_description_galleryNaming\",\"weh_prefs_description_hitsGotoTab\",\"weh_prefs_description_hlsEnabled\",\"weh_prefs_description_iconActivation\",\"weh_prefs_description_iconBadge\",\"weh_prefs_description_ignoreProtectedVariants\",\"weh_prefs_description_lastDownloadDirectory\",\"weh_prefs_description_mediaExtensions\",\"weh_prefs_description_medialinkAutoDetect\",\"weh_prefs_description_medialinkExtensions\",\"weh_prefs_description_medialinkMaxHits\",\"weh_prefs_description_medialinkMinFilesPerGroup\",\"weh_prefs_description_medialinkMinImgSize\",\"weh_prefs_description_medialinkScanImages\",\"weh_prefs_description_medialinkScanLinks\",\"weh_prefs_description_monitorNetworkRequests\",\"weh_prefs_description_networkProbe\",\"weh_prefs_description_rememberLastDir\",\"weh_prefs_description_smartnamerFnameSpaces\",\"weh_prefs_description_tbsnEnabled\",\"weh_prefs_description_titleMode\",\"weh_prefs_description_toolsMenuEnabled\",\"weh_prefs_fileDialogType_option_panel\",\"weh_prefs_fileDialogType_option_tab\",\"weh_prefs_galleryNaming_option_index_url\",\"weh_prefs_galleryNaming_option_type_index\",\"weh_prefs_galleryNaming_option_url\",\"weh_prefs_label_adpHide\",\"weh_prefs_label_alertDialogType\",\"weh_prefs_label_bulkEnabled\",\"weh_prefs_label_checkCoappOnStartup\",\"weh_prefs_label_chunkedCoappDataRequests\",\"weh_prefs_label_chunkedCoappManifestsRequests\",\"weh_prefs_label_coappDownloads\",\"weh_prefs_label_coappIdleExit\",\"weh_prefs_label_coappRestartDelay\",\"weh_prefs_label_coappUseProxy\",\"weh_prefs_label_contentRedirectEnabled\",\"weh_prefs_label_contextMenuEnabled\",\"weh_prefs_label_convertControlledMax\",\"weh_prefs_label_converterAggregTuneH264\",\"weh_prefs_label_converterKeepTmpFiles\",\"weh_prefs_label_dashHideM4s\",\"weh_prefs_label_dashOnAdp\",\"weh_prefs_label_dialogAutoClose\",\"weh_prefs_label_downloadRetries\",\"weh_prefs_label_downloadRetryDelay\",\"weh_prefs_label_downloadStreamControlledMax\",\"weh_prefs_label_fileDialogType\",\"weh_prefs_label_galleryNaming\",\"weh_prefs_label_hlsDownloadAsM2ts\",\"weh_prefs_label_lastDownloadDirectory\",\"weh_prefs_label_medialinkAutoDetect\",\"weh_prefs_label_medialinkExtensions\",\"weh_prefs_label_medialinkMaxHits\",\"weh_prefs_label_medialinkMinFilesPerGroup\",\"weh_prefs_label_monitorNetworkRequests\",\"weh_prefs_label_mpegtsHideTs\",\"weh_prefs_label_noPrivateNotification\",\"weh_prefs_label_notifyReady\",\"weh_prefs_label_rememberLastDir\",\"weh_prefs_label_tbsnEnabled\"]"
+    },
+    "about": {
+        "message": "Om"
+    },
+    "about_alpha_extra7_fx": {
+        "message": "På grund av interna tekniska förändringar i Firefox måste kompletteringen vara helt omskriven. Vänligen tillåt att några veckor går för att få alla funktioner från tidigare versioner tillbaka."
+    },
+    "about_alpha_intro": {
+        "message": "Detta är en alfaversion."
+    },
+    "about_beta_intro": {
+        "message": "Detta är en betaversion."
+    },
+    "about_qr": {
+        "message": "Fil genererades"
+    },
+    "about_vdh": {
+        "message": "Om Video DownloadHelper"
+    },
+    "action_abort_description": {
+        "message": "Avbryt pågående handling"
+    },
+    "action_abort_title": {
+        "message": "Avbryt"
+    },
+    "action_as_default": {
+        "message": "Använd denna handling som standard"
+    },
+    "action_avplay_description": {
+        "message": "Spela upp videon med konverterarens inbyggda spelare"
+    },
+    "action_avplay_title": {
+        "message": "Spela upp"
+    },
+    "action_blacklist_description": {
+        "message": "Videor som kommer från eller tillhandahålls av valda domäner kommer att ignoreras"
+    },
+    "action_blacklist_title": {
+        "message": "Lägg till i svartlistan"
+    },
+    "action_bulkdownload_description": {
+        "message": "Ladda ned vald video"
+    },
+    "action_copyurl_description": {
+        "message": "Kopiera mediaadressen till urklipp"
+    },
+    "action_copyurl_title": {
+        "message": "Kopiera webbadress"
+    },
+    "action_deletehit_description": {
+        "message": "Radera träff från aktuell lista"
+    },
+    "action_deletehit_title": {
+        "message": "Radera"
+    },
+    "action_details_description": {
+        "message": "Visa detaljer om träffen"
+    },
+    "action_details_title": {
+        "message": "Detaljer"
+    },
+    "action_download_description": {
+        "message": "Ladda ned filen till din hårddisk"
+    },
+    "action_download_title": {
+        "message": "Ladda ned"
+    },
+    "action_downloadconvert_description": {
+        "message": "Ladda ned media och konvertera till ett annat format"
+    },
+    "action_downloadconvert_title": {
+        "message": "Ladda ned och konvertera"
+    },
+    "action_openlocalfile_description": {
+        "message": "Öppna lokal mediafil"
+    },
+    "action_openlocalfile_title": {
+        "message": "Öppna media"
+    },
+    "action_pin_description": {
+        "message": "Gör att träffen stannar kvar"
+    },
+    "action_pin_title": {
+        "message": "Fäst"
+    },
+    "action_quickdownload_description": {
+        "message": "Ladda ned utan att fråga efter destinationen"
+    },
+    "action_quickdownload_title": {
+        "message": "Snabb nedladdning"
+    },
+    "action_stop_title": {
+        "message": "Stopp"
+    },
+    "adaptative": {
+        "message": "Adaptiva $ARG1$",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "add_to_blacklist": {
+        "message": "Lägg till i svartlistan"
+    },
+    "add_to_blacklist_help": {
+        "message": "Videor som kommer från eller tillhandahålls av valda domäner kommer att ignoreras"
+    },
+    "advanced": {
+        "message": "Avancerat"
+    },
+    "aggregating": {
+        "message": "Samlar ihop..."
+    },
+    "analyze_page": {
+        "message": "Analysera sida"
+    },
+    "appearance": {
+        "message": "Utseende"
+    },
+    "audio_only": {
+        "message": "Endast ljud"
+    },
+    "behavior": {
+        "message": "Beteende"
+    },
+    "blacklist": {
+        "message": "Svartlista"
+    },
+    "blacklist_add_domain": {
+        "message": "Lägg till en svartlistad domän"
+    },
+    "blacklist_add_placeholder": {
+        "message": "Domän påväg att bli svartlistad"
+    },
+    "blacklist_edit_descr": {
+        "message": "Svartalistan tillåts att ignorera media som kommer från vissa domäner"
+    },
+    "blacklist_empty": {
+        "message": "Ingen svartlistad domän"
+    },
+    "bulk_n_videos": {
+        "message": "$ARG1$ video",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "cancel": {
+        "message": "Avbryt"
+    },
+    "change": {
+        "message": "Ändra"
+    },
+    "chrome_install_firefox": {
+        "message": "Installera Firefox"
+    },
+    "chrome_install_fx_vdh": {
+        "message": "Video nedladdningshjälp för Firefox"
+    },
+    "chrome_noyt_text": {
+        "message": "Tyvärr tillåter Chrome Web Store inte tillägg för nedladdning av YouTube-videoklipp så att vi blev tvugna att ta bort den här funktionen."
+    },
+    "chrome_noyt_text2": {
+        "message": "Du kan använda Video DownloadHelper för att ladda ner YouTube-videor i Firefox-versionen."
+    },
+    "chrome_warning_yt": {
+        "message": "Varning på Chrome-tillägg och YouTube"
+    },
+    "clear": {
+        "message": "Klar"
+    },
+    "clear_hits": {
+        "message": "Rensa träffar"
+    },
+    "clear_logs": {
+        "message": "Rensa loggar"
+    },
+    "coapp": {
+        "message": "CoApp"
+    },
+    "coapp_error": {
+        "message": "Kontroll av följeslagareapp returnerad:"
+    },
+    "coapp_found": {
+        "message": "Companion App hittad"
+    },
+    "coapp_install": {
+        "message": "Installera Companion App"
+    },
+    "coapp_installed": {
+        "message": "Companion App installerad"
+    },
+    "coapp_latest_version": {
+        "message": "Den senaste tillgängliga versionen är $ARG1$",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "coapp_not_installed": {
+        "message": "Companion App inte installerad"
+    },
+    "coapp_outdated": {
+        "message": "Companion App utdaterad - snälla uppdatera"
+    },
+    "coapp_outofdate": {
+        "message": "Companion-programuppgradering krävs"
+    },
+    "coapp_outofdate_text": {
+        "message": "Du använder ett companion program version $ARG1$men den här funktionen kräver version $ARG2$",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            },
+            "arg2": {
+                "content": "$2"
+            }
+        }
+    },
+    "coapp_recheck": {
+        "message": "Kontrollera igen"
+    },
+    "coapp_required": {
+        "message": "Companion program krävs"
+    },
+    "coapp_required_text": {
+        "message": "Den här operationen kräver ett externt program för att kunna bli färdigt."
+    },
+    "coapp_shell": {
+        "message": "CoApp skal"
+    },
+    "coapp_unchecked": {
+        "message": "Verifierar Companion App…"
+    },
+    "coapp_update": {
+        "message": "Uppdatera Companion App…"
+    },
+    "collecting": {
+        "message": "Samlande..."
+    },
+    "confirmation_required": {
+        "message": "Klar tecken krävs"
+    },
+    "congratulations": {
+        "message": "Gratulerar!"
+    },
+    "continue": {
+        "message": "Fortsätt"
+    },
+    "convconf_2passes": {
+        "message": "2-pass"
+    },
+    "convconf_ac": {
+        "message": "Ljudkanaler"
+    },
+    "convconf_acnone": {
+        "message": "Ingen"
+    },
+    "convconf_acodec": {
+        "message": "Ljudkodare"
+    },
+    "convconf_aspect": {
+        "message": "Bildförhållande"
+    },
+    "convconf_audiobitrate": {
+        "message": "Ljudbithastighet"
+    },
+    "convconf_audiofreq": {
+        "message": "Ljudfrekvens"
+    },
+    "convconf_audioonly": {
+        "message": "Endast ljud"
+    },
+    "convconf_bitrate": {
+        "message": "Bithastighet"
+    },
+    "convconf_container": {
+        "message": "Format"
+    },
+    "convconf_duplicate": {
+        "message": "Duplicera"
+    },
+    "convconf_ext": {
+        "message": "Filändelse för utmatning"
+    },
+    "convconf_extra": {
+        "message": "Extra parametrar"
+    },
+    "convconf_level": {
+        "message": "Nivå"
+    },
+    "convconf_mono": {
+        "message": "Mono"
+    },
+    "convconf_new": {
+        "message": "Ny"
+    },
+    "convconf_preset": {
+        "message": "Mall"
+    },
+    "convconf_profilev": {
+        "message": "Videoprofil"
+    },
+    "convconf_rate": {
+        "message": "Bildfrekvens"
+    },
+    "convconf_readonly": {
+        "message": "Denna standardkonfigurering är skrivskyddad. Duplicera den för att göra ändringar."
+    },
+    "convconf_remove": {
+        "message": "Ta bort"
+    },
+    "convconf_reset": {
+        "message": "Återställ alla"
+    },
+    "convconf_reset_confirm": {
+        "message": "Detta kommer att ta bort alla dina anpassade konfigurationer"
+    },
+    "convconf_save": {
+        "message": "Spara"
+    },
+    "convconf_size": {
+        "message": "Bildstorlek"
+    },
+    "convconf_stereo": {
+        "message": "Stereo"
+    },
+    "convconf_target": {
+        "message": "Mål"
+    },
+    "convconf_tune": {
+        "message": "Signal"
+    },
+    "convconf_vcodec": {
+        "message": "Videokodare"
+    },
+    "convconf_videobitrate": {
+        "message": "Videobithastighet"
+    },
+    "conversion_create_rule": {
+        "message": "Skapa regel"
+    },
+    "conversion_outputs": {
+        "message": "Konverteringsutmatningar"
+    },
+    "conversion_rules": {
+        "message": "Konverteringsregler"
+    },
+    "conversion_update_rule": {
+        "message": "Uppdateringsregeln"
+    },
+    "convert": {
+        "message": "Konvertera"
+    },
+    "convert_local_files": {
+        "message": "Konvertera lokala filer"
+    },
+    "converter_needed_aggregate": {
+        "message": "Denna handling kräver att en konverterare är installerad på ditt system för att kunna slå samman video- och ljudströmmar."
+    },
+    "converter_needed_aggregate_why": {
+        "message": "Varför behöver jag en konverterare?"
+    },
+    "converter_needs_reg": {
+        "message": "Registrering krävs"
+    },
+    "converter_queued": {
+        "message": "Omvandlare i kö..."
+    },
+    "converter_reg_audio": {
+        "message": "Du begärde antingen uttryckligen eller från en automatisk konverteringsregel att endast ljud skulle genereras till en mediafil. Detta kräver en registrerad konverterare."
+    },
+    "converting": {
+        "message": "Konverterar..."
+    },
+    "convrule_convert": {
+        "message": "Omvandla"
+    },
+    "convrule_domain": {
+        "message": "Domän"
+    },
+    "convrule_extension": {
+        "message": "Förlängning"
+    },
+    "convrule_format": {
+        "message": "Till format $ARG1$",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "convrule_from_domain": {
+        "message": "Från domän $ARG1$",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "convrule_no_convert": {
+        "message": "Omvandla inte"
+    },
+    "convrule_output_format": {
+        "message": "Utdataformat"
+    },
+    "convrule_refresh_formats": {
+        "message": "Uppdatera utdataformat"
+    },
+    "convrule_with_ext": {
+        "message": "med förlängning $ARG1$",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "convrules_add_rule": {
+        "message": "Skapa en ny konverteringsregel"
+    },
+    "convrules_edit_descr": {
+        "message": "Konverteringsregler tillåter att mediaomvandling sker automatiskt efter nedladdningen"
+    },
+    "convrules_empty": {
+        "message": "Inga Konverteringsregler"
+    },
+    "copy_of": {
+        "message": "Kopia av $ARG1$",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "corrupted_media_file": {
+        "message": "Kan inte få information från media '$ARG1$' från fil '$ARG2$'. Filen kan vara skadad",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            },
+            "arg2": {
+                "content": "$2"
+            }
+        }
+    },
+    "create": {
+        "message": "Skapa"
+    },
+    "custom_output": {
+        "message": "Anpassat utmatningsformat"
+    },
+    "dash_streaming": {
+        "message": "DASH-strömning"
+    },
+    "default": {
+        "message": "Standard"
+    },
+    "details_parenthesis": {
+        "message": "(Detaljer)"
+    },
+    "dev_build": {
+        "message": "Utvecklingsbyggnad"
+    },
+    "directory_not_exist": {
+        "message": "Icke existerande mapp"
+    },
+    "directory_not_exist_body": {
+        "message": "Mappen '$ARG1$' existerar inte, OK för att skapa mappen",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "dlconv_download_and_convert": {
+        "message": "Ladda ned och konvertera"
+    },
+    "dlconv_output_details": {
+        "message": "Konfigurera utmatningsdetaljer"
+    },
+    "donate": {
+        "message": "Donera"
+    },
+    "donate_vdh": {
+        "message": "Hjälp Video DownloadHelper"
+    },
+    "download_error": {
+        "message": "Nedladdningsfel"
+    },
+    "download_method": {
+        "message": "Nedladdningsmetod"
+    },
+    "download_method_not_again": {
+        "message": "Använd denna metod som standard nästa gång"
+    },
+    "download_modes1": {
+        "message": "Den här nedladdningen kan utföras med antingen en webbläsare eller companion appen"
+    },
+    "download_modes2": {
+        "message": "Av tekniska skäl kan nedladdningen avvisas av servern där videon är sparad och det går inte att definiera en alternativ nedladdnings mapp."
+    },
+    "download_with_browser": {
+        "message": "Använd webbläsare"
+    },
+    "download_with_coapp": {
+        "message": "Använd Companion Appen"
+    },
+    "downloading": {
+        "message": "Laddar ned..."
+    },
+    "error": {
+        "message": "Fel"
+    },
+    "error_not_directory": {
+        "message": "'$ARG1$' existerar men är inte en katalog",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "errors": {
+        "message": "Fel"
+    },
+    "exit_natmsgsh": {
+        "message": "Avsluta CoApp"
+    },
+    "explain_qr1": {
+        "message": "Du kommer att se att den färdiga videon har ett vattenmärke i hörnet."
+    },
+    "explain_qr2": {
+        "message": "Detta hände eftersom du valde en ADP-variant och konverteringsfunktionen inte har registrerats."
+    },
+    "export": {
+        "message": "Exportera"
+    },
+    "f4f_streaming": {
+        "message": "F4F-strömning"
+    },
+    "failed_aggregating": {
+        "message": "Misslyckades att samla \"$ARG1$\"",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "failed_converting": {
+        "message": "Misslyckades med att konvertera \"$ARG1$\"",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "failed_getting_info": {
+        "message": "Misslyckades att hämta info från \"$ARG1$\"",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "failed_opening_directory": {
+        "message": "Misslyckades med att öppna filkatalogen"
+    },
+    "failed_playing_file": {
+        "message": "Kunde inte spela filen"
+    },
+    "file_dialog_date": {
+        "message": "Datum"
+    },
+    "file_dialog_name": {
+        "message": "Namn"
+    },
+    "file_dialog_size": {
+        "message": "Storlek"
+    },
+    "file_generated": {
+        "message": "Filen \"$ARG1$\" har genererats.",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "file_ready": {
+        "message": "\"$ARG1$\" är nu redo",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "finalizing": {
+        "message": "Slutför..."
+    },
+    "from_domain": {
+        "message": "Från $ARG1$",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "gallery": {
+        "message": "Galleri"
+    },
+    "gallery_files_types": {
+        "message": "$ARG1$ filer",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "gallery_from_domain": {
+        "message": "Galleri från $ARG1$",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "gallery_links_from_domain": {
+        "message": "Länkar från $ARG1$",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "general": {
+        "message": "Allmänt"
+    },
+    "get_conversion_license": {
+        "message": "Skaffa en konverteringslicens"
+    },
+    "help_translating": {
+        "message": "Översättningshjälp"
+    },
+    "hit_details": {
+        "message": "Träffdetaljer"
+    },
+    "hit_go_to_tab": {
+        "message": "Gå till flik"
+    },
+    "hls_streaming": {
+        "message": "HLS-strömning"
+    },
+    "homepage": {
+        "message": "Hemsida"
+    },
+    "import": {
+        "message": "Importera"
+    },
+    "import_invalid_format": {
+        "message": "Ogiltigt format"
+    },
+    "in_current_tab": {
+        "message": "På aktuell flik"
+    },
+    "in_other_tab": {
+        "message": "På andra flikar"
+    },
+    "lic_not_needed_linux": {
+        "message": "Vårt bidrag till Linux: ingen licens krävs"
+    },
+    "lic_status_accepted": {
+        "message": "Licens verifierad"
+    },
+    "lic_status_blocked": {
+        "message": "Licens blockerad"
+    },
+    "lic_status_error": {
+        "message": "Licens fel"
+    },
+    "lic_status_locked": {
+        "message": "Licens låst (återge giltigheten)"
+    },
+    "lic_status_nocoapp": {
+        "message": "Licensen kunde inte bli verifierad"
+    },
+    "lic_status_unneeded": {
+        "message": "Licens ej behövd"
+    },
+    "lic_status_unset": {
+        "message": "Licens inte satt"
+    },
+    "lic_status_unverified": {
+        "message": "Licens inte verifierad"
+    },
+    "lic_status_verifying": {
+        "message": "Verifierar license"
+    },
+    "license": {
+        "message": "Licens"
+    },
+    "license_key": {
+        "message": "Licensnyckel"
+    },
+    "licensing": {
+        "message": "Ge licens"
+    },
+    "logs": {
+        "message": "Loggar"
+    },
+    "media": {
+        "message": "Media"
+    },
+    "more": {
+        "message": "Mer..."
+    },
+    "network_error_no_response": {
+        "message": "Nätverksfel - svarar inte"
+    },
+    "network_error_status": {
+        "message": "Nätverksfel - status $ARG1$",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "no": {
+        "message": "Nej"
+    },
+    "no_coapp_license_unverified": {
+        "message": "Licensen kunde inte verifieras eftersom kompanionsappen inte är installerad"
+    },
+    "no_license_registered": {
+        "message": "Ingen licens har blivit registrerad"
+    },
+    "no_media_current_tab": {
+        "message": "Ingen media att behandla i aktuell flik"
+    },
+    "no_media_to_process": {
+        "message": "Ingen media att behandla"
+    },
+    "no_media_to_process_descr": {
+        "message": "Spela upp videor för att hjälpa till att hitta filer…"
+    },
+    "no_such_hit": {
+        "message": "Ingen sådan träff"
+    },
+    "no_validate_without_coapp": {
+        "message": "Kompanionsappen måste bli installerad för att validera licensen"
+    },
+    "not_again_3months": {
+        "message": "Stör mig inte om detta i 3 månader"
+    },
+    "not_see_again": {
+        "message": "Visa inte detta meddelande igen"
+    },
+    "number_type": {
+        "message": "$ARG1$ $ARG2$",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            },
+            "arg2": {
+                "content": "$2"
+            }
+        }
+    },
+    "ok": {
+        "message": "OK"
+    },
+    "orphan": {
+        "message": "Föräldralös"
+    },
+    "pinned": {
+        "message": "Fäst"
+    },
+    "quality_medium": {
+        "message": "Mellan"
+    },
+    "quality_small": {
+        "message": "Låg"
+    },
+    "queued": {
+        "message": "Kölagd..."
+    },
+    "register_converter": {
+        "message": "Registrera konverterare"
+    },
+    "register_existing_license": {
+        "message": "Registrera en befintlig licens"
+    },
+    "registered_email": {
+        "message": "E-post"
+    },
+    "registered_key": {
+        "message": "Nyckel"
+    },
+    "req_donate": {
+        "message": "Skulle du vilja stödja utvecklingen och donera någonting?"
+    },
+    "req_review": {
+        "message": "Alternativt, kanske du vill skriva en snäll recension på Mozillas webbplats för tillägg?"
+    },
+    "req_review_link": {
+        "message": "Skriv en recension om Video DownloadHelper"
+    },
+    "running": {
+        "message": "Körs"
+    },
+    "save": {
+        "message": "Spara"
+    },
+    "select_files_to_convert": {
+        "message": "Konvertera lokala filer"
+    },
+    "settings": {
+        "message": "Inställningar"
+    },
+    "smartnamer_delay": {
+        "message": "Fördröj namngivning av inspelning (ms)"
+    },
+    "smartnamer_domain": {
+        "message": "Domän"
+    },
+    "smartnamer_get_name_from_header_url": {
+        "message": "Hämta namn från dokumentets sidhuvud/URL"
+    },
+    "smartnamer_get_name_from_page_content": {
+        "message": "Hämta namn från sidans innehåll"
+    },
+    "smartnamer_get_name_from_page_title": {
+        "message": "Hämta namn från sidans rubrik"
+    },
+    "smartnamer_get_obfuscated_name": {
+        "message": "Använd förvrängt namn"
+    },
+    "smartnamer_regexp": {
+        "message": "Reguljärt uttryck"
+    },
+    "smartnamer_selected_text": {
+        "message": "Markerad text"
+    },
+    "smartnamer_xpath_expr": {
+        "message": "XPath-uttryck"
+    },
+    "supported_sites": {
+        "message": "Webbplatser som stöds"
+    },
+    "tell_me_more": {
+        "message": "Berätta mer om detta"
+    },
+    "title": {
+        "message": "Video DownloadHelper"
+    },
+    "validate_license": {
+        "message": "Registrera licens"
+    },
+    "variants_list_adp": {
+        "message": "Adaptiva varianter"
+    },
+    "variants_list_full": {
+        "message": "Varianter"
+    },
+    "vdh_notification": {
+        "message": "Video DownloadHelper"
+    },
+    "version": {
+        "message": "Version $ARG1$",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "video_only": {
+        "message": "Endast video"
+    },
+    "video_qualities": {
+        "message": "Videokvaliteter"
+    },
+    "weh_prefs_dashOnAdp_option_audio": {
+        "message": "Ladda ned ljud"
+    },
+    "weh_prefs_dashOnAdp_option_audio_video": {
+        "message": "Slå samman ljud och video"
+    },
+    "weh_prefs_dashOnAdp_option_video": {
+        "message": "Ladda ned video"
+    },
+    "weh_prefs_description_adpHide": {
+        "message": "Visa inte ADP-varianter i nedladdningslistan"
+    },
+    "weh_prefs_description_autoPin": {
+        "message": "Fäst träffar efter nedladdning."
+    },
+    "weh_prefs_description_blacklistEnabled": {
+        "message": "Förhindra vissa webbplatser från att aktivera mediaigenkänningen."
+    },
+    "weh_prefs_description_chunksEnabled": {
+        "message": "Uppdelad strömning aktiverad"
+    },
+    "weh_prefs_description_converterAggregTuneH264": {
+        "message": "Tvinga H264-signal för samling"
+    },
+    "weh_prefs_description_dashHideM4s": {
+        "message": "Visa inte .m4s-filer i nedladdningslistan"
+    },
+    "weh_prefs_description_dashOnAdp": {
+        "message": "När DASH innehåller ljud och video"
+    },
+    "weh_prefs_description_downloadControlledMax": {
+        "message": "Kontrollerar antalet samtidiga nedladdningar som genereras av tillägg för att bevara lite bandbredd."
+    },
+    "weh_prefs_description_downloadRetries": {
+        "message": "Antal nedladdningsförsök"
+    },
+    "weh_prefs_description_downloadRetryDelay": {
+        "message": "Fördröjning mellan nedladdningsförsök (ms)"
+    },
+    "weh_prefs_description_hlsDownloadAsM2ts": {
+        "message": "Ladda ned HLS-strömmar som M2TS"
+    },
+    "weh_prefs_description_mediaweightMinSize": {
+        "message": "Ignorera träffar under denna storlek."
+    },
+    "weh_prefs_description_mediaweightThreshold": {
+        "message": "Tvinga mediasökning över denna storlek."
+    },
+    "weh_prefs_description_mpegtsHideTs": {
+        "message": "Visa inte .ts-filer i nedladdningslistan"
+    },
+    "weh_prefs_description_networkFilterOut": {
+        "message": "Reguljärt uttryck för att ignorera några mediaadresser."
+    },
+    "weh_prefs_description_noPrivateNotification": {
+        "message": "Ingen notifikation för privata träffar"
+    },
+    "weh_prefs_description_notifyReady": {
+        "message": "Meddela när allt är färdigt"
+    },
+    "weh_prefs_description_orphanExpiration": {
+        "message": "Timeout i sekunder innan föräldralösa träffar tas bort."
+    },
+    "weh_prefs_description_qualitiesMaxVariants": {
+        "message": "Maximalt antal synliga varianter av samma video."
+    },
+    "weh_prefs_description_smartnamerFnameMaxlen": {
+        "message": "Ser till att genererade filnamn inte överstrider denna storlek."
+    },
+    "weh_prefs_iconActivation_option_anytab": {
+        "message": "Träffar från alla flikar"
+    },
+    "weh_prefs_iconActivation_option_currenttab": {
+        "message": "Träffar från aktuell flik"
+    },
+    "weh_prefs_iconBadge_option_activetab": {
+        "message": "Media från aktiv flik"
+    },
+    "weh_prefs_iconBadge_option_anytab": {
+        "message": "Media från alla flikar"
+    },
+    "weh_prefs_iconBadge_option_mixed": {
+        "message": "Blandad"
+    },
+    "weh_prefs_iconBadge_option_none": {
+        "message": "Ingen"
+    },
+    "weh_prefs_iconBadge_option_pinned": {
+        "message": "Fästade träffar"
+    },
+    "weh_prefs_iconBadge_option_tasks": {
+        "message": "Pågående uppgifter"
+    },
+    "weh_prefs_label_autoPin": {
+        "message": "Fäst automatiskt"
+    },
+    "weh_prefs_label_avplayEnabled": {
+        "message": "Spelare aktiverad"
+    },
+    "weh_prefs_label_blacklistEnabled": {
+        "message": "Aktivera svartlista"
+    },
+    "weh_prefs_label_chunksConcurrentDownloads": {
+        "message": "Samtidiga uppdelade nedladdningar"
+    },
+    "weh_prefs_label_chunksEnabled": {
+        "message": "Uppdelad ström"
+    },
+    "weh_prefs_label_chunksPrefetchCount": {
+        "message": "Antal förhämtade delar"
+    },
+    "weh_prefs_label_converterThreads": {
+        "message": "Konverteringstrådar"
+    },
+    "weh_prefs_label_dashEnabled": {
+        "message": "DASH aktiverad"
+    },
+    "weh_prefs_label_downloadControlledMax": {
+        "message": "Max antal samtidiga nedladdningar"
+    },
+    "weh_prefs_label_f4fEnabled": {
+        "message": "F4F aktiverad"
+    },
+    "weh_prefs_label_hitsGotoTab": {
+        "message": "Visa knapp för att byta flik"
+    },
+    "weh_prefs_label_hlsEnabled": {
+        "message": "HLS aktiverad"
+    },
+    "weh_prefs_label_iconActivation": {
+        "message": "Ikonaktivering"
+    },
+    "weh_prefs_label_iconBadge": {
+        "message": "Ikon"
+    },
+    "weh_prefs_label_ignoreProtectedVariants": {
+        "message": "Ignorera skyddade varianter"
+    },
+    "weh_prefs_label_mediaExtensions": {
+        "message": "Filändelser att söka"
+    },
+    "weh_prefs_label_medialinkMinImgSize": {
+        "message": "Minimal bildstorlek"
+    },
+    "weh_prefs_label_medialinkScanImages": {
+        "message": "Hitta inbäddade bilder"
+    },
+    "weh_prefs_label_medialinkScanLinks": {
+        "message": "Hitta länkar till media"
+    },
+    "weh_prefs_label_mediaweightMinSize": {
+        "message": "Minimal storlek"
+    },
+    "weh_prefs_label_mediaweightThreshold": {
+        "message": "Storlekströskel"
+    },
+    "weh_prefs_label_networkFilterOut": {
+        "message": "Nätverksfiltrering"
+    },
+    "weh_prefs_label_networkProbe": {
+        "message": "Nätverksavkänning"
+    },
+    "weh_prefs_label_orphanExpiration": {
+        "message": "Timeout när föräldralösa utlöper"
+    },
+    "weh_prefs_label_qualitiesMaxVariants": {
+        "message": "Max antal varianter"
+    },
+    "weh_prefs_label_smartnamerFnameMaxlen": {
+        "message": "Max filnamnslängd"
+    },
+    "weh_prefs_label_smartnamerFnameSpaces": {
+        "message": "Långa rubriker i huvudpanelen"
+    },
+    "weh_prefs_label_titleMode": {
+        "message": "Långa rubriker i huvudpanelen"
+    },
+    "weh_prefs_label_toolsMenuEnabled": {
+        "message": "Verktygsmeny"
+    },
+    "weh_prefs_smartnamerFnameSpaces_option_hyphen": {
+        "message": "Ersätt med bindestreck"
+    },
+    "weh_prefs_smartnamerFnameSpaces_option_keep": {
+        "message": "Behåll"
+    },
+    "weh_prefs_smartnamerFnameSpaces_option_remove": {
+        "message": "Ta bort"
+    },
+    "weh_prefs_smartnamerFnameSpaces_option_underscore": {
+        "message": "Ersätt med understreck"
+    },
+    "weh_prefs_titleMode_option_left": {
+        "message": "Punkter till vänster"
+    },
+    "weh_prefs_titleMode_option_multiline": {
+        "message": "Över flera rader"
+    },
+    "weh_prefs_titleMode_option_right": {
+        "message": "Punkter till höger"
+    },
+    "yes": {
+        "message": "Ja"
+    },
+    "you_downloaded_n_videos": {
+        "message": "Du har precis laddat ned $ARG1$ filer med Video DownloadHelper.",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    }
+}

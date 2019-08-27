@@ -1,0 +1,38 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+    "name": "转盘助手",
+    "version": "2.0.2",
+    "description": "用一个漂亮丰富的页面替换您的新标签页。新标签页包含浏览器便捷操作、背景随心切换下载、时间提醒和聚合搜索等贴心功能",
+	"manifest_version": 2,
+    "icons":
+    {
+        "16": "img/icon_16_16.png",
+        "48": "img/icon_48_48.png",
+        "128": "img/icon_128_128.png"
+    },
+    "background":{"page": "background.html"},
+    "content_scripts": 
+    [
+        {
+            "matches": ["*://pan.baidu.com/*"],
+            "js": ["js/jquery-2.1.1.min.js", "js/resource/resource.js"],
+            "run_at": "document_end"
+        }
+    ],
+    "browser_action": {"defaule_title": "转盘助手，简单搜索，给您好看"},
+    "chrome_url_overrides": {"newtab": "dashboard.html"},
+    "permissions":
+    [
+    	"https://www.quzhuanpan.com/*",
+        "https://pan.baidu.com/*",
+		"storage",
+		"tabs",
+		"history",
+		"chrome://favicon/",
+		"topSites",
+		"contextMenus"
+    ],
+    "web_accessible_resources": ["img/*"],
+	"homepage_url": "https://www.quzhuanpan.com"
+}

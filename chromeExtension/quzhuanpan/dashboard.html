@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>转盘助手 - 给您方便，简单搜索</title>
+<meta name="viewport" content="width=device-width">
+<link rel="stylesheet" href="font/iconfont.css">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/animate.min.css">
+<link rel="stylesheet" href="css/dashboard/dashboard.css">
+</head>
+<body>
+<div id="main-view" style="display: block;">
+	<ul id="background" class="background">
+		<li class="fadein"></li>
+	</ul>
+	<div class="container">
+		<div class="header">
+			<div class="pull-left search-left">
+				<div class="header-search-box header-search-box-border">
+					<b><span class="iconfont icon-search search-btn"></span></b>
+					<select class="search-select" id="search-select">
+						<option value="https://www.baidu.com/s?wd=@">百度</option>
+						<option value="https://www.quzhuanpan.com/source/search.action?q=@&amp;currentPage=1">资源</option>
+						<option value="https://www.wocali.com/s/search.action?q=@&amp;currentPage=1">文库</option>
+						<option value="https://www.zhihu.com/search?type=content&amp;q=@">知乎</option>
+						<option value="https://s.weibo.com/weibo/@">微博</option>
+					</select>
+					<input class="search-input" id="search-keyword-input" type="text" placeholder="请输入搜索关键字"/>
+				</div>
+			</div>
+			<div class="pull-right menu-right">
+				<a data-href="chrome://bookmarks"><b>书签记录</b></a>
+				<a data-href="chrome://history"><b>历史记录</b></a>
+				<a data-href="chrome://extensions"><b>扩展程序</b></a>
+				<a data-href="chrome://settings"><b>浏览器设置</b></a>
+				<a data-href="https://www.quzhuanpan.com/browser/plugin" id="currentVersion"><b>插件主页</b></a>
+			</div>
+		</div>
+		<div class="middle-box" style="display: none;">
+			<div class="current-time">11:50:26</div>
+		</div>
+		<div class="most-visited">
+			<div class="websites"></div>
+			<div class="notification-1"></div>
+		</div>
+		<div class="footer">
+			<div class="footer-piece background-download" title="下载壁纸">
+				<a href="##" id="download-img-href" download><span class="iconfont icon-download"></span></a>
+			</div>
+			<div class="footer-piece plugin-setting" title="插件设置">
+				<span class="iconfont icon-setting"></span>
+			</div>
+			<div class="footer-piece" style="display: none;">
+				<span class="iconfont icon-message"></span>
+				<div id="show-message" style="display: inline-block;font-size: 13px;"></div>
+			</div>
+		</div>
+	</div>
+	<div class="shade" id="shade" style="display: none;">
+		<div class="dialog-box">
+			<div class="dialog-header">
+				<img src="img/close_black.png" id="top-shade-close"/>
+			</div>
+			<div class="dialog-content">
+				<div>
+					<h3>背景类型：</h3>
+					<div class="background-type-radio"></div>
+				</div>
+			</div>
+			<div class="dialog-footer">
+				<button class="save-btn" id="bottom-save-btn">保存</button>
+				<button class="cancel-btn" id="bottom-shae-close">取消</button>
+			</div>
+		</div>
+	</div>
+</div>
+<script src="js/jquery-2.1.1.min.js"></script>
+<script src="js/dashboard/dashboard.js"></script>
+</body>
+</html>

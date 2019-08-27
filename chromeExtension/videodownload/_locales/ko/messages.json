@@ -1,0 +1,599 @@
+{
+    "Bytes": {
+        "message": "$ARG1$ 바이트",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "KB": {
+        "message": "$ARG1$ KB",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "MB": {
+        "message": "$ARG1$ MB",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "__localeName": {
+        "message": "ko"
+    },
+    "__missingI18nTags": {
+        "message": "[\"GB\",\"about_alpha_extra7_fx\",\"action_avplay_description\",\"action_avplay_title\",\"action_bulkdownload_description\",\"action_bulkdownload_title\",\"action_bulkdownloadconvert_description\",\"action_bulkdownloadconvert_title\",\"action_openlocalcontainer_description\",\"action_openlocalcontainer_title\",\"action_stop_description\",\"action_stop_title\",\"blacklist_add_domain\",\"blacklist_add_placeholder\",\"blacklist_edit_descr\",\"blacklist_empty\",\"browser_info\",\"browser_locale\",\"build_options\",\"built_on\",\"bulk_in_progress\",\"bulk_n_videos\",\"change\",\"chrome_basic_mode\",\"chrome_inapp_descr_premium_lifetime\",\"chrome_inapp_descr_premium_monthly\",\"chrome_inapp_descr_premium_yearly\",\"chrome_inapp_not_avail\",\"chrome_inapp_premium_lifetime\",\"chrome_inapp_premium_monthly\",\"chrome_inapp_premium_yearly\",\"chrome_install_firefox\",\"chrome_install_fx_vdh\",\"chrome_licensing\",\"chrome_noyt_text\",\"chrome_noyt_text2\",\"chrome_premium_audio\",\"chrome_premium_check_error\",\"chrome_premium_hls\",\"chrome_premium_mode\",\"chrome_premium_need_sign\",\"chrome_premium_not_signed\",\"chrome_premium_recheck\",\"chrome_premium_required\",\"chrome_premium_source\",\"chrome_product_intro\",\"chrome_req_review\",\"chrome_signing_in\",\"chrome_verif_premium\",\"chrome_verif_premium_error\",\"chrome_warning_yt\",\"clear\",\"clear_logs\",\"coapp\",\"coapp_error\",\"coapp_found\",\"coapp_install\",\"coapp_installed\",\"coapp_latest_version\",\"coapp_not_installed\",\"coapp_outdated\",\"coapp_outofdate\",\"coapp_outofdate_text\",\"coapp_path\",\"coapp_recheck\",\"coapp_required\",\"coapp_required_text\",\"coapp_shell\",\"coapp_unchecked\",\"coapp_update\",\"collecting\",\"confirmation_required\",\"conversion_create_rule\",\"conversion_rules\",\"conversion_update_rule\",\"converter_queued\",\"convrule_convert\",\"convrule_domain\",\"convrule_extension\",\"convrule_format\",\"convrule_from_domain\",\"convrule_no_convert\",\"convrule_output_format\",\"convrule_refresh_formats\",\"convrule_with_ext\",\"convrules_add_rule\",\"convrules_edit_descr\",\"convrules_empty\",\"corrupted_media_file\",\"create\",\"dash_streaming\",\"default\",\"dev_build\",\"directory_not_exist\",\"directory_not_exist_body\",\"download_error\",\"download_method\",\"download_method_not_again\",\"download_modes1\",\"download_modes2\",\"download_with_browser\",\"download_with_coapp\",\"error\",\"error_not_directory\",\"exit_natmsgsh\",\"export\",\"failed_opening_directory\",\"failed_playing_file\",\"file_dialog_date\",\"file_dialog_size\",\"finalizing\",\"help_translating\",\"hit_go_to_tab\",\"hls_streaming\",\"homepage\",\"import\",\"import_invalid_format\",\"lic_not_needed_linux\",\"lic_status_accepted\",\"lic_status_blocked\",\"lic_status_error\",\"lic_status_locked\",\"lic_status_nocoapp\",\"lic_status_unneeded\",\"lic_status_unset\",\"lic_status_unverified\",\"lic_status_verifying\",\"license\",\"licensing\",\"network_error_no_response\",\"network_error_status\",\"new_sub_directory\",\"no\",\"no_coapp_license_unverified\",\"no_license_registered\",\"no_media_current_tab\",\"no_media_to_process_descr\",\"no_such_hit\",\"no_validate_without_coapp\",\"ok\",\"output_configuration\",\"overwrite_file\",\"per_month\",\"per_year\",\"platform\",\"platform_info\",\"powered_by_weh\",\"preferences\",\"prod_build\",\"recheck_license\",\"reload_addon\",\"reload_addon_confirm\",\"req_locale\",\"reset_settings\",\"save_as\",\"save_file_as\",\"select_output_config\",\"select_output_directory\",\"selected_media\",\"settings\",\"smartname_add_domain\",\"smartname_create_rule\",\"smartname_define\",\"smartname_edit_descr\",\"smartname_empty\",\"smartname_update_rule\",\"smartnamer_delay\",\"smartnamer_get_name_from_header_url\",\"smartnamer_get_name_from_page_content\",\"smartnamer_get_name_from_page_title\",\"smartnamer_get_obfuscated_name\",\"smartnamer_regexp\",\"smartnamer_selected_text\",\"smartnamer_xpath_expr\",\"smartnaming_rule\",\"smartnaming_rules\",\"sub_directory_name\",\"support_forum\",\"supported_sites\",\"tbsn_quality_hd\",\"tbsn_quality_sd\",\"tell_me_more\",\"title\",\"translation\",\"up\",\"validate_license\",\"variants_list_full\",\"vdh_notification\",\"version\",\"video_only\",\"video_qualities\",\"weh_prefs_alertDialogType_option_panel\",\"weh_prefs_alertDialogType_option_tab\",\"weh_prefs_coappDownloads_option_ask\",\"weh_prefs_coappDownloads_option_browser\",\"weh_prefs_coappDownloads_option_coapp\",\"weh_prefs_dashOnAdp_option_audio\",\"weh_prefs_dashOnAdp_option_audio_video\",\"weh_prefs_dashOnAdp_option_video\",\"weh_prefs_description_adpHide\",\"weh_prefs_description_alertDialogType\",\"weh_prefs_description_avplayEnabled\",\"weh_prefs_description_bulkEnabled\",\"weh_prefs_description_checkCoappOnStartup\",\"weh_prefs_description_chunkedCoappDataRequests\",\"weh_prefs_description_chunkedCoappManifestsRequests\",\"weh_prefs_description_chunksConcurrentDownloads\",\"weh_prefs_description_chunksEnabled\",\"weh_prefs_description_chunksPrefetchCount\",\"weh_prefs_description_coappDownloads\",\"weh_prefs_description_coappIdleExit\",\"weh_prefs_description_coappRestartDelay\",\"weh_prefs_description_coappUseProxy\",\"weh_prefs_description_contentRedirectEnabled\",\"weh_prefs_description_contextMenuEnabled\",\"weh_prefs_description_convertControlledMax\",\"weh_prefs_description_converterKeepTmpFiles\",\"weh_prefs_description_converterThreads\",\"weh_prefs_description_dashEnabled\",\"weh_prefs_description_dashHideM4s\",\"weh_prefs_description_dashOnAdp\",\"weh_prefs_description_dialogAutoClose\",\"weh_prefs_description_downloadRetries\",\"weh_prefs_description_downloadRetryDelay\",\"weh_prefs_description_downloadStreamControlledMax\",\"weh_prefs_description_f4fEnabled\",\"weh_prefs_description_fileDialogType\",\"weh_prefs_description_galleryNaming\",\"weh_prefs_description_hitsGotoTab\",\"weh_prefs_description_hlsDownloadAsM2ts\",\"weh_prefs_description_hlsEnabled\",\"weh_prefs_description_iconActivation\",\"weh_prefs_description_iconBadge\",\"weh_prefs_description_ignoreProtectedVariants\",\"weh_prefs_description_lastDownloadDirectory\",\"weh_prefs_description_mediaExtensions\",\"weh_prefs_description_medialinkAutoDetect\",\"weh_prefs_description_medialinkExtensions\",\"weh_prefs_description_medialinkMaxHits\",\"weh_prefs_description_medialinkMinFilesPerGroup\",\"weh_prefs_description_medialinkMinImgSize\",\"weh_prefs_description_medialinkScanImages\",\"weh_prefs_description_medialinkScanLinks\",\"weh_prefs_description_monitorNetworkRequests\",\"weh_prefs_description_mpegtsHideTs\",\"weh_prefs_description_networkProbe\",\"weh_prefs_description_rememberLastDir\",\"weh_prefs_description_smartnamerFnameMaxlen\",\"weh_prefs_description_smartnamerFnameSpaces\",\"weh_prefs_description_tbsnEnabled\",\"weh_prefs_description_titleMode\",\"weh_prefs_description_toolsMenuEnabled\",\"weh_prefs_fileDialogType_option_panel\",\"weh_prefs_fileDialogType_option_tab\",\"weh_prefs_galleryNaming_option_index_url\",\"weh_prefs_galleryNaming_option_type_index\",\"weh_prefs_galleryNaming_option_url\",\"weh_prefs_label_adpHide\",\"weh_prefs_label_alertDialogType\",\"weh_prefs_label_avplayEnabled\",\"weh_prefs_label_bulkEnabled\",\"weh_prefs_label_checkCoappOnStartup\",\"weh_prefs_label_chunkedCoappDataRequests\",\"weh_prefs_label_chunkedCoappManifestsRequests\",\"weh_prefs_label_chunksConcurrentDownloads\",\"weh_prefs_label_chunksEnabled\",\"weh_prefs_label_chunksPrefetchCount\",\"weh_prefs_label_coappDownloads\",\"weh_prefs_label_coappIdleExit\",\"weh_prefs_label_coappRestartDelay\",\"weh_prefs_label_coappUseProxy\",\"weh_prefs_label_contentRedirectEnabled\",\"weh_prefs_label_contextMenuEnabled\",\"weh_prefs_label_convertControlledMax\",\"weh_prefs_label_converterAggregTuneH264\",\"weh_prefs_label_converterKeepTmpFiles\",\"weh_prefs_label_dashEnabled\",\"weh_prefs_label_dashHideM4s\",\"weh_prefs_label_dashOnAdp\",\"weh_prefs_label_dialogAutoClose\",\"weh_prefs_label_downloadRetries\",\"weh_prefs_label_downloadRetryDelay\",\"weh_prefs_label_downloadStreamControlledMax\",\"weh_prefs_label_fileDialogType\",\"weh_prefs_label_galleryNaming\",\"weh_prefs_label_hitsGotoTab\",\"weh_prefs_label_hlsDownloadAsM2ts\",\"weh_prefs_label_hlsEnabled\",\"weh_prefs_label_lastDownloadDirectory\",\"weh_prefs_label_medialinkAutoDetect\",\"weh_prefs_label_medialinkExtensions\",\"weh_prefs_label_medialinkMaxHits\",\"weh_prefs_label_medialinkMinFilesPerGroup\",\"weh_prefs_label_monitorNetworkRequests\",\"weh_prefs_label_mpegtsHideTs\",\"weh_prefs_label_noPrivateNotification\",\"weh_prefs_label_notifyReady\",\"weh_prefs_label_rememberLastDir\",\"weh_prefs_label_smartnamerFnameMaxlen\",\"weh_prefs_label_smartnamerFnameSpaces\",\"weh_prefs_label_tbsnEnabled\",\"weh_prefs_label_titleMode\",\"weh_prefs_label_toolsMenuEnabled\",\"weh_prefs_smartnamerFnameSpaces_option_hyphen\",\"weh_prefs_smartnamerFnameSpaces_option_keep\",\"weh_prefs_smartnamerFnameSpaces_option_remove\",\"weh_prefs_smartnamerFnameSpaces_option_underscore\",\"weh_prefs_titleMode_option_left\",\"weh_prefs_titleMode_option_multiline\",\"weh_prefs_titleMode_option_right\",\"yes\",\"you_downloaded_n_videos\"]"
+    },
+    "about": {
+        "message": "정보"
+    },
+    "about_alpha_intro": {
+        "message": "현재 알파 버전입니다."
+    },
+    "about_beta_intro": {
+        "message": "현재 베타 버전입니다."
+    },
+    "about_qr": {
+        "message": "파일 생성됨"
+    },
+    "about_vdh": {
+        "message": "Video DownloadHelper 정보"
+    },
+    "action_abort_description": {
+        "message": "진행중인 작업 중단"
+    },
+    "action_abort_title": {
+        "message": "중단"
+    },
+    "action_as_default": {
+        "message": "이 작업을 기본값으로 사용"
+    },
+    "action_blacklist_description": {
+        "message": "선택된 도메인에서 제공하는 비디오는 무시됩니다."
+    },
+    "action_blacklist_title": {
+        "message": "차단 목록에 추가"
+    },
+    "action_copyurl_description": {
+        "message": "미디어 URL을 클립보드로 복사합니다."
+    },
+    "action_copyurl_title": {
+        "message": "URL 복사"
+    },
+    "action_deletehit_description": {
+        "message": "현재 목록에서 개체를 제거합니다."
+    },
+    "action_deletehit_title": {
+        "message": "제거"
+    },
+    "action_details_description": {
+        "message": "이 개체에 대한 상세 정보를 표시합니다."
+    },
+    "action_details_title": {
+        "message": "상세 정보"
+    },
+    "action_download_description": {
+        "message": "하드 디스크에 파일을 다운로드합니다."
+    },
+    "action_download_title": {
+        "message": "다운로드"
+    },
+    "action_downloadconvert_description": {
+        "message": "미디어를 다운로드하고 다른 포맷으로 변환합니다."
+    },
+    "action_downloadconvert_title": {
+        "message": "다운로드 및 변환"
+    },
+    "action_openlocalfile_description": {
+        "message": "로컬 미디어 파일을 엽니다."
+    },
+    "action_openlocalfile_title": {
+        "message": "미디어 열기"
+    },
+    "action_pin_description": {
+        "message": "이 개체를 핀 목록에 추가합니다."
+    },
+    "action_pin_title": {
+        "message": "핀"
+    },
+    "action_quickdownload_description": {
+        "message": "위치를 묻지 않고 빠르게 다운로드합니다."
+    },
+    "action_quickdownload_title": {
+        "message": "빠른 다운로드"
+    },
+    "adaptative": {
+        "message": "적응 $ARG1$",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "add_to_blacklist": {
+        "message": "차단 목록에 추가"
+    },
+    "add_to_blacklist_help": {
+        "message": "선택된 도메인에서 제공하는 비디오는 무시됩니다."
+    },
+    "advanced": {
+        "message": "고급 모드"
+    },
+    "aggregating": {
+        "message": "모으는 중..."
+    },
+    "analyze_page": {
+        "message": "페이지 분석"
+    },
+    "appearance": {
+        "message": "외형"
+    },
+    "audio_only": {
+        "message": "오디오"
+    },
+    "behavior": {
+        "message": "동작"
+    },
+    "blacklist": {
+        "message": "차단 목록"
+    },
+    "cancel": {
+        "message": "취소"
+    },
+    "clear_hits": {
+        "message": "개체 지우기"
+    },
+    "congratulations": {
+        "message": "축하합니다!"
+    },
+    "continue": {
+        "message": "계속"
+    },
+    "convconf_2passes": {
+        "message": "2-패스"
+    },
+    "convconf_ac": {
+        "message": "오디오 채널"
+    },
+    "convconf_acnone": {
+        "message": "없음"
+    },
+    "convconf_acodec": {
+        "message": "오디오 코덱"
+    },
+    "convconf_aspect": {
+        "message": "화면 비율"
+    },
+    "convconf_audiobitrate": {
+        "message": "오디오 비트레이트"
+    },
+    "convconf_audiofreq": {
+        "message": "오디오 주파수"
+    },
+    "convconf_audioonly": {
+        "message": "오디오 전용"
+    },
+    "convconf_bitrate": {
+        "message": "비트레이트"
+    },
+    "convconf_container": {
+        "message": "포맷"
+    },
+    "convconf_duplicate": {
+        "message": "복제"
+    },
+    "convconf_ext": {
+        "message": "출력 파일 확장자"
+    },
+    "convconf_extra": {
+        "message": "추가 매개 변수"
+    },
+    "convconf_level": {
+        "message": "레벨"
+    },
+    "convconf_mono": {
+        "message": "모노"
+    },
+    "convconf_new": {
+        "message": "신규"
+    },
+    "convconf_preset": {
+        "message": "프리셋"
+    },
+    "convconf_profilev": {
+        "message": "비디오 프로필"
+    },
+    "convconf_rate": {
+        "message": "프레임 레이트"
+    },
+    "convconf_readonly": {
+        "message": "기본 설정이 읽기 전용입니다. 복제한 후 수정해주세요."
+    },
+    "convconf_remove": {
+        "message": "제거"
+    },
+    "convconf_reset": {
+        "message": "모두 초기화"
+    },
+    "convconf_reset_confirm": {
+        "message": "모든 커스텀 설정들을 제거하게 됩니다."
+    },
+    "convconf_save": {
+        "message": "저장"
+    },
+    "convconf_size": {
+        "message": "프레임 사이즈"
+    },
+    "convconf_stereo": {
+        "message": "스테레오"
+    },
+    "convconf_target": {
+        "message": "대상"
+    },
+    "convconf_tune": {
+        "message": "튠"
+    },
+    "convconf_vcodec": {
+        "message": "비디오 코덱"
+    },
+    "convconf_videobitrate": {
+        "message": "비디오 비트레이트"
+    },
+    "conversion_outputs": {
+        "message": "변환 출력"
+    },
+    "convert": {
+        "message": "변환"
+    },
+    "convert_local_files": {
+        "message": "로컬 파일 변환"
+    },
+    "converter_needed_aggregate": {
+        "message": "이 작업은 비디오 및 오디오 스트림을 집계하기 위해 시스템에 변환기가 설치되어 있어야합니다."
+    },
+    "converter_needed_aggregate_why": {
+        "message": "왜 변환기가 필요한가요 ?"
+    },
+    "converter_needs_reg": {
+        "message": "등록 필요"
+    },
+    "converter_reg_audio": {
+        "message": "명시한 사항 혹은 자동 변환 규칙에 의한 오디오 전용 미디어 파일의 생성을 요청하였습니다. 이 기능은 등록된 변환기가 필요합니다."
+    },
+    "converting": {
+        "message": "변환 중..."
+    },
+    "copy_of": {
+        "message": "$ARG1$ 개 복사",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "custom_output": {
+        "message": "커스텀 출력 포맷"
+    },
+    "details_parenthesis": {
+        "message": "(상세 정보)"
+    },
+    "dlconv_download_and_convert": {
+        "message": "다운로드 및 변환"
+    },
+    "dlconv_output_details": {
+        "message": "출력 상세 정보 구성"
+    },
+    "donate": {
+        "message": "기부"
+    },
+    "donate_vdh": {
+        "message": "Video DownloadHelper 도움말"
+    },
+    "downloading": {
+        "message": "다운로드 중..."
+    },
+    "errors": {
+        "message": "에러"
+    },
+    "explain_qr1": {
+        "message": "결과 비디오 코너 부분에 워터마크가 있는 것을 볼 수 있습니다."
+    },
+    "explain_qr2": {
+        "message": "이것은 변환 기능이 등록되어 있지 않기 때문입니다."
+    },
+    "f4f_streaming": {
+        "message": "F4F 스트리밍"
+    },
+    "failed_aggregating": {
+        "message": "\"$ARG1$\" 를 모으는 데 실패했습니다.",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "failed_converting": {
+        "message": "\"$ARG1$\" 를 변환하는 데 실패했습니다.",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "failed_getting_info": {
+        "message": "\"$ARG1$\" 에서 정보를 얻는 데 실패했습니다.",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "file_dialog_name": {
+        "message": "이름"
+    },
+    "file_generated": {
+        "message": "파일 \"$ARG1$\" 가 생성되었습니다.",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "file_ready": {
+        "message": "\"$ARG1$\" 가 준비되었습니다.",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "from_domain": {
+        "message": "$ARG1$ 로부터",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "gallery": {
+        "message": "갤러리"
+    },
+    "gallery_files_types": {
+        "message": "$ARG1$ 파일",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "gallery_from_domain": {
+        "message": "$ARG1$ 의 갤러리",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "gallery_links_from_domain": {
+        "message": "$ARG1$ 의 링크",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            }
+        }
+    },
+    "general": {
+        "message": "일반"
+    },
+    "get_conversion_license": {
+        "message": "변환 라이센스 얻기"
+    },
+    "hit_details": {
+        "message": "개체 상세 정보"
+    },
+    "in_current_tab": {
+        "message": "현재 탭"
+    },
+    "in_other_tab": {
+        "message": "다른 탭"
+    },
+    "license_key": {
+        "message": "라이센스 키"
+    },
+    "logs": {
+        "message": "로그"
+    },
+    "media": {
+        "message": "미디어"
+    },
+    "more": {
+        "message": "더 보기..."
+    },
+    "no_media_to_process": {
+        "message": "진행할 미디어가 없음"
+    },
+    "not_again_3months": {
+        "message": "3 개월 동안 다시 귀찮게 하지 마십시오."
+    },
+    "not_see_again": {
+        "message": "이 메세지를 다시 보지 않습니다."
+    },
+    "number_type": {
+        "message": "$ARG1$ $ARG2$",
+        "placeholders": {
+            "arg1": {
+                "content": "$1"
+            },
+            "arg2": {
+                "content": "$2"
+            }
+        }
+    },
+    "orphan": {
+        "message": "실종 개체"
+    },
+    "pinned": {
+        "message": "핀 됨"
+    },
+    "quality_medium": {
+        "message": "중간"
+    },
+    "quality_small": {
+        "message": "낮음"
+    },
+    "queued": {
+        "message": "대기 중..."
+    },
+    "register_converter": {
+        "message": "변환기 등록"
+    },
+    "register_existing_license": {
+        "message": "이미 구매한 라이센스 등록"
+    },
+    "registered_email": {
+        "message": "이메일"
+    },
+    "registered_key": {
+        "message": "키"
+    },
+    "req_donate": {
+        "message": "개발을 지원하고 조그만한 것이라도 기부하길 원하십니까?"
+    },
+    "req_review": {
+        "message": "다른 방법으로, 모질라 부가기능 웹사이트에서 좋은 리뷰를 쓰는 것은 어떨까요?"
+    },
+    "req_review_link": {
+        "message": "Video DownloadHelper 리뷰 작성"
+    },
+    "running": {
+        "message": "실행 중"
+    },
+    "save": {
+        "message": "저장"
+    },
+    "select_files_to_convert": {
+        "message": "로컬 파일 변환"
+    },
+    "smartnamer_domain": {
+        "message": "도메인"
+    },
+    "variants_list_adp": {
+        "message": "적응형 변종"
+    },
+    "weh_prefs_description_autoPin": {
+        "message": "다운로드 후 개체를 핀합니다."
+    },
+    "weh_prefs_description_blacklistEnabled": {
+        "message": "일부 사이트에서 미디어를 인식하는 것을 방지합니다."
+    },
+    "weh_prefs_description_converterAggregTuneH264": {
+        "message": "강제 H264 집합 튜닝"
+    },
+    "weh_prefs_description_downloadControlledMax": {
+        "message": "일부 대역폭을 유지하기 위해 애드온에서 진행되는 다운로드 대역폭을 제어합니다."
+    },
+    "weh_prefs_description_mediaweightMinSize": {
+        "message": "최소 크기 이하의 개체는 무시됩니다."
+    },
+    "weh_prefs_description_mediaweightThreshold": {
+        "message": "강제적으로 해당 크기 이상의 미디어를 감지합니다."
+    },
+    "weh_prefs_description_networkFilterOut": {
+        "message": "일반 표현식이 일부 미디어 URL들을 무시하게 합니다."
+    },
+    "weh_prefs_description_noPrivateNotification": {
+        "message": "개인 개체 알림이 없음"
+    },
+    "weh_prefs_description_notifyReady": {
+        "message": "진행되면 알리기"
+    },
+    "weh_prefs_description_orphanExpiration": {
+        "message": "실종 개체가 제거되기 까지의 시간(초)입니다."
+    },
+    "weh_prefs_description_qualitiesMaxVariants": {
+        "message": "같은 변종 비디오의 최대 표시 갯수를 지정합니다."
+    },
+    "weh_prefs_iconActivation_option_anytab": {
+        "message": "모든 탭의 개체"
+    },
+    "weh_prefs_iconActivation_option_currenttab": {
+        "message": "현재 탭의 개체"
+    },
+    "weh_prefs_iconBadge_option_activetab": {
+        "message": "활성화 탭의 미디어"
+    },
+    "weh_prefs_iconBadge_option_anytab": {
+        "message": "모든 탭의 미디어"
+    },
+    "weh_prefs_iconBadge_option_mixed": {
+        "message": "혼합됨"
+    },
+    "weh_prefs_iconBadge_option_none": {
+        "message": "없음"
+    },
+    "weh_prefs_iconBadge_option_pinned": {
+        "message": "핀 된 개체"
+    },
+    "weh_prefs_iconBadge_option_tasks": {
+        "message": "실행중인 작업"
+    },
+    "weh_prefs_label_autoPin": {
+        "message": "자동 핀"
+    },
+    "weh_prefs_label_blacklistEnabled": {
+        "message": "차단 목록 활성화"
+    },
+    "weh_prefs_label_converterThreads": {
+        "message": "변환 쓰레드"
+    },
+    "weh_prefs_label_downloadControlledMax": {
+        "message": "최대 동시 다운로드"
+    },
+    "weh_prefs_label_f4fEnabled": {
+        "message": "F4F 활성화"
+    },
+    "weh_prefs_label_iconActivation": {
+        "message": "아이콘 활성화"
+    },
+    "weh_prefs_label_iconBadge": {
+        "message": "아이콘 뱃지"
+    },
+    "weh_prefs_label_ignoreProtectedVariants": {
+        "message": "보호된 변형 개체 무시"
+    },
+    "weh_prefs_label_mediaExtensions": {
+        "message": "확장자 감지"
+    },
+    "weh_prefs_label_medialinkMinImgSize": {
+        "message": "최소 이미지 사이즈"
+    },
+    "weh_prefs_label_medialinkScanImages": {
+        "message": "내장 이미지 감지"
+    },
+    "weh_prefs_label_medialinkScanLinks": {
+        "message": "미디어 링크 감지"
+    },
+    "weh_prefs_label_mediaweightMinSize": {
+        "message": "최소 크기"
+    },
+    "weh_prefs_label_mediaweightThreshold": {
+        "message": "크기 임계 값"
+    },
+    "weh_prefs_label_networkFilterOut": {
+        "message": "네트워크 필터 아웃"
+    },
+    "weh_prefs_label_networkProbe": {
+        "message": "네트워크 조사"
+    },
+    "weh_prefs_label_orphanExpiration": {
+        "message": "실종 개체 만료 시간"
+    },
+    "weh_prefs_label_qualitiesMaxVariants": {
+        "message": "최대 변종 비디오"
+    }
+}

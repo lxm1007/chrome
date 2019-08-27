@@ -1,0 +1,1 @@
+function formatDate(e){var t=new Date(e),n=t.getFullYear(),r=t.getMonth()+1,a=t.getDate(),o=t.getHours(),u=t.getMinutes();t.getSeconds();return n+""+(r<10?"0"+r:r)+(a<10?"0"+a:a)+(o<10?"0"+o:o)+(u<10?"0"+u:u)}function sleep(e){for(var t=new Date,n=t.getTime()+e;;)if((t=new Date).getTime()>n)return}function createRandom(e,t){return Math.floor(Math.random()*(t-e)+e)}
