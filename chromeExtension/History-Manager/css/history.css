@@ -1,0 +1,325 @@
+@charset "utf-8";
+/*
+ * Base structure
+ */
+::-webkit-scrollbar { 
+    display: none; 
+}
+
+html{
+	height: 100%;
+}
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+}
+/*global define to erase the underline of the history link*/
+A:link{text-decoration:none;}
+A:visited{text-decoration:none;}
+A:active{text-decoration:none;}
+
+/*
+ * Top navigation
+ * Hide default border to remove 1px line.
+ */
+.navbar-fixed-top {
+  border: 0;
+}
+
+/*
+ * Sidebar
+ */
+
+/* Hide for mobile, show later */
+.sidebar {
+  display: none;
+}
+@media (min-width: 768px) {
+  .sidebar {
+    position: fixed;
+    top: 51px;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    display: block;
+    padding: 20px;
+    overflow-x: hidden;
+    overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+    background-color: #f5f5f5;
+    border-right: 1px solid #eee;
+  }
+}
+
+/* Sidebar navigation */
+.nav-sidebar {
+  margin-right: -21px; /* 20px padding + 1px border */
+  margin-bottom: 20px;
+  margin-left: -20px;
+  /*background-color: red;*/
+}
+.nav-sidebar > li > a {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.nav-sidebar > .active > a,
+.nav-sidebar > .active > a:hover,
+.nav-sidebar > .active > a:focus {
+  color: #fff;
+  background-color: #428bca;
+}
+
+/*
+ * Main content
+ */
+.title {
+/*        min-height: 2.5em;*/
+  padding: 0px 0px 0px 30px;
+  padding: 0px 10px 0px 30px;
+  display: block;
+  background: no-repeat 10px 0px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  vertical-align: middle;
+}
+
+.main {
+  padding: 20px;
+}
+@media (min-width: 768px) {
+  .main {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+}
+.main .page-header {
+  margin-top: 0;
+}
+
+.history_item {
+    margin-top: 15px;
+}
+
+.history_title {
+    font-size: 30px;
+}
+
+.history_url {
+    font-size: 15px;
+}
+
+.back-to-top{
+  position: fixed;
+  bottom: 15px;
+  right: 5px;
+  
+}
+.back-to-top:hover{
+  height: 38px;
+}
+
+.history_block li {
+  display:block;
+  max-width:800px;
+  margin-left:40px;
+  margin-right:10px;
+}
+
+.history_block li div {
+  display:block;
+  padding:8px;
+  background:#f5f5f5;
+  border-radius:8px;
+  box-shadow: 1px 1px 1px rgba(0,0,0,0.25); 
+  border:1px solid #eee;
+}
+
+.url{
+	font-size:12px;
+	color:#996;
+}
+/*a shake-rotate animation for the delete button*/
+@keyframes shake-rotate {
+ 0% {
+ transform: translate(0px, 0px) rotate(0deg)
+}
+ 4% {
+ transform: translate(0px, 0px) rotate(-10deg)
+}
+ 8% {
+ transform: translate(0px, 0px) rotate(10deg)
+}
+ 12% {
+ transform: translate(0px, 0px) rotate(-8deg)
+}
+ 16% {
+ transform: translate(0px, 0px) rotate(-4deg)
+}
+ 20% {
+ transform: translate(0px, 0px) rotate(-2deg)
+}
+ 24% {
+ transform: translate(0px, 0px) rotate(2deg)
+}
+ 28% {
+ transform: translate(0px, 0px) rotate(-10deg)
+}
+ 32% {
+ transform: translate(0px, 0px) rotate(6deg)
+}
+ 36% {
+ transform: translate(0px, 0px) rotate(14deg)
+}
+ 40% {
+ transform: translate(0px, 0px) rotate(8deg)
+}
+ 44% {
+ transform: translate(0px, 0px) rotate(12deg)
+}
+ 48% {
+ transform: translate(0px, 0px) rotate(10deg)
+}
+ 52% {
+ transform: translate(0px, 0px) rotate(-4deg)
+}
+ 56% {
+ transform: translate(0px, 0px) rotate(-16deg)
+}
+ 60% {
+ transform: translate(0px, 0px) rotate(14deg)
+}
+ 64% {
+ transform: translate(0px, 0px) rotate(-16deg)
+}
+ 68% {
+ transform: translate(0px, 0px) rotate(8deg)
+}
+ 72% {
+ transform: translate(0px, 0px) rotate(6deg)
+}
+ 76% {
+ transform: translate(0px, 0px) rotate(-6deg)
+}
+ 80% {
+ transform: translate(0px, 0px) rotate(-8deg)
+}
+ 84% {
+ transform: translate(0px, 0px) rotate(-4deg)
+}
+ 88% {
+ transform: translate(0px, 0px) rotate(10deg)
+}
+ 92% {
+ transform: translate(0px, 0px) rotate(10deg)
+}
+ 96% {
+ transform: translate(0px, 0px) rotate(8deg)
+}
+}
+.history_delete{
+  float: right;
+  cursor:pointer;
+  /*transform:scale(0.952,0.952);*/
+}
+.history_delete:hover{
+  -webkit-animation-name: shake-rotate;
+	animation-name: shake-rotate;
+	-webkit-animation-duration: 400ms;
+	animation-duration: 400ms;
+	-webkit-animation-iteration-count: infinite;
+	animation-iteration-count: infinite;
+	-webkit-animation-timing-function: ease-in-out;
+	animation-timing-function: ease-in-out;
+	-webkit-animation-delay: 0s;
+	animation-delay: 0s;
+	-webkit-animation-play-state: running;
+	animation-play-state: running
+}
+.history_time{
+  float: right;
+  margin-right: 25px;
+  color:#666;
+}
+
+.record { 
+	width:100%;
+	height:4%;
+	transition:transform 0.3s ease;
+}
+
+.record.important
+{
+  background:#ff8585;
+}
+
+.record:hover { 
+	background: rgb(204, 221, 255);
+	border:1px solid rgb(204, 221, 255);
+}
+.title:hover>.url{
+  color:black;
+}
+.record:hover>.title{
+	
+}
+.record.deleting{ 
+	transition:transform 0.3s ease-in;
+	transform:scale(0);
+}
+
+.search { 
+	margin-left:30px;
+	width:800px;
+	height:38px;
+}
+
+.calendar_button {
+  background-color:rgba(0,0,0,0);
+  background-image: url('../imgs/calendar.png');
+  float:left;
+  height:35px;
+  width:35px;
+  margin-left: 17px;
+  cursor:pointer;
+  -moz-background-size:35px 35px;
+  -webkit-background-size:35px 35px;
+  -o-background-size:35px 35px;
+  background-size:35px 35px;
+}
+.calendar_button:hover {
+  background-image: url('../imgs/calendar-hover.png');
+  float:left;
+  height:35px;
+  width:35px;
+  cursor:pointer;
+  -moz-background-size:35px 35px;
+  -webkit-background-size:35px 35px;
+  -o-background-size:35px 35px;
+  background-size:35px 35px;
+}
+
+.calendar-div {
+  margin-top:2px;
+}
+.btn-margin {
+  margin:0 0 2px 5px;
+}
+.search-parent {
+  float:left;
+  margin-left:10px;
+}
+.search-button-parent {
+  float:left;
+  margin-left:5px;
+  margin-right:10px;
+}
+.search-button {
+  width:60px!important;
+  padding:6px 6px!important;
+}
+.delete-all {
+  float: right;
+  margin-left: 50px;
+}
+
+

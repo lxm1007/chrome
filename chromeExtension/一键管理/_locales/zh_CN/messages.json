@@ -1,0 +1,113 @@
+{
+	"application_title" : {
+		"message" : "一键管理"
+	},
+	"application_description" : {
+		"message" : "一键开启、禁止所有应用，一键开启关闭扩展，一键直达应用，一键直达常用功能，一键能做很多...."
+	},
+	"onekeydisable" : {
+		"message" : "一键禁止所有应用"
+	},
+	"onekeyenable" : {
+		"message" : "一键还原所有应用"
+	},
+	"home" : {
+		"message" : "首页"
+	},
+	"about" : {
+		"message" : "关于"
+	},
+	"contact" : {
+		"message" : "联系我们"
+	},
+	"view_site" : {
+		"message" : "官方网站"
+	},
+	"appraise" : {
+		"message" : "五星评价"
+	},
+	"collect" : {
+		"message" : "收藏"
+	},
+	"remove_collect" : {
+		"message" : "取消收藏"
+	},
+	"run_app" : {
+		"message" : "点击"
+	},
+	"app_disable" : {
+		"message" : "禁止"
+	},
+	"app_enable" : {
+		"message" : "启用"
+	},
+	"uninstall" : {
+		"message" : "卸载"
+	},
+	"option" : {
+		"message" : "选项"
+	},
+	"cancel" : {
+		"message" : "取消"
+	},
+	"myfav" : {
+		"message" : "我的收藏"
+	},
+	"myext" : {
+		"message" : "我的扩展"
+	},
+	"mytheme" : {
+		"message" : "我的主题"
+	},
+	"myapp" : {
+		"message" : "我的应用"
+	},
+	"history" : {
+		"message" : "历史记录"
+	},
+	"extensions" : {
+		"message" : "扩展程序"
+	},
+	"newtab" : {
+		"message" : "新标签"
+	},
+	"downloads" : {
+		"message" : "下载内容"
+	},
+	"groupmanager" : {
+		"message" : "分组管理"
+	},
+	"grouporder" : {
+		"message" : "分组排序"
+	},
+	"groupname" : {
+		"message" : "分组名"
+	},
+	"managerapp" : {
+		"message" : "管理应用"
+	},
+	"groupoperation" : {
+		"message" : "分组操作"
+	},
+	"groupdelete" : {
+		"message" : "删除"
+	},
+	"groupmodify" : {
+		"message" : "修改"
+	},
+	"close" : {
+		"message" : "关闭"
+	},
+	"save" : {
+		"message" : "保存"
+	},
+	"creategroup" : {
+		"message" : "创建分组"
+	},
+	"feed" : {
+		"message" : "反馈"
+	},
+	"updatehistory" : {
+		"message" : "更新历史"
+	}
+}

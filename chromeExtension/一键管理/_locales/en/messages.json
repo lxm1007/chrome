@@ -1,0 +1,113 @@
+{
+	"application_title" : {
+		"message" : "One key Manger"
+	},
+	"application_description" : {
+		"message" : "Onekey enable/disable all apps/themes/extensions,one key enable and diable a extension,one key open a app, one key open features,onekey can do more..."
+	},
+	"onekeydisable" : {
+		"message" : "one key disable"
+	},
+	"onekeyenable" : {
+		"message" : "one key enable "
+	},
+	"home" : {
+		"message" : "Home"
+	},
+	"about" : {
+		"message" : "About"
+	},
+	"contact" : {
+		"message" : "Contact"
+	},
+	"view_site" : {
+		"message" : "web site"
+	},
+	"appraise" : {
+		"message" : "5 stars appraise"
+	},
+	"collect" : {
+		"message" : "Favorite"
+	},
+	"remove_collect" : {
+		"message" : "Remove"
+	},
+	"run_app" : {
+		"message" : "Run"
+	},
+	"app_disable" : {
+		"message" : "Diable"
+	},
+	"app_enable" : {
+		"message" : "Enable"
+	},
+	"uninstall" : {
+		"message" : "Uninstall"
+	},
+	"option" : {
+		"message" : "Option"
+	},
+	"cancel" : {
+		"message" : "Cancel"
+	},
+	"myfav" : {
+		"message" : "Favorites"
+	},
+	"myext" : {
+		"message" : "Extensions"
+	},
+	"mytheme" : {
+		"message" : "Themes"
+	},
+	"myapp" : {
+		"message" : "Apps"
+	},
+	"history" : {
+		"message" : "History"
+	},
+	"extensions" : {
+		"message" : "Extension"
+	},
+	"newtab" : {
+		"message" : "Newtab"
+	},
+	"downloads" : {
+		"message" : "Downloads"
+	},
+	"groupmanager" : {
+		"message" : "Group manager"
+	},
+	"grouporder" : {
+		"message" : "Order"
+	},
+	"groupname" : {
+		"message" : "Group name"
+	},
+	"managerapp" : {
+		"message" : "Manager apps"
+	},
+	"groupoperation" : {
+		"message" : "Group operation"
+	},
+	"groupdelete" : {
+		"message" : "Delete"
+	},
+	"groupmodify" : {
+		"message" : "Modify"
+	},
+	"close" : {
+		"message" : "Close"
+	},
+	"save" : {
+		"message" : "Save"
+	},
+	"creategroup" : {
+		"message" : "Create group"
+	},
+	"feed" : {
+		"message" : "Feed"
+	},
+	"updatehistory" : {
+		"message" : "Update history"
+	}
+}

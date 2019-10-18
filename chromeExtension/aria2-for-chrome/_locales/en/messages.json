@@ -1,0 +1,101 @@
+{
+   "appName": {
+      "message":"Aria2 for Chrome"
+   },
+   "description": {
+      "message": "Aria2 Web UI in pure HTML/CSS/Javascirpt for chrome.(forked from YAAW and imports Aria2NG UI)"
+   },
+   "contextmenuTitle":{
+      "message":"Export to "
+   },
+   "configPageTitle":{
+      "message":"Aria2 Option Page"
+   },
+   "contextmenuStr":{
+      "message":"Context Menu"
+   },
+   "contextmenuDes":{
+      "message":"Add capture item to context menu"
+   },
+   "downloadCaptureStr":{
+      "message":"Download Capture"
+   },
+   "downloadCaptureDes":{
+      "message":"Enable auto capture when download file size ≥"
+   },
+   "askBeforeDownloadDes":{
+      "message":"Ask detail settings before auto downloading"
+   },
+   "captureFinalUrlDes":{
+      "message":"Capture the final URL to exclude multi-redirect"
+   },
+   "whiteListStr":{
+      "message":"Website White-list"
+   },
+   "BlackListStr":{
+      "message":"Website Black-list"
+   },
+      "addToWhiteListStr":{
+      "message":"Current URL -> White-List"
+   },
+   "addToBlackListStr":{
+      "message":"Current URL -> Black-list"
+   },
+   "removeFromWhiteListStr":{
+      "message":"Remove from White-List"
+   },
+   "removeFromBlackListStr":{
+      "message":"Remove from Black-List"
+   },
+   "exportFailedStr":{
+      "message":"Export Failed"
+   },
+   "exportFailedDes":{
+      "message":"Could not connect to Aria2c, task export failed!"
+   },
+   "exportSucceedStr":{
+      "message":"Export Successful"
+   },
+   "exportSucceedDes":{
+      "message":"\nDownload task is beginning."
+   },
+   "placeHolderTipStr":{
+      "message":"one website per line"
+   },
+   "WebUIOpenStyleStr":{
+      "message":"AriaNG Open in"
+   },
+   "WebUIOpenStyle1":{
+      "message":"Popup window"
+   },
+   "WebUIOpenStyle2":{
+      "message":"New tab"
+   },
+   "openWebUIStr":{
+      "message":"Open AriaNG"
+   },
+   "toggleCapture":{
+      "message":"Toggle download capture"
+   },
+   "configCloudSync":{
+      "message":"Config Cloud Sync"
+   },
+   "configCloudSyncDes":{
+      "message":"Sync AriaNg and extension config to current loged-in Google account"
+   },
+   "uploadConfigWarn":{
+      "message":"Invlid or empty local config data, still continue?"
+   },
+   "uploadConfigSucceed":{
+      "message":"Upload config successful"
+   },
+   "uploadConfigFailed":{
+      "message":"Upload config failed: "
+   },
+   "downloadConfigSucceed":{
+      "message":"Download config successful"
+   },
+   "downloadConfigFailed":{
+      "message":"Download config failed: Data invalid or network disconnected "
+   }
+}

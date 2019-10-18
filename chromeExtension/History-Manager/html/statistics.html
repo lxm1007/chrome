@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<html>
+   <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Statistics</title>
+    <!-- Bootstrap core CSS -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="../css/bar.css"/>
+    
+    <link href="../imgs/icon.png" rel="Shortcut Icon">
+    
+    <script type="text/javascript" src="../lib/d3.v3.js"></script>
+    <script src="../lib/Chart.bundle.min.js"></script>
+
+   </head>
+  <body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand">History Manager</a>
+        </div>
+      </div>
+    </nav>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-3 col-md-2 sidebar">
+          <ul class="nav nav-sidebar">
+            <li><a href="history.html">History</a></li>
+            <li class="active"><a>Statistics</a></li>
+          </ul>
+          <ul class="nav nav-sidebar">
+            <li><a href="setting.html"> Settings </a></li>
+          </ul>
+        </div>
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+          <h1 class="page-header">Statistic</h1>
+          <h4> Hit Rate </h4>
+          <canvas id="canvas"></canvas>
+          <h4> Stay Time </h4>
+          <div id = "pie_div">
+          <canvas id="canvas2" height="150"></canvas>
+          </div>
+          <!--
+            hor:
+        <div id="svg"></div>
+        <br />================================<br />
+        vir:
+        <div id="vir">
+        </div>-->
+
+
+        </div>
+      </div>
+
+</body>
+          <script src="../js/functions.js"></script>
+        <script src="../js/visualization.js"></script>
+    <script src="../js/preference.js"></script>
+</html>

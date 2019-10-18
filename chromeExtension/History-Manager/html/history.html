@@ -1,0 +1,109 @@
+<!DOCTYPE HTML>
+<!-- A Simple Demo For History Extension -->
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>History</title>
+    <!-- Bootstrap core CSS -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this extension demo -->
+    <link href="../css/history.css" rel="stylesheet">
+
+    <!-- Custom styles for date picker -->
+    <link href="../css/date_picker.css" rel="stylesheet">
+    
+    <link href="../imgs/icon.png" rel="Shortcut Icon">
+	
+  </head>
+
+  <body>
+    <!-- header -->
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand">History Manager</a>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container-fluid">
+      <div class="row">
+
+        <!-- Side panel for switch between pages -->
+        <div class="col-sm-3 col-md-2 sidebar">
+          <ul class="nav nav-sidebar">
+            <li class="active"><a> History </a></li>
+            <li><a href="statistics.html">Statistics</a></li>
+          </ul>
+          <ul class="nav nav-sidebar">
+            <li><a href="setting.html"> Settings </a></li>
+          </ul>
+        </div>
+		
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+
+          <h1 class="page-header">
+            <!-- add a tag for back to top action -->
+            <a id="top"></a>
+            History items
+          </h1>
+
+          <div class = "row" style="margin-bottom:1px;">
+
+            <div class="col-md-12 search">
+
+              <span class="search-parent"><input type="text" class="form-control" placeholder="Search something..." id = "search_text" style="width: 465px;"></span>
+
+<!--               <span class="search-button-parent"><button type="submit" class = "btn btn-info search-button" id="search_button">Search </button></span> -->
+
+              <span type="button" id="calendar_icon" class="calendar_button"></span>
+
+              <button class = "btn btn-info delete-all" id="delete_all"> Delete All </button>
+
+            </div>
+
+          </div>
+
+          <div class = "row" style="margin-bottom:1px;">
+
+            <div class="col-md-12 search" style="display:none" id="calendar_div">
+              <div class="calendar-div">
+
+                <div class="search-parent"><input type="text" id="calendar-0" data-beatpicker="true" value="" class="form-control" placeholder="From..." data-beatpicker-id="date0" style="width: 195px; display: inline;"></div>
+
+                <div class="search-parent"><input type="text" id="calendar-1" data-beatpicker="true" value="" class="form-control" placeholder="To..." data-beatpicker-id="date1" style="width: 195px; display: inline;"></div>
+
+              </div>
+            </div>
+      
+          </div>
+         
+          <div id="history_panel"></div>
+          
+        </div>
+		
+        <!-- Back-To-Top button -->
+        <div class="back-to-top">
+          <!-- back to "top" tag -->
+          <!-- otherwise, the page will be reload -->
+          <a href="#top"><img style="width: 35px" src="../imgs/back_to_top.png"/></a>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Insert script -->
+    <script src="../lib/jquery-3.1.1.min.js"></script>
+    <script src="../lib/jquery-1.11.0.min.js"></script>
+    <script src="../lib/date_picker.js"></script>
+    <script src="../js/functions.js"></script>
+    <script src="../js/search.js"></script>
+    <script src="../js/group.js"></script>
+    <script src="../js/history_panel.js"></script>
+    <script src="../js/autoload.js"></script>
+    <script src="../js/add_bookmark.js"></script>
+    <script src="../js/history.js"></script>
+    
+  </body>
+</html>

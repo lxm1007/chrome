@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+  <head>
+    
+    <!-- Bootstrap core CSS -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+
+    <title>Popup page</title>
+    <link href="../css/popup.css" rel="stylesheet">
+
+    <script src="../lib/jquery-3.1.1.min.js"></script>
+
+  </head>
+
+  <body>
+
+    <!-- header -->
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a id="brand" class="navbar-brand" herf="chrome://history" style="cursor: pointer; cursor: hand;">
+            <font style="font-family: Impact, Charcoal, sans-serif;" size="6"> History </font>
+          </a>
+        </div>
+      </div>
+    </nav>
+
+    <!-- record list -->
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-12 col-md-12 main">
+          <dic id="history" class="history_block">
+          </dic>
+        </div>
+      </div>
+    </div>
+  
+    <script src="../js/time_transform.js"></script>
+    <script src="../js/functions.js"></script>
+    <script src="../js/search.js"></script>
+    <script src="../js/popup.js"></script>
+  </body>
+</html>

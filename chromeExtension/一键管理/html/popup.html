@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>一键管理-one key manager</title>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/db.js"></script>
+<script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="../js/popups.js"></script>
+<script type="text/javascript" src="../js/popup.js"></script>
+<style type="text/css">
+.thumbnail .action{display: none;}
+.thumbnail .btn-mini{padding:0 3px;}
+.thumbnails>li {margin-bottom:5px;margin-left:5px;}
+.thumbnails {margin: 0 0 0px -15px;}
+.largeicon img{width:50px;height: 50px;}
+.largeicon .label{padding:0 0;width:48px;height:14px;overflow: hidden;text-align: center;background-color: green;}
+.midicon img{width:25px;height:25px;}
+.midicon .label{display: none;}
+#modal_header_img{width:32px;height:32px;}
+#modal_header_title{display: inline;}
+#modal_body_desc{min-height: 55px;display: block;}
+#modal_body_img{height:128px;width:128px;}
+body{width: 550px;max-height: 800px;padding: 10px;}
+#modal_body_uninstall{display: none;}
+.thumbnail .diable{background-color: #999;}
+.span1{width:auto;}
+.banIcon{margin-top: 10px;padding-left: 20px;}
+
+</style>
+</head>
+<body>
+	<div id="status"></div>
+	<button id="onekeybtn" class="btn btn-primary btn-success" style="width:87%"></button>
+	&nbsp;&nbsp;
+	<i class="icon-th-large" id="change_icon_large"></i>
+	<i class="icon-th" id="chanage_icon_mid"></i>
+	<i class="icon-wrench" id="app_setting"></i>
+	<div class="accordion" id="groupAccordion">
+		<div class="accordion-group">
+			<div class="accordion-heading">
+				<div class="row">
+				  <div class="span9">
+				    <div class="row">
+				      <div class="span6">
+						<a class="accordion-toggle" data-toggle="collapse" data-parent="groupAccordion" href="#collapseOne"> 我的收藏 </a>
+					  </div>
+				      <div class="span3">
+				      	<a class="accordion-toggle"  >+</a>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			</div>
+			<div id="collapseOne" class="accordion-body collapse in">
+				<div class="accordion-inner">
+					<ul class="thumbnails">
+					  <li class="span1">
+					    <div class="thumbnail">
+					      <img src="../img/logo128.png" alt="">
+					      <span class="label" title="一键管理">一键管理</span>
+					    </div>
+					  </li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+    <div id="footerContainer">
+        <p>&copy; <a href="http://www.onekeyplugin.com/" target="_blank">Onekeyplugin-Onekeymanager</a> 2013</p>
+    </div>
+	<div id="appOperation" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	  <div class="modal-header">
+	    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+	    <h3 id="myModalLabel">
+	    	<img id="modal_header_img" src="../img/logo128.png" />
+	    	<label id="modal_header_title">一键管理</label>
+	    </h3>
+	  </div>
+	  <div class="modal-body">
+	  	<div class="row">
+		  <div class="span7">
+		    <div class="row">
+		      <div class="span2">
+		      	<img id="modal_body_img" src="../img/logo128.png" />
+			  </div>
+		      <div class="span5">
+		      	<input type="hidden" id="modal_app_id" />
+		      	<h4 id="modal_body_name">一键管理</h4>
+		      	<span id="modal_body_desc">一键管理一键管理一键管理一键管理一键管理一键管理一键管理</span>
+				<div id="modal_body_btns">
+			    <button class="btn btn-primary">启动</button>
+			    <button class="btn btn-primary">禁止</button>
+			    <button class="btn btn-primary">卸载</button>
+			    <button class="btn btn-primary">隐藏图标</button>
+			    <button class="btn btn-primary">选项</button>
+			    </div>
+			    <div id="modal_body_uninstall">
+			    <button class="btn btn-primary btn-warning" id="uninstall-real">卸载</button>
+			    <button class="btn btn-primary btn-success" id="uninstall-cancel">取消</button>
+			    </div>
+		      </div>
+		    </div>
+		  </div>
+		</div>
+	  </div>
+	  <div class="modal-footer">
+	    <button class="btn" data-dismiss="modal" aria-hidden="true">关闭</button>
+	  </div>
+	</div>
+	<div id="initDialog" class="modal hide fade">
+	  <div class="modal-header">
+	    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+	    <h3>友情提示</h3>
+	  </div>
+	  <div class="modal-body">
+	    <p>正在初始化数据...</p>
+	  </div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<link href="/html/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<style type="text/css">
+.chzn-container{font-size:13px;position:relative;display:inline-block;zoom:1;*display:inline}.chzn-container .chzn-drop{background:#fff;border:1px solid #aaa;border-top:0;position:absolute;top:29px;left:0;-webkit-box-shadow:0 4px 5px rgba(0,0,0,.15);-moz-box-shadow:0 4px 5px rgba(0,0,0,.15);box-shadow:0 4px 5px rgba(0,0,0,.15);z-index:1010}.chzn-container-single .chzn-single{background-color:#fff;filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff',endColorstr='#eee',GradientType=0 );background-image:-webkit-gradient(linear,0 0,0 100%,color-stop(20%,#fff),color-stop(50%,#f6f6f6),color-stop(52%,#eee),color-stop(100%,#f4f4f4));background-image:-webkit-linear-gradient(top,#fff 20%,#f6f6f6 50%,#eee 52%,#f4f4f4 100%);background-image:-moz-linear-gradient(top,#fff 20%,#f6f6f6 50%,#eee 52%,#f4f4f4 100%);background-image:-o-linear-gradient(top,#fff 20%,#f6f6f6 50%,#eee 52%,#f4f4f4 100%);background-image:linear-gradient(#fff 20%,#f6f6f6 50%,#eee 52%,#f4f4f4 100%);-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;-moz-background-clip:padding;-webkit-background-clip:padding-box;background-clip:padding-box;border:1px solid #aaa;-webkit-box-shadow:0 0 3px #fff inset,0 1px 1px rgba(0,0,0,0.1);-moz-box-shadow:0 0 3px #fff inset,0 1px 1px rgba(0,0,0,0.1);box-shadow:0 0 3px #fff inset,0 1px 1px rgba(0,0,0,0.1);display:block;overflow:hidden;white-space:nowrap;position:relative;height:23px;line-height:24px;padding:0 0 0 8px;color:#444;text-decoration:none}.chzn-container-single .chzn-default{color:#999}.chzn-container-single .chzn-single span{margin-right:26px;display:block;overflow:hidden;white-space:nowrap;-o-text-overflow:ellipsis;-ms-text-overflow:ellipsis;text-overflow:ellipsis}.chzn-container-single .chzn-single abbr{display:block;position:absolute;right:26px;top:6px;width:12px;height:12px;font-size:1px;background:url('../img/chosen-sprite.png') -42px 1px no-repeat}.chzn-container-single .chzn-single abbr:hover{background-position:-42px -10px}.chzn-container-single.chzn-disabled .chzn-single abbr:hover{background-position:-42px -10px}.chzn-container-single .chzn-single div{position:absolute;right:0;top:0;display:block;height:100%;width:18px}.chzn-container-single .chzn-single div b{background:url('../img/chosen-sprite.png') no-repeat 0px 2px;display:block;width:100%;height:100%}.chzn-container-single .chzn-search{padding:3px 4px;position:relative;margin:0;white-space:nowrap;z-index:1010}.chzn-container-single .chzn-search input{background:#fff url('../img/chosen-sprite.png') no-repeat 100% -20px;background:url('../img/chosen-sprite.png') no-repeat 100% -20px,-webkit-gradient(linear,0 0,0 100%,color-stop(1%,#eee),color-stop(15%,#fff));background:url('../img/chosen-sprite.png') no-repeat 100% -20px,-webkit-linear-gradient(top,#eee 1%,#fff 15%);background:url('../img/chosen-sprite.png') no-repeat 100% -20px,-moz-linear-gradient(top,#eee 1%,#fff 15%);background:url('../img/chosen-sprite.png') no-repeat 100% -20px,-o-linear-gradient(top,#eee 1%,#fff 15%);background:url('../img/chosen-sprite.png') no-repeat 100% -20px,linear-gradient(#eee 1%,#fff 15%);margin:1px 0;padding:4px 20px 4px 5px;outline:0;border:1px solid #aaa;font-family:sans-serif;font-size:1em}.chzn-container-single .chzn-drop{-webkit-border-radius:0 0 4px 4px;-moz-border-radius:0 0 4px 4px;border-radius:0 0 4px 4px;-moz-background-clip:padding;-webkit-background-clip:padding-box;background-clip:padding-box}.chzn-container-single-nosearch .chzn-search input{position:absolute;left:-9000px}.chzn-container-multi .chzn-choices{background-color:#fff;background-image:-webkit-gradient(linear,0 0,0 100%,color-stop(1%,#eee),color-stop(15%,#fff));background-image:-webkit-linear-gradient(top,#eee 1%,#fff 15%);background-image:-moz-linear-gradient(top,#eee 1%,#fff 15%);background-image:-o-linear-gradient(top,#eee 1%,#fff 15%);background-image:linear-gradient(#eee 1%,#fff 15%);border:1px solid #aaa;margin:0;padding:0;cursor:text;overflow:hidden;height:auto !important;height:1%;position:relative}.chzn-container-multi .chzn-choices li{float:left;list-style:none}.chzn-container-multi .chzn-choices .search-field{white-space:nowrap;margin:0;padding:0}.chzn-container-multi .chzn-choices .search-field input{color:#666;background:transparent !important;border:0 !important;font-family:sans-serif;font-size:100%;height:15px;padding:5px;margin:1px 0;outline:0;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none}.chzn-container-multi .chzn-choices .search-field .default{color:#999}.chzn-container-multi .chzn-choices .search-choice{-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;-moz-background-clip:padding;-webkit-background-clip:padding-box;background-clip:padding-box;background-color:#e4e4e4;filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4f4f4',endColorstr='#eee',GradientType=0 );background-image:-webkit-gradient(linear,0 0,0 100%,color-stop(20%,#f4f4f4),color-stop(50%,#f0f0f0),color-stop(52%,#e8e8e8),color-stop(100%,#eee));background-image:-webkit-linear-gradient(top,#f4f4f4 20%,#f0f0f0 50%,#e8e8e8 52%,#eee 100%);background-image:-moz-linear-gradient(top,#f4f4f4 20%,#f0f0f0 50%,#e8e8e8 52%,#eee 100%);background-image:-o-linear-gradient(top,#f4f4f4 20%,#f0f0f0 50%,#e8e8e8 52%,#eee 100%);background-image:linear-gradient(#f4f4f4 20%,#f0f0f0 50%,#e8e8e8 52%,#eee 100%);-webkit-box-shadow:0 0 2px #fff inset,0 1px 0 rgba(0,0,0,0.05);-moz-box-shadow:0 0 2px #fff inset,0 1px 0 rgba(0,0,0,0.05);box-shadow:0 0 2px #fff inset,0 1px 0 rgba(0,0,0,0.05);color:#333;border:1px solid #aaa;line-height:13px;padding:3px 20px 3px 5px;margin:3px 0 3px 5px;position:relative;cursor:default}.chzn-container-multi .chzn-choices .search-choice.search-choice-disabled{background-color:#e4e4e4;filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4f4f4',endColorstr='#eee',GradientType=0 );background-image:-webkit-gradient(linear,0% 0%,0% 100%,color-stop(20%,#f4f4f4),color-stop(50%,#f0f0f0),color-stop(52%,#e8e8e8),color-stop(100%,#eee));background-image:-webkit-linear-gradient(top,#f4f4f4 20%,#f0f0f0 50%,#e8e8e8 52%,#eee 100%);background-image:-moz-linear-gradient(top,#f4f4f4 20%,#f0f0f0 50%,#e8e8e8 52%,#eee 100%);background-image:-o-linear-gradient(top,#f4f4f4 20%,#f0f0f0 50%,#e8e8e8 52%,#eee 100%);background-image:-ms-linear-gradient(top,#f4f4f4 20%,#f0f0f0 50%,#e8e8e8 52%,#eee 100%);background-image:linear-gradient(top,#f4f4f4 20%,#f0f0f0 50%,#e8e8e8 52%,#eee 100%);color:#666;border:1px solid #ccc;padding-right:5px}.chzn-container-multi .chzn-choices .search-choice-focus{background:#d4d4d4}.chzn-container-multi .chzn-choices .search-choice .search-choice-close{display:block;position:absolute;right:3px;top:4px;width:12px;height:12px;font-size:1px;background:url('../img/chosen-sprite.png') -42px 1px no-repeat}.chzn-container-multi .chzn-choices .search-choice .search-choice-close:hover{background-position:-42px -10px}.chzn-container-multi .chzn-choices .search-choice-focus .search-choice-close{background-position:-42px -10px}.chzn-container .chzn-results{margin:0 4px 4px 0;max-height:240px;padding:0 0 0 4px;position:relative;overflow-x:hidden;overflow-y:auto;-webkit-overflow-scrolling:touch}.chzn-container-multi .chzn-results{margin:-1px 0 0;padding:0}.chzn-container .chzn-results li{display:none;line-height:15px;padding:5px 6px;margin:0;list-style:none}.chzn-container .chzn-results .active-result{cursor:pointer;display:list-item}.chzn-container .chzn-results .highlighted{background-color:#3875d7;filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#3875d7',endColorstr='#2a62bc',GradientType=0 );background-image:-webkit-gradient(linear,0 0,0 100%,color-stop(20%,#3875d7),color-stop(90%,#2a62bc));background-image:-webkit-linear-gradient(top,#3875d7 20%,#2a62bc 90%);background-image:-moz-linear-gradient(top,#3875d7 20%,#2a62bc 90%);background-image:-o-linear-gradient(top,#3875d7 20%,#2a62bc 90%);background-image:linear-gradient(#3875d7 20%,#2a62bc 90%);color:#fff}.chzn-container .chzn-results li em{background:#feffde;font-style:normal}.chzn-container .chzn-results .highlighted em{background:transparent}.chzn-container .chzn-results .no-results{background:#f4f4f4;display:list-item}.chzn-container .chzn-results .group-result{cursor:default;color:#999;font-weight:bold}.chzn-container .chzn-results .group-option{padding-left:15px}.chzn-container-multi .chzn-drop .result-selected{display:none}.chzn-container .chzn-results-scroll{background:white;margin:0 4px;position:absolute;text-align:center;width:321px;z-index:1}.chzn-container .chzn-results-scroll span{display:inline-block;height:17px;text-indent:-5000px;width:9px}.chzn-container .chzn-results-scroll-down{bottom:0}.chzn-container .chzn-results-scroll-down span{background:url('../img/chosen-sprite.png') no-repeat -4px -3px}.chzn-container .chzn-results-scroll-up span{background:url('../img/chosen-sprite.png') no-repeat -22px -3px}.chzn-container-active .chzn-single{-webkit-box-shadow:0 0 5px rgba(0,0,0,.3);-moz-box-shadow:0 0 5px rgba(0,0,0,.3);box-shadow:0 0 5px rgba(0,0,0,.3);border:1px solid #5897fb}.chzn-container-active .chzn-single-with-drop{border:1px solid #aaa;-webkit-box-shadow:0 1px 0 #fff inset;-moz-box-shadow:0 1px 0 #fff inset;box-shadow:0 1px 0 #fff inset;background-color:#eee;filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#eee',endColorstr='#fff',GradientType=0 );background-image:-webkit-gradient(linear,0 0,0 100%,color-stop(20%,#eee),color-stop(80%,#fff));background-image:-webkit-linear-gradient(top,#eee 20%,#fff 80%);background-image:-moz-linear-gradient(top,#eee 20%,#fff 80%);background-image:-o-linear-gradient(top,#eee 20%,#fff 80%);background-image:linear-gradient(#eee 20%,#fff 80%);-webkit-border-bottom-left-radius:0;-webkit-border-bottom-right-radius:0;-moz-border-radius-bottomleft:0;-moz-border-radius-bottomright:0;border-bottom-left-radius:0;border-bottom-right-radius:0}.chzn-container-active .chzn-single-with-drop div{background:transparent;border-left:none}.chzn-container-active .chzn-single-with-drop div b{background-position:-18px 2px}.chzn-container-active .chzn-choices{-webkit-box-shadow:0 0 5px rgba(0,0,0,.3);-moz-box-shadow:0 0 5px rgba(0,0,0,.3);box-shadow:0 0 5px rgba(0,0,0,.3);border:1px solid #5897fb}.chzn-container-active .chzn-choices .search-field input{color:#111 !important}.chzn-disabled{cursor:default;opacity:0.5 !important}.chzn-disabled .chzn-single{cursor:default}.chzn-disabled .chzn-choices .search-choice .search-choice-close{cursor:default}.chzn-rtl{text-align:right}.chzn-rtl .chzn-single{padding:0 8px 0 0;overflow:visible}.chzn-rtl .chzn-single span{margin-left:26px;margin-right:0;direction:rtl}.chzn-rtl .chzn-single div{left:3px;right:auto}.chzn-rtl .chzn-single abbr{left:26px;right:auto}.chzn-rtl .chzn-choices .search-field input{direction:rtl}.chzn-rtl .chzn-choices li{float:right}.chzn-rtl .chzn-choices .search-choice{padding:3px 5px 3px 19px;margin:3px 5px 3px 0}.chzn-rtl .chzn-choices .search-choice .search-choice-close{left:4px;right:auto}.chzn-rtl.chzn-container-single .chzn-results{margin:0 0 4px 4px;padding:0 4px 0 0}.chzn-rtl .chzn-results .group-option{padding-left:0;padding-right:15px}.chzn-rtl.chzn-container-active .chzn-single-with-drop div{border-right:none}.chzn-rtl .chzn-search input{background:#fff url('../img/chosen-sprite.png') no-repeat -30px -20px;background:url('../img/chosen-sprite.png') no-repeat -30px -20px,-webkit-gradient(linear,0 0,0 100%,color-stop(1%,#eee),color-stop(15%,#fff));background:url('../img/chosen-sprite.png') no-repeat -30px -20px,-webkit-linear-gradient(top,#eee 1%,#fff 15%);background:url('../img/chosen-sprite.png') no-repeat -30px -20px,-moz-linear-gradient(top,#eee 1%,#fff 15%);background:url('../img/chosen-sprite.png') no-repeat -30px -20px,-o-linear-gradient(top,#eee 1%,#fff 15%);background:url('../img/chosen-sprite.png') no-repeat -30px -20px,linear-gradient(#eee 1%,#fff 15%);padding:4px 5px 4px 20px;direction:rtl}.chzn-container-single.chzn-rtl .chzn-single div b{background-position:6px 2px}.chzn-container-single.chzn-rtl .chzn-single-with-drop div b{background-position:-12px 2px}@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min-resolution:144dpi){.chzn-rtl .chzn-search input,.chzn-container-single .chzn-single abbr,.chzn-container-single .chzn-single div b,.chzn-container-single .chzn-search input,.chzn-container-multi .chzn-choices .search-choice .search-choice-close,.chzn-container .chzn-results-scroll-down span,.chzn-container .chzn-results-scroll-up span{background-image:url('../img/chosen-sprite@2x.png') !important;background-repeat:no-repeat !important;background-size:52px 37px !important}}.search-field{height:28px}
+</style>
+<style type="text/css">
+footer{text-align:center;margin-top:70px;border-top:1px solid #e5e5e5;background-color:#f5f5f5;padding-top:20px;padding-bottom:20px}header{margin-top:50px;text-align:center}body{position:relative;padding-top:40px;min-width:1000px background-color:#ebeff9}.page-header{padding-bottom:9px;margin:20px 0 30px;border-bottom:1px solid rgb(127,144,173)}section{padding-top:30px}section > .page-header,section > .lead{color:#5a5a5a}section > ul li{margin-bottom:5px}.bs-docs-separator{margin:40px 0 39px}.bs-docs-sidenav{width:228px;margin:30px 0 0;padding:0;background-color:#fff;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;-webkit-box-shadow:0 1px 4px rgba(0,0,0,.065);-moz-box-shadow:0 1px 4px rgba(0,0,0,.065);box-shadow:0 1px 4px rgba(0,0,0,.065)}.bs-docs-sidenav > li > a{display:block;width:190px \9;margin:0 0 -1px;padding:8px 14px;border:1px solid #e5e5e5}.bs-docs-sidenav > li:first-child > a{-webkit-border-radius:6px 6px 0 0;-moz-border-radius:6px 6px 0 0;border-radius:6px 6px 0 0}.bs-docs-sidenav > li:last-child > a{-webkit-border-radius:0 0 6px 6px;-moz-border-radius:0 0 6px 6px;border-radius:0 0 6px 6px}.bs-docs-sidenav > .active > a{position:relative;z-index:2;padding:9px 15px;border:0;text-shadow:0 1px 0 rgba(0,0,0,.15);-webkit-box-shadow:inset 1px 0 0 rgba(0,0,0,.1),inset -1px 0 0 rgba(0,0,0,.1);-moz-box-shadow:inset 1px 0 0 rgba(0,0,0,.1),inset -1px 0 0 rgba(0,0,0,.1);box-shadow:inset 1px 0 0 rgba(0,0,0,.1),inset -1px 0 0 rgba(0,0,0,.1)}.bs-docs-sidenav .icon-chevron-right{float:right;margin-top:2px;margin-right:-6px;opacity:.25}.bs-docs-sidenav > li > a:hover{background-color:#f5f5f5}.bs-docs-sidenav a:hover .icon-chevron-right{opacity:.5}.bs-docs-sidenav .active .icon-chevron-right,.bs-docs-sidenav .active a:hover .icon-chevron-right{background-image:url(../img/glyphicons-halflings-white.png);opacity:1}.bs-docs-sidenav.affix{top:40px}.bs-docs-sidenav.affix-bottom{position:absolute;top:auto;bottom:270px}.gd{line-height:13px;padding:3px 20px 3px 5px;margin:3px 0 3px 5px}.sns{margin:0 0 0 0;top:490px}.bds{background:url(http://bdimg.share.baidu.com/static/images/is.png?cdnversion=20121228) no-repeat;height:16px;cursor:pointer;padding-top:6px;padding-bottom:3px;padding-left:22px;margin-right:5px;display:block}.bds_tsina{background-position:0 -115px!important}
+.span1 img{width:50px;height: 50px;}
+.span1 .label{padding:0 0;width:48px;height:14px;overflow: hidden;text-align: center;}
+</style>
+</head>
+<body data-spy="scroll" data-target=".bs-docs-sidebar">
+<div id="main-container">
+	<header id="overview">
+		<div class="container">
+			<h1>
+				<img align="bottom" src="/img/logo128.png"  style="width:48px;height:48px;" /> <span id="name">{{application_title}}</span>
+			</h1>
+		</div>
+	</header>
+	<div class="container">
+		<div class="row">
+			<div class="span3 bs-docs-sidebar">
+				<ul class="nav nav-list bs-docs-sidenav affix">
+					<li><a href="#group_manager" id="a_page"> <i
+							class="icon-tasks"></i> <i class="icon-chevron-right"></i><span
+							class="i_page">{{groupmanager}}</span>
+					</a></li>
+					<li><a href="#updatehistory" id="a_txt"><i class="icon-refresh"></i><span
+							class="i_txt">{{updatehistory}}</span>
+					</a></li>
+					<li><a href="#about" id="a_txt"><i class="icon-user"></i><span
+							class="i_txt">{{about}}</span>
+					</a></li>
+					<li><a href="#feedback" id="a_txt"><i class="icon-comment"></i><span
+							class="i_txt">{{feed}}</span>
+					</a></li>
+					
+				</ul>
+			</div>
+			<div class="span9">
+				<section id="group_manager">
+					<div class="page-header">
+						<h2>
+							<span class="i_page">{{groupmanager}}</span> <small></small>
+						</h2>
+					</div>
+					<table  id="group_manager_table" class="table table-bordered table-hover">
+		              <thead>
+		                <tr>
+		                  <th>{{grouporder}}</th>
+		                  <th>{{groupname}}</th>
+		                  <th>{{managerapp}}</th>
+		                  <th>{{groupoperation}}</th>
+		                </tr>
+		              </thead>
+		              <tbody id="group_manager_table_body">
+		                <tr>
+		                  <td>1</td>
+		                  <td>Mark</td>
+		                  <td>Otto</td>
+		                  <td>@mdo</td>
+		                </tr>
+		                <tr>
+		                  <td>2</td>
+		                  <td>Jacob</td>
+		                  <td>Thornton</td>
+		                  <td>@fat</td>
+		                </tr>
+		              </tbody>
+		            </table>
+		            <button class="btn btn-large" id="createGroup" type="button">创建分组</button>
+		            <div id="create_group_dialog" class="modal hide fade">
+					  <div class="modal-header">
+					    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					    <h3>{{creategroup}}</h3>
+					  </div>
+					  <div class="modal-body">
+						<form class="form-horizontal">
+						  <div class="control-group">
+						    <label class="control-label" for="inputGroupName">{{groupname}}</label>
+						    <div class="controls">
+						      <input type="text" id="inputGroupName" required placeholder="{{groupname}}">
+						    </div>
+						  </div>
+						  <div class="control-group">
+						    <label class="control-label" for="inputGorupOrder">{{grouporder}}</label>
+						    <div class="controls">
+						      <input type="number" id="inputGorupOrder" required placeholder="{{grouporder}}">
+						    </div>
+						  </div>
+						</form>
+					  </div>
+					  <div class="modal-footer">
+					    <a href="#" class="btn" data-dismiss="modal">{{close}}</a>
+					    <a href="#" class="btn btn-primary" updateId="" id="createGroupSave">{{save}}</a>
+					  </div>
+					</div>
+					<div id="managerapp_group_dialog" class="modal hide fade">
+					  <div class="modal-header">
+					    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					    <h3>{{managerapp}}</h3>
+					  </div>
+					  <div class="modal-body">
+					  	<div class="alert alert-info">
+					  		<button type="button" class="close" data-dismiss="alert">&times;</button>
+						已经收藏的高亮显示<br/>
+						单击添加/移除收藏
+						</div>
+						<ul class="thumbnails" id="show_all_apps_ul">
+						  <li class="span1">
+						    <div class="thumbnail">
+						      <img src="../img/logo128.png" alt="">
+						      <span class="label" title="一键管理">一键管理</span>
+						    </div>
+						  </li>
+						</ul>
+					  </div>
+					  <div class="modal-footer">
+					    <a href="#" class="btn" data-dismiss="modal">{{close}}</a>
+					  </div>
+					</div>
+				</section>
+				<section id="updatehistory">
+					<div class="page-header">
+						<h2>
+							<span class="i_page">{{updatehistory}}</span> <small></small>
+						</h2>
+					</div>
+					v2.0.0<br/>
+					&nbsp;&nbsp;&nbsp;&nbsp;添加分组管理应用功能<br/>
+					&nbsp;&nbsp;&nbsp;&nbsp;修复文字居中显示(感谢chrome吧8qwe24657913)<br/>	
+					&nbsp;&nbsp;&nbsp;&nbsp;2种显示图标的风格<br/>	
+					&nbsp;&nbsp;&nbsp;&nbsp;双击直接删除应用<br/>	
+					&nbsp;&nbsp;&nbsp;&nbsp;颜色上区分已禁止应用和logo是灰色应用<br/>	
+					&nbsp;&nbsp;&nbsp;&nbsp;更换扩展图标为官方图标<br/>	
+					v1.2.0&v1.3.1 修复无法打开“打包应用”，修复第一次启动要点击2次，感谢chrome吧：h573980998<br/>
+				</section>
+				<section id="about">
+					<div class="page-header">
+						<h2>
+							<span class="i_page">{{about}}</span> <small></small>
+						</h2>
+					</div>
+					一键开启、禁止所有应用，一键开启关闭扩展，一键直达应用，一键直达常用功能，一键能做很多....<br/>
+					一键开启、禁止所有应用<br/>
+					一键开启关闭扩展<br/>
+					一键直达应用<br/>
+					一键直达常用功能<br/>
+					一键还能做很多....<br/>
+					一键开启、关闭所有应用：<br/>
+					包括您的扩展、应用、主题，这些都可以一键关闭，让您的浏览健步如飞、身轻如燕。<br/>
+					<br/>
+					一键开启关闭扩展：<br/>
+					鼠标左键点击一个扩展就可以开启和关闭一个扩展，省的让您打开扩展程序，从众多应用找到您要禁用的扩展。<br/>
+					<br/>
+					一键直达应用：<br/>
+					鼠标左键点击一个应用时，就可以直接达到这个应用，省的让您新建一个tab，在从众多app中找到您要的app。<br/>
+					<br/>
+					一键直达常用功能：<br/>
+					一键可以打开下载内容、扩展程序、历史记录、新建标签，在也不需要一步一步的点击菜单、点击菜单、、、<br/>
+					<br/>
+					一键还能做更多：<br/>
+					1 当您把您的书签拖拽到new tab（新建的标签页）中，就可以在一键管理中直达此书签，并且可以收藏常用的书签，让你的书签更好用、好用。<br/>
+					2 右键点击浏览器上的扩展，选择隐藏按钮，把按钮都可以隐藏掉，即使这样你还是可以通过一键管理来快速找到和打开您的扩展，并使您的浏览器整洁干净。<br/>
+					3 一键管理可以做的更多，欢迎分享您的秘诀<br/>
+					<br/>
+					可以访问一键管理官方网站，http://www.onekeyplugin.com/，提出您的意见和需求，您的满意是我们最大的动力。<br/> 
+				</section>
+				<section id="feedback">
+					<div class="page-header">
+						<h2>
+							<span class="i_page">{{feed}}</span> <small></small>
+						</h2>
+					</div>
+					<div>
+					<a class="btn btn-large btn-success" target="_blank" href="https://chrome.google.com/webstore/detail/kfjmkgngkgpgjdoealkmmajmmhpnffoj/">chrome商店反馈</a>
+					<a class="btn btn-large btn-success" target="_blank" href="http://www.onekeyplugin.com/manager/feed.html">{{application_title}}{{view_site}}</a>
+					</div>
+				</section>
+			</div>
+		</div>
+	</div>
+	<footer>
+		<div class="container">
+			<p>
+				<a id="a_store"
+					href="https://chrome.google.com/webstore/detail/kfjmkgngkgpgjdoealkmmajmmhpnffoj/"
+					target="_blank">Chrome Web Store</a>
+			</p>
+			<p>
+				© <a id="a_oldbean" href="http://www.onekeyplugin.com/manager/" target="_blank">onekeyplugin.com</a>
+				2013
+			</p>
+		</div>
+	</footer>
+</div>
+</body>
+<script src="/js/jquery.js"></script>
+<script src="/html/bootstrap/js/bootstrap.min.js"></script>
+<script src="/js/mustache.js"></script>
+<script src="/js/option.js"></script>
+<script src="/js/db.js"></script>
+</html>

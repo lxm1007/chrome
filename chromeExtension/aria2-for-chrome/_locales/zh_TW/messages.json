@@ -1,0 +1,101 @@
+{
+   "appName": {
+      "message":"Aria2 for Chrome"
+   },
+   "description": {
+      "message":"Aria2 Web UI 支持手動添加和自動攔截下載工作到Aria2。（分叉自YAAW）"
+   },
+   "contextmenuTitle":{
+      "message":"匯出到 "
+   },
+   "configPageTitle":{
+      "message":"Aria2 選項配置頁面"
+   },
+   "contextmenuStr":{
+      "message":"右鍵菜單"
+   },
+   "contextmenuDes":{
+      "message":"啟用右鍵菜單匯出項"
+   },
+   "downloadCaptureStr":{
+      "message":"下載攔截"
+   },
+   "downloadCaptureDes":{
+      "message":"自動攔截下載工作到Aria2c，當檔案大小 ≥"
+   },
+   "askBeforeDownloadDes":{
+      "message":"自動下載前詢問詳細設定（無法附帶Cookies資訊）"
+   },
+   "captureFinalUrlDes":{
+      "message":"攔截最終下載位址 （排除多重跳轉導致下載不正常的狀況）"
+   },
+   "whiteListStr":{
+      "message":"網站白名單"
+   },
+   "BlackListStr":{
+      "message":"網站黑名單"
+   },
+   "addToWhiteListStr":{
+      "message":"當前網站->白名單"
+   },
+   "addToBlackListStr":{
+      "message":"當前網站->黑名單"
+   },
+   "removeFromWhiteListStr":{
+      "message":"移出白名單"
+   },
+   "removeFromBlackListStr":{
+      "message":"移出黑名單"
+   },
+   "exportFailedStr":{
+      "message":"匯出失敗"
+   },
+   "exportFailedDes":{
+      "message":"\n無法連接到Aria2c，匯出下載工作失敗!"
+   },
+   "exportSucceedStr":{
+      "message":"匯出成功"
+   },
+   "exportSucceedDes":{
+      "message":"\nAria2已經開始下載工作。"
+   },
+   "placeHolderTipStr":{
+      "message":"每行一個網址"
+   },
+   "WebUIOpenStyleStr":{
+      "message":"AriaNG打開樣式"
+   },
+   "WebUIOpenStyle1":{
+      "message":"彈窗"
+   },
+   "WebUIOpenStyle2":{
+      "message":"新分頁"
+   },
+   "openWebUIStr":{
+      "message":"打開AriaNG"
+   },
+   "toggleCapture":{
+      "message":"開關下載自動攔截"
+   },
+   "configCloudSync":{
+      "message":"配寘雲端同步"
+   },
+   "configCloudSyncDes":{
+      "message":"同步AriaNG和擴展配寘到當前登入的Google帳號"
+   },
+   "uploadConfigWarn":{
+      "message":"本地配寘為空或無效，仍然繼續？"
+   },
+   "uploadConfigSucceed":{
+      "message":"上傳配寘成功"
+   },
+   "uploadConfigFailed":{
+      "message":"上傳配寘失敗: "
+   },
+   "downloadConfigSucceed":{
+      "message":"下載配寘成功"
+   },
+   "downloadConfigFailed":{
+      "message":"下載配寘失敗：雲端數據無效或無網絡連接"
+   }
+}
